@@ -1,6 +1,7 @@
 # Overview
 TechPay needs to get the actual Usage value in order to generate invoice for billing purposes. Hence, TechPay needs to call each indivual `Products`' usage API endpoints to get the daily/monthly usage for a particular `Project` and a particular `Item`. 
 P.S. Check out [Domain Terms](domain_terms.md) for more information about domain information.
+Link to [TechPay Usage Demo API OpenAPI Documentation](https://stg.docs.developer.gov.sg/docs/private/341123320/techpay-usage-demp-api/)
 
 ## Requirements
 ### Functional Requirements
