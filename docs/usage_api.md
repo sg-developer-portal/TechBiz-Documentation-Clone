@@ -46,6 +46,7 @@ Product-->>TechPay: 8. Return Usage Data API Response
 
 ### Networking with AWS VPC
 ```mermaid
+sequenceDiagram
 Product->>Product: 1. Setup NLB and Endpoint Service
 Product->>TechPay: 2. Pass the service name from Endpoint Service to TechPay
 TechPay->>TechPay: 3. Create a new Endpoint with the service name given
