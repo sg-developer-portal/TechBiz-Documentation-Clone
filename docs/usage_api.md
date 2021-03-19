@@ -71,7 +71,7 @@ TechPay will be calling each `Product`'s Usage API from AWS Lambda. This require
 ## Expose Usage API
 Visit [HERE](https://stg.docs.developer.gov.sg/docs/private/341123320/techpay-usage-demp-api/) for Swagger API.
 The usage data response will be in days even if the request is for a month. For example, requesting `from: 01-12-2020`, `to: 31-12-2020`, the response will be: 
-```json
+```js
 {
     "data": [
         {
