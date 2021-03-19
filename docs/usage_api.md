@@ -69,6 +69,36 @@ TechPay will perform Step 1, to register, upload public certificate and setup th
 TechPay will be calling each `Product`'s Usage API from AWS Lambda. This requires Lambda to configure access to the private VPC
 
 ## Expose Usage API
+Visit [HERE](https://stg.docs.developer.gov.sg/docs/private/341123320/techpay-usage-demp-api/) for Swagger API.
+The usage data response will be in days even if the request is for a month. For example, requesting `from: 01-12-2020`, `to: 31-12-2020`, the response will be: 
+```json
+{
+    "data": [
+        {
+            "start": "01-12-2020",
+            "end": "01-12-2020",
+            "usage": 1,
+        },
+        {
+            "start": "02-12-2020",
+            "end": "02-12-2020",
+            "usage": 1,
+        },
+        {
+            "start": "03-12-2020",
+            "end": "03-12-2020",
+            "usage": 2,
+        },
+        // .... usage here is the NET usage on that day
+        {
+            "start": "31-12-2020",
+            "end": "31-12-2020",
+            "usage": 8,
+        }
+        // On the last day, the usage is 8, means the whole month usaged 8 units
+    ]
+}
+```
 ## How to validate Access Token
 Access Token will be passed in the request header
 `-H  "Authorization: Bearer SLDKFJSDFI"...`
