@@ -95,7 +95,7 @@ The usage data response will be in days even if the request is for a month. For 
             "end": "31-12-2020",
             "usage": 8,
         }
-        // On the last day, the usage is 8, means the whole month usaged 8 units
+        // On the last day, the usage is 8, means the whole month usaged 1 + 1 + 2 + ... + 8 units
     ]
 }
 ```
