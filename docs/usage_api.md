@@ -27,8 +27,8 @@ TechPay->>TechPass AAD: 1.3 Add API Permision
 Note right of TechPay: Establish client credential flow
 TechPay->>TechPay: 2.1 Form Assertion (JWT)
 TechPay->>TechPay: 2.2 Sign by Private key
-TechPay->>TechPass AAD: 2.3 Using this Assertion and request for JWT Access Token
-TechPass AAD-->> TechPay: 3. Return a JWT Access Token
+TechPay->>TechPass AAD: 3.1 Using this Assertion and request for JWT Access Token
+TechPass AAD-->> TechPay: 3.2 Return a JWT Access Token
 TechPay->>Product: 4. Pass JWT Access Token through API Header
 Product->>Product: 5.1 Decoding JWT Access Token
 Product->>TechPass AAD: 5.2 Call JWKS to get public signing keys
@@ -36,6 +36,8 @@ TechPass AAD-->>Product: 6 Return the list of rotated keys
 Product->>Product: 7 Validate all necessary data*
 Product-->>TechPay: 8. Return Usage Data API Response
 ```
+* [Step 2.1](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-certificate-credentials)
+* [Step 3](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow#second-case-access-token-request-with-a-certificate)
 ### *: Validate all neccessary data:
 1. Audience (App Id URI) matches
 2. App ID matches
