@@ -110,17 +110,51 @@ The usage data response will be in days even if the request is for a month. For 
             "end": "03-12-2020",
             "usage": 2,
         },
-        // .... usage here is the NET usage on that day
+        // .... ommited days in-between
         {
             "start": "31-12-2020",
             "end": "31-12-2020",
             "usage": 8,
         }
-        // On the last day, the usage is 8, means the whole month usaged 1 + 1 + 2 + ... + 8 units
     ],
     "total": 31
 }
 ```
+
+## Different type of usage in Usage API
+
+There will be 3 types of usages which is configured at `item` level
+
+1. SUM Usages
+   This means the usage response represents the _absolute_ usage on the day. The billing calculation will aggregate the usages for the billing period. For instance:
+   On day 1 the user consumed 1 SMS, the usage will be 1, and
+   | Nth Day | Consumed |
+   | ----------- | ----------- |
+   | 1 | 3 unit |
+   | 2 | 5 units |
+   | 3 | 8 units|
+
+   The Usage will be 3 + 5 + 8 = 16 units consumed and the invoice will be calculated based on this value
+
+2. MAX Usages
+   This means the usage response represents the state of the system (usage) on the day. For instance:
+   | Nth Day | Consumed |
+   | ----------- | ----------- |
+   | 1 | 3 unit |
+   | 2 | 8 units |
+   | 3 | 5 units|
+
+   The Usage value will be 8 units in this case
+
+3. LAST_STATE Usages
+   This means the usage response represents the state of the system (usage) on the day. For instance:
+   | Nth Day | Consumed |
+   | ----------- | ----------- |
+   | 1 | 3 unit |
+   | 2 | 8 units |
+   | 3 | 5 units|
+
+   The Usage value will be 5 units in this case as it is the latest state in the system on the last day.
 
 ## Usage API Validation
 
