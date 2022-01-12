@@ -125,6 +125,11 @@ The usage data response will be in days even if the request is for a month. For 
 
 If the item is configured with a `monthly` pull, the request period must be start of the month and end of the month (`from: 01-12-2020`, `to: 31-12-2020`). If the item is configured with a `daily` pull, the request period must be on the same day (`from: 01-12-2020`, `to: 01-12-2020`).
 
+## Usage API Errors
+
+1. If the request is invalid, e.g. the date range contains future dates, the API throws 400 Bad Request error.
+2. If the request is valid, but the usage data is not yet ready, the API throws 404 Not Found error.
+
 ## Usage API optional metadata
 
 The API response can return an optional `metadata` field for billing calculation later. e.g.:
