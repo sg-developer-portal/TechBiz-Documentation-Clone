@@ -48,6 +48,7 @@ Product-->>TechBiz: 8. Return Usage Data API Response
 
 - [Step 2.1](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-certificate-credentials)
 - [Step 3](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow#second-case-access-token-request-with-a-certificate)
+- TODO: TechBiz to build lambda image for the JWT validation layer
 
 ### \*: Validate all neccessary data:
 
@@ -57,6 +58,17 @@ Product-->>TechBiz: 8. Return Usage Data API Response
 4. Tenant matches
 5. x5t & kid matches JWKS keys
 6. Not expired and within valid time window (exp, nbf)
+
+### Networking with [AWS API GW](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-private-apis.html) - Recommended approach
+
+```mermaid
+sequenceDiagram
+TechBiz->>TechBiz: 1. Setup Product configurations in AAD
+TechBiz->>Product: 2. Pass VPCE and Auth related info to Product
+Product->>Product: 3. Setup API GW and whitelist TechBiz VPCE
+Product->>Product: 4. Deploy Usage API Lambda service
+TechBiz->>Product: 5. Test the API
+```
 
 ### Networking with AWS VPC
 
