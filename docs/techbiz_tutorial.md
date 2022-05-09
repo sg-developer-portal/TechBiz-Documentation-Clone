@@ -1,14 +1,11 @@
-TechBiz Tutorial
-
 # TechBiz Overview
 
-A one-stop shop for government agencies to subscribe to Singapore
+TechBiz is a one-stop shop for government agencies to subscribe to Singapore
 Government Tech Stack (SGTS) products.
 
-TechBiz has been designed to achieve a commonality among SGTS products
-by offering seamless contractual management. It aims to oversee
-agency subscription from the point of engagement to operations /
-termination.
+It offers seamless contract management. For example, agencies can create a single system in TechBiz and onboard to multiple SGTS products. 
+
+TechBiz aims to oversee agency subscription from the point of engagement to operations to termination.
 
 TechBiz belongs to the Service Management category in the base layer of
 [Singapore Government Tech Stack
@@ -22,21 +19,27 @@ TechBiz belongs to the Service Management category in the base layer of
 
 | Term    | Definition     | Example
 |-----    | ------     | ------|
-| Product | Products that are in Singapore Government Tech Stack (SGTS) | SHIP|
-| Item    | An item belongs to a single product | JIRA User (SHIP)|
-| Project | Created by an Agency that wants to subscribe/onboard to SGTS Products | Ministry of Manpower (MOM) wants to use SHIP |
-| Subscription | Define the arrangement between agency and product based on the plans they subscribed to | MOM subscribed to SHIP's basic JIRA Plan starting from 1 March 2022|
-| Billing | Determine the amount to charge to agency based on their subscription | MOM pay 10 dollars per month to SHIP |
-| Billing Rules | Different types of pricing models | Fixed One Time|
-| Plan | Define how agency will be charged when using the product. Plan can be Individual (single item) or Bundle (multiple items) or Add On (Single item but must be subscribed with an Individual or Bundle Plan) | Plan Name: Basic JIRA Plan Definition: 5 JIRA users at a fixed price of 10 dollars per month|
-| DGP | Digital Governance Platform - Tracks all systems across the Whole-of-Government|
+| Product | An application in Singapore Government Tech Stack (SGTS). | SHIP|
+| Item    | An entity belonging to a single product. | JIRA User (SHIP)|
+| Project | A system created by an Agency that wants to subscribe to SGTS Products. | Ministry of Manpower (MOM) wants to use SHIP |
+| Subscription | An arrangement between an agency and a product based on the plan the agency has subscribed to. | MOM subscribed to basic JIRA Plan in SHIP starting from 1 March 2022.|
+| Billing | The amount chargeable to an agency based on their subscription. | MOM is charged 10 dollars per month for usage of SHIP products.|
+| Billing Rules | The different types of pricing models. | Fixed One Time|
+| Plan | A breakdown of the chargeable components with the specified charges. Plans can be: <ul> <li>Individual (single item)</li> <li>Bundle (multiple items)</li><li>Add On (Single item but must be subscribed with an Individual or Bundle Plan)</li></ul> | Plan Name: Basic JIRA Plan Definition: 5 JIRA users at a fixed price of 10 dollars per month|
+| DGP | A **Digital Governance Platform** that tracks all live systems across the Whole-of-Government.|
 
 ## Getting Started
+
+**Topics**
+  - [TechBiz Portal](#TechBiz Portal)
+  - Roles and Permissions
+  - Prerequisites
+  - Access TechBiz Portal
 
 ### TechBiz Portal
 
 Techbiz offers an interactive portal for agencies to subscribe to SGTS products.
-Agencies will need a TechPass account login to the self-service portal
+Agencies will need a TechPass account login to the [TechBiz portal](https://portal.dev.techbiz.suite.gov.sg/)
 to create projects, manage users, manage subscriptions and billing
 plans.
 
