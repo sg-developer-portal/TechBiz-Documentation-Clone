@@ -21,11 +21,11 @@ TechBiz belongs to the Service Management category in the base layer of
 |-----    | ------     | ------|
 | Product | An application in Singapore Government Tech Stack (SGTS). | SHIP|
 | Item    | An entity belonging to a single product. | JIRA User (SHIP)|
-| Project | A system created by an Agency that wants to subscribe to SGTS Products. | Ministry of Manpower (MOM) wants to use SHIP |
+| Project | An agency namespace or a system created by an Agency that wants to subscribe or onboard to SGTS Products. | Ministry of Manpower (MOM) wants to use SHIP. |
 | Subscription | An arrangement between an agency and a product based on the plan the agency has subscribed to. | MOM subscribed to basic JIRA Plan in SHIP starting from 1 March 2022.|
 | Billing | The amount chargeable to an agency based on their subscription. | MOM is charged 10 dollars per month for usage of SHIP products.|
-| Billing Rules | The different types of pricing models. | Fixed One Time|
-| Plan | A breakdown of the chargeable components with the specified charges. Plans can be: <ul> <li>Individual (single item)</li> <li>Bundle (multiple items)</li><li>Add On (Single item but must be subscribed with an Individual or Bundle Plan)</li></ul> | Plan Name: Basic JIRA Plan Definition: 5 JIRA users at a fixed price of 10 dollars per month|
+| Billing Rules | The different types of pricing models. | Fixed One Time.|
+| Plan | A breakdown of the chargeable components with the specified charges. Plans can be: <ul> <li>Individual (single item)</li> <li>Bundle (multiple items)</li><li>Add On (Single item but must be subscribed with an Individual or Bundle Plan)</li></ul> | **Plan Name:** Basic JIRA Plan **Definition:** 5 JIRA users at a fixed price of 10 dollars per month|
 | DGP | A **Digital Governance Platform** that tracks all live systems across the Whole-of-Government.|
 
 ## Getting Started
@@ -34,12 +34,12 @@ TechBiz belongs to the Service Management category in the base layer of
   - [TechBiz Portal](#techbiz-portal)
   - [Roles and Permissions](#roles-and-permissions)
   - [Prerequisites](#pre-requisites)
-  - [Access TechBiz Portal](#access-techbiz-portal)
+  - [Access TechBiz Portal](#to-access-the-techbiz-portal)
 
 ### TechBiz Portal
 
 Techbiz offers an interactive portal for agencies to subscribe to SGTS products.
-Agencies will need a TechPass account login to the [TechBiz portal](https://portal.dev.techbiz.suite.gov.sg/) to create projects, manage users, manage subscriptions, and billing plans.
+Agencies will need a TechPass account to login to the [TechBiz portal](https://portal.dev.techbiz.suite.gov.sg/) to manage projects, users, subscriptions, and configure products.
 
 ### Roles and Permissions
 
@@ -59,8 +59,6 @@ Agencies will need a TechPass account login to the [TechBiz portal](https://port
 
   - From a GSIB device.
 
-- A TechPass account is required to access SGTS products! Non-TechPass users can initiate the subscription process using the TechBiz portal. However, only after the subscription is approved will a TechPass account be created for the user.
-
 ### To access the TechBiz Portal
 
 1.  Click [**here.**](https://portal.dev.techbiz.suite.gov.sg/)
@@ -69,7 +67,9 @@ Agencies will need a TechPass account login to the [TechBiz portal](https://port
 
     ![Display Landing Page](./assets/images/landing_pg.jpg)
     
-2. Navigate to the [Portal](https://portal.dev.techbiz.suite.gov.sg/)
+2. Navigate to the [Portal.](https://portal.dev.techbiz.suite.gov.sg/)
+
+3. To login:
 
    - TechPass users:
 

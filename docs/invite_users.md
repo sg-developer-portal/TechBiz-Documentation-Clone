@@ -2,72 +2,81 @@
 
 Subscription Admin or any Public Officer (gov.sg emails) can trigger TechPass account creation for Public Officers / Vendors from the TechBiz Portal itself. This eliminates the need for Public Officers to goto the TechPass Portal and self-sign up; or for SGTS product teams to send TechPass invitation emails to Vendors.
 
-To view the available invitation types:
+## Getting Started
 
-- Login to the [**TechBiz Portal.**](https://portal.dev.techbiz.suite.gov.sg/)
+To access the available invitation types:
 
-- From the Overview page **or** the left sidebar, click **Invite Users.**
+1. Navigate to the [**TechBiz Portal.**](https://portal.dev.techbiz.suite.gov.sg/)
+2. Click **Login with TechPass.**
+
+3. From the Overview page **or** the left sidebar, click **Invite Users.**
 
 ![Display Invite Users](./assets/images/invite_users.png)
 
 
-- The Invitation Type page is displayed.
+The Invitation Type page is displayed.
 
 ![Display Invitation Type](./assets/images/invitation_type.png)
 
+## Invitation Types
+Click on each type to know more.
+   - [Email Invitation](#email-invitation)
+   - [Create Account](#create-account)
+   - [Batch Upload](#batch-upload)
 
-## Email invitation
+### Email invitation
 
 This method is for TechPass account creation for Public Officers only. It is similar to the self-sign up process in TechPass Portal.
 
-  - Click **Email invitation.**
+  1. Click **Email invitation.**
 
-    - Enter the email address of the User who requires a TechPass account. (Only valid gov.sg emails).
+  2. Enter the email address of the User who requires a TechPass account. (Only valid gov.sg emails).
 
-    - Indicate whether the device needs to be onboarded to [**SEED.**](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
+  3. Indicate whether the device needs to be onboarded to [**SEED.**](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
 
-    - Provide a reason for requiring a TechPass account.
+  4. Provide a reason for requiring a TechPass account.
 
-    - Click **Submit.**
+  5. Click **Submit.**
 
-## Create Account
+### Create Account
 
 This method can be used to create TechPass account on behalf of Vendors as well as Public Officers.
 
-  - Click **Create account.** 
+   1. Click **Create account.** 
   
-    - Enter the email address of the User who requires a TechPass account.
+   2. Enter the email address of the User who requires a TechPass account.
 
-    - Indicate the TechPass username (only if user is a Vendor).
+   3. Indicate the TechPass username (only if user is a Vendor).
 
     > **Note:** If User is a Public Officer, the TechPass username field will be greyed out.
 
-    - Enter the User details.
+   4. Enter the User details.
 
-    - Indicate whether the device needs to be onboarded to [**SEED.**](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
+   5. Indicate whether the device needs to be onboarded to [**SEED.**](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
 
-     - Provide a reason for requiring a TechPass account.
+   6. Provide a reason for requiring a TechPass account.
 
-    - Click **Submit.**
+   7. Click **Submit.**
 
 
-
-## Batch Upload
+### Batch Upload
 
 Conveniently create TechPass accounts for multiple users at one shot.
 
-- Click **Batch upload.**
+   1. Click **Batch upload.**
 
-  - Click **Download excel template.**
+   2. Click **Download excel template.**
 
   > **Note:** The template is a csv file with input fields.
 
-  - Fill in the users information in the template.
+   3. Fill in the user details in the template.
 
-  - To select and upload the template, click **Choose a file.**
+   4. To select and upload the template, click **Choose a file.**
 
       - Once the file has been uploaded, the users details list will be displayed.
 
-      - Review the user details and click **Submit** to trigger TechPass account creation.
+    5. Review the user details.
 
   > **Tip:** You can edit user details or even remove users from the displayed list.
+
+    6. Click **Submit** to trigger TechPass account creation for the specified users.
