@@ -31,17 +31,15 @@ TechBiz belongs to the Service Management category in the base layer of
 ## Getting Started
 
 **Topics**
-  - [TechBiz Portal](#TechBiz Portal)
-  - Roles and Permissions
-  - Prerequisites
-  - Access TechBiz Portal
+  - [TechBiz Portal](#techbiz-portal)
+  - [Roles and Permissions](#roles-and-permissions)
+  - [Prerequisites](#pre-requisites)
+  - [Access TechBiz Portal](#access-techbiz-portal)
 
 ### TechBiz Portal
 
 Techbiz offers an interactive portal for agencies to subscribe to SGTS products.
-Agencies will need a TechPass account login to the [TechBiz portal](https://portal.dev.techbiz.suite.gov.sg/)
-to create projects, manage users, manage subscriptions and billing
-plans.
+Agencies will need a TechPass account login to the [TechBiz portal](https://portal.dev.techbiz.suite.gov.sg/) to create projects, manage users, manage subscriptions, and billing plans.
 
 ### Roles and Permissions
 
@@ -53,26 +51,25 @@ plans.
 | Technical Contact | Public Officer or Vendor |
 | Billing Contact | Public Officer |
 
-### Requirements
+### Pre-requisites
 
-Access to TechBiz Portal is available:
+- Make sure that access to the TechBiz Portal is available:
 
--   To Public Officers (PO) with a public service official email.
+  - To Public Officers (PO) with a public service official email.
 
--   From a GSIB device.
+  - From a GSIB device.
 
-### Access TechBiz Portal
+- A TechPass account is required to access SGTS products! Non-TechPass users can initiate the subscription process using the TechBiz portal. However, only after the subscription is approved will a TechPass account be created for the user.
 
-1.  To create your agency's namespace within TechBiz and subscribe to SGTS
-    products, click [**here.**](https://portal.dev.techbiz.suite.gov.sg/)
+### To access the TechBiz Portal
+
+1.  Click [**here.**](https://portal.dev.techbiz.suite.gov.sg/)
 
     The TechBiz Portal landing page is displayed.
 
     ![Display Landing Page](./assets/images/landing_pg.jpg)
-
-!>Important: A TechPass account is required to access SGTS products! Non-TechPass users can initiate the subscription process using the TechBiz portal. However, only after the subscription is approved will a TechPass account be created for the user.
     
-2. To login to the Portal
+2. Navigate to the [Portal](https://portal.dev.techbiz.suite.gov.sg/)
 
    - TechPass users:
 
