@@ -3,7 +3,7 @@
 TechBiz is a one-stop shop for government agencies to subscribe to Singapore
 Government Tech Stack (SGTS) products.
 
-It offers seamless contract management. For example, agencies can create a single system in TechBiz and onboard to multiple SGTS products. 
+It offers seamless contract management. For example, agencies can create a single system in TechBiz and subscribe to multiple SGTS products. 
 
 TechBiz aims to oversee agency subscription from the point of engagement to operations to termination.
 
@@ -13,79 +13,68 @@ TechBiz belongs to the Service Management category in the base layer of
 
 ## Features
 
-![Display TechBiz features](./assets/images/Techbiz_features.png)
+![features](./assets/images/Techbiz_features.png ':size=400')
 
-## Commonly-used Terms
+## Commonly Used Terms
 
 | Term    | Definition     | Example
 |-----    | ------     | ------|
 | Product | An application in Singapore Government Tech Stack (SGTS). | SHIP|
 | Item    | An entity belonging to a single product. | JIRA User (SHIP)|
-| Project | An agency namespace or a system created by an Agency that wants to subscribe or onboard to SGTS Products. | Ministry of Manpower (MOM) wants to use SHIP. |
+| System | A namespace created by an Agency that wants to subscribe or onboard to SGTS Products. | Ministry of Manpower (MOM) wants to use SHIP. |
 | Subscription | An arrangement between an agency and a product based on the plan the agency has subscribed to. | MOM subscribed to basic JIRA Plan in SHIP starting from 1 March 2022.|
 | Billing | The amount chargeable to an agency based on their subscription. | MOM is charged 10 dollars per month for usage of SHIP products.|
 | Billing Rules | The different types of pricing models. | Fixed One Time.|
-| Plan | A breakdown of the chargeable components with the specified charges. Plans can be: <ul> <li>Individual (single item)</li> <li>Bundle (multiple items)</li><li>Add On (Single item but must be subscribed with an Individual or Bundle Plan)</li></ul> | **Plan Name:** Basic JIRA Plan **Definition:** 5 JIRA users at a fixed price of 10 dollars per month|
 | DGP | A **Digital Governance Platform** that tracks all live systems across the Whole-of-Government.|
+| Plan | A breakdown of the chargeable components with the specified charges. Plans can be: <ul> <li>Individual (single item)</li> <li>Bundle (multiple items)</li><li>Add On (Single item but must be subscribed with an Individual or Bundle Plan)</li></ul> | **Plan Name:** Basic JIRA Plan **Definition:** 5 JIRA users at a fixed price of 10 dollars per month|
 
-## Getting Started
+
+## TechBiz Portal
+
+Techbiz offers an interactive [Portal](https://portal.dev.techbiz.suite.gov.sg/) for agencies to onboard to SGTS products.
+Agencies will need a TechPass account to manage projects, users, subscriptions, and configure products within the Portal.
 
 **Topics**
-  - [TechBiz Portal](#techbiz-portal)
   - [Roles and Permissions](#roles-and-permissions)
   - [Prerequisites](#pre-requisites)
   - [Access TechBiz Portal](#to-access-the-techbiz-portal)
 
-### TechBiz Portal
-
-Techbiz offers an interactive portal for agencies to subscribe to SGTS products.
-Agencies will need a TechPass account to login to the [TechBiz portal](https://portal.dev.techbiz.suite.gov.sg/) to manage projects, users, subscriptions, and configure products.
-
 ### Roles and Permissions
+The table below maps roles within the Portal to agency roles.
 
-| TechBiz Portal Role | Agency Role
-| ---- | ----- |
-|Subscription Admin (Primary/Secondary)| Project Incharge, Agency Project Managers|
-| Requestor|Public Officer, Agency Project Manager, Project Team Member   |
-| Approver |Project Incharge|
-| Technical Contact | Public Officer or Vendor |
-| Billing Contact | Public Officer |
+| TechBiz Portal Role | Agency Role | Permissions
+| ---- | ----- |----|
+|<ul><li>Subscription Admin (Primary/Secondary)</li><li>Requestor</li><li>Approver</li><li>Billing Contact</li></ul> | Public Officer |
+| Technical Contact | Public Officer or Vendor
+
 
 ### Pre-requisites
+Public Officers can access the TechBiz Portal using their organisation email (gov.sg) from a GSIB device.
 
-- Make sure that access to the TechBiz Portal is available:
+### Login to the TechBiz Portal
 
-  - To Public Officers (PO) with a public service official email.
+1. Navigate to the [TechBiz Portal.](https://portal.dev.techbiz.suite.gov.sg/)
 
-  - From a GSIB device.
+    The landing page is displayed.
 
-### To access the TechBiz Portal
+    ![Display Landing Page](./assets/images/landing_page.png)
 
-1.  Click [**here.**](https://portal.dev.techbiz.suite.gov.sg/)
+2. Login to the Portal as follows:
 
-    The TechBiz Portal landing page is displayed.
+   A. TechPass users:
 
-    ![Display Landing Page](./assets/images/landing_pg.jpg)
-    
-2. Navigate to the [Portal.](https://portal.dev.techbiz.suite.gov.sg/)
+     1. Click **Login with TechPass.**
 
-3. To login:
+     2. Follow the on-screen instructions and approve sign-in request.
 
-   - TechPass users:
+   B. Non-TechPass users:
 
-     - Click **Login with TechPass.**
+     1. To register for the TechPass OTP service, click **Get Started.**
 
-     - Follow the on-screen instructions and approve sign-in request.
+     2. Enter your public service organisation email and click **Next.**
 
-   - Non-TechPass users:
+     3. Enter the OTP received in your email and click **Submit.**
 
-     - To register for the TechPass OTP service, click **Get Started.**
-
-     - Enter your public service official email address (only gov.sg
-    emails) and click **Next.**
-
-     - Enter the OTP received in your email and click **Submit.**
-
-The self-service TechBiz admin portal overview page with **Manage Projects** and **Invite Users** module is displayed.
+The TechBiz Portal overview page is displayed.
 
 ![Display Overview Page](./assets/images/overview.png)

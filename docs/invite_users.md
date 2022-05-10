@@ -1,6 +1,8 @@
 # Invite Users
 
-Subscription Admin or any Public Officer (gov.sg emails) can trigger TechPass account creation for Public Officers / Vendors from the TechBiz Portal itself. This eliminates the need for Public Officers to goto the TechPass Portal and self-sign up; or for SGTS product teams to send TechPass invitation emails to Vendors.
+Subscription Admin or any Public Officer (using their organisation email) can trigger TechPass account creation for Public Officers / Vendors from the TechBiz Portal itself. 
+
+> **Benefit:** This eliminates the need for Public Officers to goto the TechPass Portal and self-sign up; or for SGTS product teams to send TechPass invitation emails to Vendors.
 
 ## Getting Started
 
@@ -30,7 +32,7 @@ This method is for TechPass account creation for Public Officers only. It is sim
 
   1. Click **Email invitation.**
 
-  2. Enter the email address of the User who requires a TechPass account. (Only valid gov.sg emails).
+  2. Enter the email address of the User who requires a TechPass account. (Only public officer organisation emails).
 
   3. Indicate whether the device needs to be onboarded to [**SEED.**](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
 
@@ -73,9 +75,11 @@ Conveniently create TechPass accounts for multiple users at one shot.
 
    4. To select and upload the template, click **Choose a file.**
 
+
       - Once the file has been uploaded, the users details list will be displayed.
 
-    5. Review the user details.
+
+   5. Review the user details.
 
   > **Tip:** You can edit user details or even remove users from the displayed list.
 
