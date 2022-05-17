@@ -1,9 +1,8 @@
 # TechBiz Overview
 
-TechBiz is a one-stop shop for government agencies to subscribe to Singapore
+TechBiz is a one stop shop for government agencies to subscribe to Singapore
 Government Tech Stack (SGTS) products.
-
-It offers seamless contract management. For example, agencies can create a single system in TechBiz and subscribe to multiple SGTS products. 
+It offers seamless contract management by streamlining onboarding for all SGTS products within the TechBiz Portal. As an Agency Subscription Admin, you will be required to sign a single MOU for subscribing to multiple SGTS products.
 
 TechBiz aims to oversee agency subscription from the point of engagement to operations to termination.
 
@@ -47,13 +46,12 @@ The table below maps roles within the Portal to agency roles.
 |<ul><li>Subscription Admin (Primary/Secondary)</li><li>Requestor</li><li>Approver</li><li>Billing Contact</li></ul> | Public Officer |
 | Technical Contact | Public Officer or Vendor
 
-
-### Pre-requisites
+### Prerequisites
 Public Officers can access the TechBiz Portal using their organisation email (gov.sg) from a GSIB device.
 
 ### Login to the TechBiz Portal
 
-1. Navigate to the [TechBiz Portal.](https://portal.dev.techbiz.suite.gov.sg/)
+1. Goto the [TechBiz Portal.](https://portal.dev.techbiz.suite.gov.sg/)
 
     The landing page is displayed.
 

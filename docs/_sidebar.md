@@ -2,4 +2,5 @@
 - [Usage API](usage_api.md)
 - [Onboarding Flow](onboarding_flow.md)
 - [TechBiz Tutorial](techBiz_tutorial.md)
+- [Create System](create_system.md)
 - [Invite Users](invite_users.md)
