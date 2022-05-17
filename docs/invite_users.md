@@ -24,13 +24,9 @@ The options to send invitation emails are displayed.
 
 ![Display Invitation Type](./assets/images/invitation_type.png)
 
-4. Depending on your use case click the most suitable option. 
+4. Depending on your use case, click the most suitable option. 
 
-- Email Invitation
-
-   This method is for TechPass account creation for Public Officers.
-
-  - Click **Email invitation.**
+- **Email Invitation -** To create TechPass accounts for Public Officers.
 
   - Enter the email address of the User who requires a TechPass account. (Only public officer organisation emails).
 
@@ -42,11 +38,7 @@ The options to send invitation emails are displayed.
 
   </details>
 
-- **Create Account**
-
-   This method can be used to create TechPass account on behalf of Vendors as well as Public Officers.
-
-   - Click **Create account.** 
+- **Create Account -** To create TechPass accounts on behalf of Vendors as well as Public Officers.
   
    - Enter the email address of the User who requires a TechPass account.
 
@@ -63,11 +55,7 @@ The options to send invitation emails are displayed.
    - Click **Submit.**
 
 
-- Batch Upload
-
-   Conveniently create TechPass accounts for multiple users at one shot.
-
-   - Click **Batch upload.**
+- **Batch Upload -** To create TechPass accounts for multiple users.
 
    - Click **Download excel template.**
 
@@ -75,11 +63,9 @@ The options to send invitation emails are displayed.
 
    - Fill in the user details in the template.
 
-   - To select and upload the template, click **Choose a file.**
-
-
-      - Once the file has been uploaded, the users details list will be displayed.
-
+   - To select and upload the template, click **Choose a file.** 
+   
+   Once the file has been uploaded, the users details list will be displayed.
 
    - Review the user details.
 
