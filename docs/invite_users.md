@@ -4,14 +4,15 @@ The **Invite Users** module allows Public Officers to conveniently manage user a
 
 ## Getting Started
 
-Users require a TechPass account to access SGTS products. The TechPass account creation process is triggered, when a User receives an invitation email.
+To access SGTS products, Users require a TechPass account. The TechPass account creation process is triggered, when a User receives an invitation email.
+
 This guide shows you how to send TechPass invitation emails to Users from the **Invite Users** module in the TechBiz Portal.
 
 ### Prerequisites
 
 - Public Officers need to access the TechBiz Portal using their organisation email (gov.sg) from a GSIB device.
 
-### Send TechPass invites
+### Send TechPass invitation email
 
 1. Goto the [**TechBiz Portal.**](https://portal.dev.techbiz.suite.gov.sg/)
 2. Click **Login with TechPass.**
@@ -20,13 +21,16 @@ This guide shows you how to send TechPass invitation emails to Users from the **
 
 ![Display Invite Users](./assets/images/invite_users.png)
 
-The options to send invitation emails are displayed.
+The three options to send TechPass invitations are displayed.
 
 ![Display Invitation Type](./assets/images/invitation_type.png)
 
-4. Depending on your use case, click the most suitable option. 
+4. Select an option depending on your use case.
 
-- **Email Invitation -** To create TechPass accounts for Public Officers.
+<details>
+
+<summary>
+ A. Email Invitation - To create TechPass accounts for Public Officers. </summary>
 
   - Enter the email address of the User who requires a TechPass account. (Only public officer organisation emails).
 
@@ -38,7 +42,9 @@ The options to send invitation emails are displayed.
 
   </details>
 
-- **Create Account -** To create TechPass accounts on behalf of Vendors as well as Public Officers.
+  <details>
+
+<summary> B. Create Account - To create TechPass accounts on behalf of Vendors as well as Public Officers. </summary>
   
    - Enter the email address of the User who requires a TechPass account.
 
@@ -54,8 +60,12 @@ The options to send invitation emails are displayed.
 
    - Click **Submit.**
 
+</details>
 
-- **Batch Upload -** To create TechPass accounts for multiple users.
+<details>
+
+<summary>
+C. Batch Upload - To create TechPass accounts for multiple users. </summary>
 
    - Click **Download excel template.**
 
@@ -72,3 +82,6 @@ The options to send invitation emails are displayed.
   > **Tip:** You can edit user details or even remove users from the displayed list.
 
     - Click **Submit.**
+
+    </details>
+

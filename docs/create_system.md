@@ -19,7 +19,7 @@ The Systems page is displayed.
 
 ![Display Overview](./assets/images/overview.png)
 
-3. In the Overview page, click **Manage systems -> View systems** or in the left sidebar, click **Systems.**
+3. In the Overview page, click **View systems**
 
 The Systems page is displayed.
 
