@@ -19,59 +19,65 @@ This guide shows you how to send TechPass invitation emails to Users from the **
 
 3. From the Overview page **or** the left sidebar, click **Invite Users.**
 
-![Display Invite Users](./assets/images/invite_users.png)
-
 The three options to send TechPass invitations are displayed.
 
 ![Display Invitation Type](./assets/images/invitation_type.png)
 
-4. Select an option depending on your use case.
+<details>
+
+<summary>A. Email Invitation - Create TechPass accounts for Public Officers. </summary>
+
+  - Enter the following details, and then click **Submit.**
+
+  |Field Name| Description | Behaviour and Usage |
+  |---- |---- |---- |
+  | Email address| Email of User who requires a TechPass account| Should be a gov.sg email
+  | Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required | Does User need a SEED account? | Indicate **Yes** or **No**|
+  |Reason | Reason for requirement of a TechPass account|
+
+</details> &nbsp
 
 <details>
 
-<summary>
- A. Email Invitation - To create TechPass accounts for Public Officers. </summary>
+<summary>B. Create Account - To create TechPass accounts on behalf of Vendors as well as Public Officers.</summary>
 
-  - Enter the email address of the User who requires a TechPass account. (Only public officer organisation emails).
+  - Enter the following account details, and then click **Submit.**
 
-  - Indicate whether the device needs to be onboarded to [**SEED.**](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
+   |Field Name| Description | Behaviour and Usage|
+  |---- |---- |---- |
+  | Email address| Email of User who requires a TechPass account| Gov.sg or vendor email
+  | TechPass username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, this field will be greyed out.
+  |First Name | First Name of User|
+  |Last Name | Last Name of User |
+  |Contact Number| Mobile Number of User|
+  |Organisation |Organisation Name |
+  |Department| Department Name| This is an optional field
+| Is onboarding to SEED required | Does User need a SEED account?| Indicate **Yes** or **No**|
+  |Reason | Reason for requirement of a TechPass account|
 
-  - Provide a reason for requiring a TechPass account.
-
-  - Click **Submit.** 
-
-  </details>
-
-  <details>
-
-<summary> B. Create Account - To create TechPass accounts on behalf of Vendors as well as Public Officers. </summary>
-  
-   - Enter the email address of the User who requires a TechPass account.
-
-   - Indicate the TechPass username (only if user is a Vendor).
-
-    > **Note:** If User is a Public Officer, the TechPass username field will be greyed out.
-
-   - Enter the User details.
-
-   - Indicate whether the device needs to be onboarded to [**SEED.**](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
-
-   - Provide a reason for requiring a TechPass account.
-
-   - Click **Submit.**
-
-</details>
+</details> &nbsp
 
 <details>
 
-<summary>
-C. Batch Upload - To create TechPass accounts for multiple users. </summary>
+<summary>C. Batch Upload - To create TechPass accounts for multiple users. </summary>
 
    - Click **Download excel template.**
 
   > **Note:** The template is a csv file with input fields.
 
-   - Fill in the user details in the template.
+   - Fill in the following user details in the template.
+
+   |Field Name| Description | Behaviour and Usage|
+  |---- |---- |---- |
+  | Email| Email of User who requires a TechPass account| Gov.sg or vendor email
+  | Username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, this field will be greyed out.
+  |First Name | First Name of User|
+  |Last Name | Last Name of User |
+  |Contact Number| Mobile Number of User|
+  |Organisation |Organisation Name |
+  |Department| Department Name| This is an optional field
+| Is onboarding to SEED required | Does User need a SEED account?| Indicate **Yes** or **No**|
+  |Reason | Reason for requirement of a TechPass account|
 
    - To select and upload the template, click **Choose a file.** 
    
