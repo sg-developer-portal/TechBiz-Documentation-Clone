@@ -27,19 +27,41 @@ The Systems page is displayed.
 
 ![Display Systems Page](./assets/images/create_system.png)
 
-4. In the Systems page, click **Create System.**
+4. In the Systems page, click **Create system.**
 
 The Create system workflow is displayed.
 
-screenshot of create system workflow
+To add screenshot
 
-Ensure that you have the required information ready, and click **Next.**
+<details>
 
-a. **SGTS agreement:** Select “I acknowledge that I have read and accepted the terms of the SGTS agreement” to agree to the SGTS Universal Service Terms. Click **Next.**
+<summary>A. SGTS agreement</summary>
+
+- Ensure that you have the required information ready, and click **Next.**
+
+- Tick the checkbox to agree to the SGTS Universal Service Terms. Click **Next.**
 
 ![Display SGTS_UST](./assets/images/create_system_UST.png)
 
-b. **System details:** 
+Enter the following details, and then click **Next.**
+
+**Account Details**
+
+|Field Name| Description | Behaviour and Usage |
+|---- |---- |---- |
+|Agency name | Name of agency| This field is a dropdown with pre-populated agency names
+|System name | Agency namespace|
+|System ID| ID of ... to check| This field is auto-populated
+|DGP ID| Refers to the Digital Governance Platform ID of the agency| This field is a radio button with options **Yes, I have a DGP ID** or **No, I do not have a DGP ID**
+
+**Subscription admins**
+
+|Field Name| Description | Behaviour and Usage |
+|---- |---- |---- |
+|Agency name | Name of agency| This field is a dropdown with pre-populated agency names
+|System name | Agency namespace|
+|System ID| ID of ... to check| This field is auto-populated
+|DGP ID| Refers to the Digital Governance Platform ID of the agency| This field is a radio button with options **Yes, I have a DGP ID** or **No, I do not have a DGP ID**
 
 
 

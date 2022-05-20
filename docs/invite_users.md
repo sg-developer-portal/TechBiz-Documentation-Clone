@@ -32,7 +32,7 @@ The three options to send TechPass invitations are displayed.
   |Field Name| Description | Behaviour and Usage |
   |---- |---- |---- |
   | Email address| Email of User who requires a TechPass account| Should be a gov.sg email
-  | Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required | Does User need a SEED account? | Indicate **Yes** or **No**|
+  | Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required | Does User need a SEED account? | This field is a radio button with options **Yes** or **No**|
   |Reason | Reason for requirement of a TechPass account|
 
 </details> &nbsp
@@ -45,14 +45,14 @@ The three options to send TechPass invitations are displayed.
 
    |Field Name| Description | Behaviour and Usage|
   |---- |---- |---- |
-  | Email address| Email of User who requires a TechPass account| Gov.sg or vendor email
-  | TechPass username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, this field will be greyed out.
+  | Email address| Email of User who requires a TechPass account| Can be gov.sg or vendor email
+  | TechPass username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, the field will be greyed out.
   |First Name | First Name of User|
   |Last Name | Last Name of User |
   |Contact Number| Mobile Number of User|
   |Organisation |Organisation Name |
   |Department| Department Name| This is an optional field
-| Is onboarding to SEED required | Does User need a SEED account?| Indicate **Yes** or **No**|
+| Is onboarding to SEED required | Does User need a SEED account?|  This field is a radio button with options **Yes** or **No**|
   |Reason | Reason for requirement of a TechPass account|
 
 </details> &nbsp
@@ -69,14 +69,14 @@ The three options to send TechPass invitations are displayed.
 
    |Field Name| Description | Behaviour and Usage|
   |---- |---- |---- |
-  | Email| Email of User who requires a TechPass account| Gov.sg or vendor email
-  | Username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, this field will be greyed out.
+  | Email| Email of User who requires a TechPass account| Can be gov.sg or vendor email
+  | Username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, the field will be greyed out.
   |First Name | First Name of User|
   |Last Name | Last Name of User |
   |Contact Number| Mobile Number of User|
   |Organisation |Organisation Name |
   |Department| Department Name| This is an optional field
-| Is onboarding to SEED required | Does User need a SEED account?| Indicate **Yes** or **No**|
+| Is onboarding to SEED required | Does User need a SEED account?|This field is a radio button with options **Yes** or **No**|
   |Reason | Reason for requirement of a TechPass account|
 
    - To select and upload the template, click **Choose a file.** 
