@@ -1,2 +1,3 @@
-# Welcome to TechPay User Documentation!
+# Welcome to TechBiz User Documentation!
+
 ![banner](assets/images/banner.png)
