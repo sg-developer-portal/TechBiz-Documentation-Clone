@@ -36,7 +36,7 @@ Agencies will need a TechPass account to manage projects, users, subscriptions, 
 **Topics**
   - [Roles and Permissions](#roles-and-permissions)
   - [Prerequisites](#pre-requisites)
-  - [Access TechBiz Portal](#to-access-the-techbiz-portal)
+  - [Login to the TechBiz Portal](#login-to-the-techbiz-portal)
 
 ### Roles and Permissions
 The table below maps roles within the Portal to agency roles.
