@@ -1,5 +1,5 @@
-# TechPay User Doc Repository
-This is a documentation repository for TechPay, written for Documentation Portal, using [docsify](https://docsify.js.org/#/). You can find out what docsify or markdown extensions are supported [here](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/).
+# TechBiz User Doc Repository
+This is a documentation repository for TechBiz, written for Documentation Portal, using [docsify](https://docsify.js.org/#/). You can find out what docsify or markdown extensions are supported [here](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/).
 
 > The repository is currently in active development and  contents will change rapidly.
 

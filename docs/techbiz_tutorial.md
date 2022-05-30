@@ -1,4 +1,4 @@
-# TechBiz Overview
+<!-- # TechBiz Overview
 
 TechBiz is a one stop shop for government agencies to subscribe to Singapore
 Government Tech Stack (SGTS) products.
@@ -75,4 +75,4 @@ Public Officers can access the TechBiz Portal using their organisation email (go
 
 The TechBiz Portal overview page is displayed.
 
-![Display Overview Page](./assets/images/overview.png)
+![Display Overview Page](./assets/images/overview.png) -->
