@@ -44,7 +44,7 @@ Topics:
 
 3.  In the **Systems** page, click **Create system.**
 
-![Display Create system]((/images/create_system.png))
+![Display Create system](/images/create_system.png)
 
 4.  Ensure that you have the required information ready and click **Next.**
 
@@ -52,7 +52,7 @@ Topics:
     
 > **Note:** Read and select the checkbox to proceed further to the next step. To download the agreement, click **Download the SGTS agreement** link.
 
-![Display Create system]((/images/create_system_UST.png))
+![Display Create system](/images/create_system_UST.png)
 
 6.  Specify the required **System details** and click **Next.**
 
@@ -62,7 +62,9 @@ Topics:
 |---- |---- |
 | **Account details** | This section is for agencies to specify their account details|
 | **Agency name** | Select your agency name from the drop-down list. |
-|---- | **Note:** If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section. For other government agencies, enter your **Sub Business Unit (SBU)** details.|
+| | **Note:** 
+- If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section. 
+- For other government agencies, enter your **Sub Business Unit (SBU)** details.|
 | **System name** | Enter your system name.|
 | **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
 | **Digital Governance Platform (DGP) ID** | 
