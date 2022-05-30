@@ -1,3 +1,2 @@
 # Welcome to TechBiz User Documentation!
-
-![banner](assets/images/banner.png)
+![banner](assets/images/banner.jpg)

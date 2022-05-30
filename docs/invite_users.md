@@ -1,93 +1,159 @@
-# Invite Users
+# Invite users
 
-The **Invite Users** module allows Public Officers to conveniently manage user access to SGTS products via the TechBiz Portal.
+**Prerequisite**:
 
-## Getting Started
+-   Users (public officers and vendors) need to have a TechPass account
+    to access [Singapore Government Tech Stack
+    (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html)
+    products in TechBiz.
 
-To access SGTS products, Users require a TechPass account. The TechPass account creation process is triggered, when a User receives an invitation email.
+This guide shows you how agencies can send TechPass invites to users from the TechBiz portal.
 
-This guide shows you how to send TechPass invitation emails to Users from the **Invite Users** module in the TechBiz Portal.
+## To invite users to TechPass:
 
-### Prerequisites
+**Prerequisites:**
 
-- Public Officers need to access the TechBiz Portal using their organisation email (gov.sg) from a GSIB device.
+-   A public officer with a valid organisation email (for example, <user_name@agency.gov.sg>)
 
-### Send TechPass invitation email
+-   Non-SE GSIB (Government Standard Image Build) device.
 
-1. Goto the [**TechBiz Portal.**](https://portal.dev.techbiz.suite.gov.sg/)
-2. Click **Login with TechPass.**
+1.  [Log in to the TechBiz
+    portal.](https://gccprod-my.sharepoint.com/personal/meenakshi_kartik_from_nsearch_tech_gov_sg/Documents/techbiz_overview_.docx#logintoTB)
+    \<Link to the login module\>
 
-3. From the Overview page **or** the left sidebar, click **Invite Users.**
+2.  In the **Overview** page, click **invite users.\
+    Note:** Alternatively, from the left sidebar, click **Invite
+    Users.**
 
-The three options to send TechPass invitations are displayed.
+> ![](media/image1.png){width="6.5in" height="2.3881944444444443in"}
 
-![Display Invitation Type](./assets/images/invitation_type.png)
+3.  Select the required **invitation type.**
 
-<details>
+  ------------------------------------------------------------------------------------------
+                                                    
+  ------------------------------------------------- ----------------------------------------
+  **Invitation type**                               **When to use**
 
-<summary>A. Email Invitation - Create TechPass accounts for Public Officers. </summary>
+  [Email invitation](#emailinvitation)              To send email invites to public
+                                                    officers.
 
-  - Enter the following details, and then click **Submit.**
+  [Create account](\l)                              To create TechPass accounts on behalf of
+                                                    public officers and vendors.
 
-  |Field Name| Description | Behaviour and Usage |
-  |---- |---- |---- |
-  | Email address| Email of User who requires a TechPass account| Should be a gov.sg email
-  | Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required | Does User need a SEED account? | This field is a radio button with options **Yes** or **No**|
-  |Reason | Reason for requirement of a TechPass account|
+  [Batch                                            To create TechPass accounts for multiple
+  upload](#_f56e926e_5c54_406e_b9a7_5933ef6fec6b)   users, including public officers and
+                                                    vendors.
+  ------------------------------------------------------------------------------------------
 
-</details> &nbsp
+![](media/image2.png){width="6.5in" height="2.134027777777778in"}
 
-<details>
+[]{#emailinvitation .anchor}**Email invitation**
 
-<summary>B. Create Account - To create TechPass accounts on behalf of Vendors as well as Public Officers.</summary>
+Specify the invitation email details and click **Submit.**
 
-  - Enter the following account details, and then click **Submit.**
+**Note:** Unless mentioned otherwise, all fields are mandatory.
 
-   |Field Name| Description | Behaviour and Usage|
-  |---- |---- |---- |
-  | Email address| Email of User who requires a TechPass account| Can be gov.sg or vendor email
-  | TechPass username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, the field will be greyed out.
-  |First Name | First Name of User|
-  |Last Name | Last Name of User |
-  |Contact Number| Mobile Number of User|
-  |Organisation |Organisation Name |
-  |Department| Department Name| This is an optional field
-| Is onboarding to SEED required | Does User need a SEED account?|  This field is a radio button with options **Yes** or **No**|
-  |Reason | Reason for requirement of a TechPass account|
+  ---------------------------------------------------------------------------------------------------- ----------------------------------------------------------
+                                                                                                       
 
-</details> &nbsp
+  **Field name**                                                                                       **Description and usage**
 
-<details>
+  **Email address**                                                                                    Enter the email address of the user who requires a
+                                                                                                       TechPass account.
+                                                                                                       
+                                                                                                       This should be a valid organisation email. Format of this
+                                                                                                       email address is <user_name@agency.gov.sg>. For example,
+                                                                                                       user_name@tech.gov.sg.
 
-<summary>C. Batch Upload - To create TechPass accounts for multiple users. </summary>
+  **Is onboarding to                                                                                   Select **Yes** if the user who requires a TechPass
+  [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)   account, needs to access SGTS services from an internet
+  required?**                                                                                          device, that requires SEED compliance.\
+                                                                                                       Select **No** if user needs to access SGTS services from a
+                                                                                                       Government Standard Image Build (GSIB) device.
 
-   - Click **Download excel template.**
+  **Reason**                                                                                           Enter the reason why you need a TechPass account.
+  ---------------------------------------------------------------------------------------------------- ----------------------------------------------------------
 
-  > **Note:** The template is a csv file with input fields.
+![](media/image3.png){width="6.5in" height="4.939583333333333in"}
 
-   - Fill in the following user details in the template.
+**Create account**
 
-   |Field Name| Description | Behaviour and Usage|
-  |---- |---- |---- |
-  | Email| Email of User who requires a TechPass account| Can be gov.sg or vendor email
-  | Username| Should start and end with alphanumeric characters, contains only alphanumeric characters, dash (-), underscore (_) and period (.) [no two consecutive periods] | This field is required if User is a Vendor. If User is a Public Officer, the field will be greyed out.
-  |First Name | First Name of User|
-  |Last Name | Last Name of User |
-  |Contact Number| Mobile Number of User|
-  |Organisation |Organisation Name |
-  |Department| Department Name| This is an optional field
-| Is onboarding to SEED required | Does User need a SEED account?|This field is a radio button with options **Yes** or **No**|
-  |Reason | Reason for requirement of a TechPass account|
+Specify the TechPass account details and click **Submit.**
 
-   - To select and upload the template, click **Choose a file.** 
-   
-   Once the file has been uploaded, the users details list will be displayed.
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                       
+  ---------------------------------------------------------------------------------------------------- -----------------------------------------------------------
+                                                                                                       
 
-   - Review the user details.
+  **Field name**                                                                                       **Description and usage**
 
-  > **Tip:** You can edit user details or even remove users from the displayed list.
+  Email address                                                                                        Enter the email address of the user who requires a TechPass
+                                                                                                       account.
+                                                                                                       
+                                                                                                       This should be a valid organisation email. Format of this
+                                                                                                       email address is <user_name@agency.gov.sg>. For example,
+                                                                                                       user_name@tech.gov.sg.
 
-    - Click **Submit.**
+  TechPass username                                                                                    This field is **required** if the user for whom you are
+                                                                                                       requesting a TechPass account is a vendor.
+                                                                                                       
+                                                                                                       Enter username. The username should start and end with
+                                                                                                       alphanumeric characters, contain only alphanumeric
+                                                                                                       characters, dash (-), underscore (\_) and period (.).
+                                                                                                       Ensure no two consecutive periods.
+                                                                                                       
+                                                                                                       **Note:** If the user for whom you are requesting a
+                                                                                                       TechPass account is a public officer, then their official
+                                                                                                       email address will be their TechPass username, so the field
+                                                                                                       will be greyed out and cannot be edited.
 
-    </details>
+  First Name                                                                                           Enter first name of the user.
 
+  Last Name                                                                                            Enter last name of the user.
+
+  Contact Number                                                                                       Enter mobile phone number of the user.
+
+  Organisation                                                                                         Enter organisation name.
+
+  Department                                                                                           Enter department name. This is an optional field.
+
+  Is onboarding to                                                                                     Select **Yes** if the user who requires a TechPass account,
+  [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)   needs to access SGTS services from an internet device, that
+  required?                                                                                            requires SEED compliance.\
+                                                                                                       Select **No** if user needs to access SGTS services from a
+                                                                                                       Government Standard Image Build (GSIB) device
+
+  Reason                                                                                               Enter the reason why you need a TechPass account.
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](media/image4.png){width="6.5in" height="7.20625in"}
+
+[]{#_f56e926e_5c54_406e_b9a7_5933ef6fec6b .anchor}
+
+**Batch upload**
+
+1.  Click **Download excel template link.**\
+    **Note:** The template is a csv file.
+
+![](media/image5.png){width="6.5in" height="2.386111111111111in"}
+
+2.  Specify the **user details** and save the file.
+3.  To upload the file, click **Choose a file.**
+
+![](media/image6.png){width="5.486111111111111in"
+height="1.6247331583552056in"}
+
+4.  Select the **file** and upload it.\
+    A confirmation message **"Uploaded \<filename\>.csv"** along with
+    the user details appears.
+5.  To **view or delete** user details from the file, click the ellipsis
+    on the row.
+
+> ![](media/image7.png){width="6.5in" height="2.098611111111111in"}
+
+6.  To reset user details, click **Reset.**\
+    To confirm reset, in the dialog, click **Confirm.**
+
+```{=html}
+<!-- -->
+```
