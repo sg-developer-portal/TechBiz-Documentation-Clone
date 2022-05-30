@@ -26,21 +26,21 @@ Topics:
 
 ## Request to create a system
 
-**Note:**
-
-By default, the public officer who requests to create a system is assigned the primary subscription admin role for that system in TechBiz.
+> **Note:** By default, the public officer who requests to create a system is assigned the primary subscription admin role for that system in TechBiz.
 
 **To submit a system creation request:**
 
 1.  Log in to the [TechBiz portal.](http://portal.dev.techbiz.suite.gov.sg/)
 
 > **Notes:**
-
--   If you log in with OTP, you are assigned the **OTP** role.
--   If you log in with [TechPass,](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) you are assigned the **USER** role.
+>
+> - If you log in with OTP, you are assigned the **OTP** role.
+>
+> - If you log in with [TechPass,](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) you are assigned the **USER** role.
 
 2.  In the **Overview** page, click **View systems**.
-    Note: Alternatively, from the **sidebar,** click **Systems.**
+
+> **Note:** Alternatively, from the **sidebar,** click **Systems.**
 
 3.  In the **Systems** page, click **Create system.**
 
