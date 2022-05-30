@@ -4,13 +4,13 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 
 ![Display Landing Page](/images/landing_page.png)
 
-## Log in without TechPass account
+## Log in with TechPass OTP service
 
 1.  Go to the [TechBiz portal.](http://portal.dev.techbiz.suite.gov.sg/)
 
 2.  Click **Get Started.**
 
-3.  Enter your organisation email, and click **Next.**  
+3.  Enter your organisation email, and click **Next.**   
 An OTP is sent to the specified email address.
 
 > **Note:** OTP will be sent to organisational emails only. (For example, user_name@tech.gov.sg)
@@ -28,3 +28,5 @@ An OTP is sent to the specified email address.
 3.  Follow the on-screen instructions and approve sign-in request.
 
 ![Display Overview](/images/TechBiz_overview.png)
+
+> Note: The Overview page displays differently when you log in with TechPass or with TechPass OTP.
