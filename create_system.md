@@ -61,8 +61,7 @@ Topics:
 | **Field Name** | **Description** |
 |---- |---- |
 | **Account details** | This section is for agencies to specify their account details|
-| **Agency name** | Select your agency name from the drop-down list. |
-| | **Note:** <ul><li>If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section.</li> <li>For other government agencies, enter your **Sub Business Unit (SBU)** details.</li></ul>|
+| **Agency name** | Select your agency name from the drop-down list. <ul><li>**Note:**</li></ul> <ul><li>If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section.</li> <li>For other government agencies, enter your **Sub Business Unit (SBU)** details.</li></ul>|
 | **System name** | Enter your system name.|
 | **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
 | **Digital Governance Platform (DGP) ID** | Depending on whether your agency has a DGP ID or not; select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  
