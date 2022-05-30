@@ -64,14 +64,8 @@ Topics:
 | **Agency name** | Select your agency name from the drop-down list. <ul><li>If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section.</li> <li>For other government agencies, enter your **Sub Business Unit (SBU)** details.</li></ul>|
 | **System name** | Enter your system name.|
 | **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
-| **Digital Governance Platform (DGP) ID** | Depending on whether your agency has a DGP ID or not; select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  
-> **Notes:**
->
-> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.
->
-> - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
-| ** Subscription admins**| This section is meant for public officers with a valid organisation email. Enter the details of the primary and secondary subscription admins.
-> **Note:** If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.
+| **Digital Governance Platform (DGP) ID** | Depending on whether your agency has a DGP ID or not; select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
+| **Subscription admins**| This section is meant for public officers with a valid organisation email. Enter the details of the primary and secondary subscription admins. <ul><li>If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
 
 
 +----------------------
