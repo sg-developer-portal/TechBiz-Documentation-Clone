@@ -1,27 +1,18 @@
-# Contents {#contents .TOC-Heading}
-
-[Create system [1](#create-system)](#create-system)
-
-[Request to create a system [1](#_Toc104732422)](#_Toc104732422)
-
 # Create system
 
 **Prerequisites:**
 
--   You should be a public officer with a valid organisation email (for
-    example user_name@agency.gov.sg).
+-   Public officer with a valid organisation email (for example user_name@agency.gov.sg)
 
--   non-SE GSIB (Government Standard Image Build) device.
+-   non-SE Government Standard Image Build (GSIB) device
 
 **What is a system?**
 
 A system is an agency namespace in TechBiz.
 
-To subscribe to [Singapore Government Tech Stack
-(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html)
-products, agencies need to create a system in the TechBiz portal.
+To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to create a system in the TechBiz portal.
 
-Note: An agency can have multiple systems in TechBiz.
+> Note: An agency can have multiple systems in TechBiz.
 
 **Who can create a system?**
 
@@ -31,74 +22,52 @@ Topics:
 
 -   **Request to create a system**
 -   **Approve or reject system creation request**
--   [**Configure products**](#configure-products)
+-   **Configure products**
 
 ## Request to create a system
 
 Note:
 
-By default, the public officer who requests to create a system is
-assigned the primary subscription admin role for that system in TechBiz.
+By default, the public officer who requests to create a system is assigned the primary subscription admin role for that system in TechBiz.
 
 **To submit a system creation request:**
 
-1.  Log in to the TechBiz portal. \<Link to the login module\>
+1.  Log in to the [TechBiz portal.](http://portal.dev.techbiz.suite.gov.sg/)
 
-Notes:
+> Notes:
 
 -   If you log in with OTP, you are assigned the **OTP** role.
--   If you log in with
-    [TechPass,](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html)
-    you are assigned the **USER** role.
+-   If you log in with [TechPass,](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) you are assigned the **USER** role.
 
-2.  In the **Overview** page, click **View systems**.\
+2.  In the **Overview** page, click **View systems**.
     Note: Alternatively, from the **sidebar,** click **Systems.**
 
 3.  In the **Systems** page, click **Create system.**
 
-![](media/image1.png){width="6.5in" height="1.5965277777777778in"}
+![Display Create system]((/images/create_system.png))
 
-4.  Ensure that you have the required information ready and click
-    **Next.**
+4.  Ensure that you have the required information ready and click **Next.**
 
-5.  Select the checkbox to agree to the terms and conditions mentioned
-    in the **SGTS Universal Service Terms** and click **Next.**\
-    \
-    **Note:** Read and select the checkbox to proceed further to the
-    next step.\
-    To download the agreement, click **Download the SGTS agreement**
-    link.
+5.  Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.**
+    
+> Note: Read and select the checkbox to proceed further to the next step. To download the agreement, click **Download the SGTS agreement** link.
 
-![](media/image2.png){width="6.5in" height="4.977083333333334in"}
+![Display Create system]((/images/create_system_UST.png))
 
 6.  Specify the required **System details** and click **Next.**
 
 **Important:** Unless mentioned otherwise, all fields are mandatory.
 
-+-------------------------+--------------------------------------------+
-|                         |                                            |
-+=========================+============================================+
-| **Field Name**          | **Description**                            |
-+-------------------------+--------------------------------------------+
-| **Account details**     | This section is for agencies to specify    |
-|                         | their account details.                     |
-+-------------------------+--------------------------------------------+
-| **Agency name**         | Select your agency name from the drop-down |
-|                         | list.                                      |
-|                         |                                            |
-|                         | Note: If your agency is                    |
-|                         | [GovTech](https://www.tech.gov.sg/), you   |
-|                         | need to enter the **Agency** **department, |
-|                         | Cost center** and **Fund center** in the   |
-|                         | billing details section. For other         |
-|                         | government agencies, enter your **Sub      |
-|                         | Business Unit (SBU)** details.             |
-+-------------------------+--------------------------------------------+
-| **System name**         | Enter your system name.                    |
-+-------------------------+--------------------------------------------+
-| **System ID**           | The system id is automatically generated   |
-|                         | and cannot be edited.\                     |
-|                         | *(Definition and purpose. TBC.)*           |
+| **Field Name** | **Description** |
+|---- |---- |
+| **Account details** | This section is for agencies to specify their account details|
+| **Agency name** | Select your agency name from the drop-down list. |
+|---- | Note: If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section. For other government agencies, enter your **Sub Business Unit (SBU)** details.|
+| **System name** | Enter your system name.|
+| **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
+| **Digital Governance Platform (DGP) ID** | 
+
+
 +-------------------------+--------------------------------------------+
 | **Digital Governance    | Depending on whether your agency has a DGP |
 | Platform (DGP) ID**     | ID or not; select **Yes, I have a DGP ID** |
