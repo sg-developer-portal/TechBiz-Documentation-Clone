@@ -67,39 +67,17 @@ Topics:
 - For other government agencies, enter your **Sub Business Unit (SBU)** details.|
 | **System name** | Enter your system name.|
 | **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
-| **Digital Governance Platform (DGP) ID** | 
+| **Digital Governance Platform (DGP) ID** | Depending on whether your agency has a DGP ID or not; select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  
+> **Notes:**
+>
+> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.
+>
+> - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
+| ** Subscription admins**| This section is meant for public officers with a valid organisation email. Enter the details of the primary and secondary subscription admins.
+> **Note:** If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.
 
 
-+-------------------------+--------------------------------------------+
-| **Digital Governance    | Depending on whether your agency has a DGP |
-| Platform (DGP) ID**     | ID or not; select **Yes, I have a DGP ID** |
-|                         | or **No, I do not have a DGP ID.**         |
-|                         |                                            |
-|                         | If yes, select your **DGP System ID** from |
-|                         | the dropdown.\                             |
-|                         | The **sub system description** appears.    |
-|                         |                                            |
-|                         | Notes:                                     |
-|                         |                                            |
-|                         | -   If your agency has multiple DGP IDs,   |
-|                         |     you can select multiple **DGP System   |
-|                         |     IDs** from the dropdown.               |
-|                         |                                            |
-|                         | -   If you are unable to locate your DGP   |
-|                         |     ID, click **No, I do not have a DGP    |
-|                         |     ID,** and update accordingly in due    |
-|                         |     course.                                |
-+-------------------------+--------------------------------------------+
-| **Subscription admins** | This section is meant for public officers  |
-|                         | with a valid organisation email. Enter the |
-|                         | details of the primary and secondary       |
-|                         | subscription admins.\                      |
-|                         | \                                          |
-|                         | Note: If the primary and secondary         |
-|                         | subscription admins do not have a TechPass |
-|                         | account, these will be created             |
-|                         | automatically after the system creation    |
-|                         | request is approved.                       |
++----------------------
 +-------------------------+--------------------------------------------+
 | **Primary subscription  | By default, the requestor is assigned as   |
 | admin**                 | the primary subscription admin. Hence,     |
@@ -243,17 +221,15 @@ Topics:
 | **SBU**                 | Enter the sub business unit.               |
 +-------------------------+--------------------------------------------+
 
-\<acct_det.png\>
+![Display account details](/images/acct_det.png)
 
-\<subscr_admin.png\>
+![Display subscription admin](/images/subscr_admin.png)
 
-Notes:
-
--   To save your entries, click **Save draft.**
-
--   To resume editing, locate your system in the **Systems page** and
-    click **Edit Draft.** To proceed further to the next step, click
-    **Next.**
+> **Notes:**
+>
+> - To save your entries, click **Save draft.**
+>
+> - To resume editing, locate your system in the **Systems page** and click **Edit Draft.** To proceed further to the next step, click **Next.**
 
 7.  Select the required **products** and click **Next.**
 
@@ -325,7 +301,7 @@ Notes:
 |                          | are the options? TBC*                      |
 +--------------------------+--------------------------------------------+
 
-![](media/image3.png){width="4.888194444444444in" height="9.0in"}
+
 
 9.  Specify the approver details and click Next.
 
