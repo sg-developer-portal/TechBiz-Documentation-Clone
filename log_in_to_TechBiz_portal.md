@@ -17,7 +17,7 @@ An OTP is sent to the specified email address.
 
 4.  Enter the OTP received in your email, and click **Submit.**
 
-![Display Overview](/images/TechBiz_overview.png)
+![Display Overview](/images/TechBiz_overviewwo.png)
 
 ## Log in with TechPass
 
@@ -26,3 +26,5 @@ An OTP is sent to the specified email address.
 2.  Click **Login with TechPass.**
 
 3.  Follow the on-screen instructions and approve sign-in request.
+
+![Display Overview](/images/TechBiz_overview.png)
