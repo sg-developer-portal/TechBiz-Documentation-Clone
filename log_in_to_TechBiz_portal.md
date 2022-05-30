@@ -29,4 +29,4 @@ An OTP is sent to the specified email address.
 
 ![Display Overview](/images/TechBiz_overview.png)
 
-> Note: The Overview page displays differently when you log in with TechPass or with TechPass OTP service.
+> **Note:** The Overview page displays differently when you log in with TechPass or with TechPass OTP service.

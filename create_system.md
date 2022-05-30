@@ -12,7 +12,7 @@ A system is an agency namespace in TechBiz.
 
 To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to create a system in the TechBiz portal.
 
-> Note: An agency can have multiple systems in TechBiz.
+> **Note:** An agency can have multiple systems in TechBiz.
 
 **Who can create a system?**
 
@@ -26,7 +26,7 @@ Topics:
 
 ## Request to create a system
 
-Note:
+**Note:**
 
 By default, the public officer who requests to create a system is assigned the primary subscription admin role for that system in TechBiz.
 
@@ -34,7 +34,7 @@ By default, the public officer who requests to create a system is assigned the p
 
 1.  Log in to the [TechBiz portal.](http://portal.dev.techbiz.suite.gov.sg/)
 
-> Notes:
+> **Notes:**
 
 -   If you log in with OTP, you are assigned the **OTP** role.
 -   If you log in with [TechPass,](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) you are assigned the **USER** role.
@@ -50,19 +50,19 @@ By default, the public officer who requests to create a system is assigned the p
 
 5.  Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.**
     
-> Note: Read and select the checkbox to proceed further to the next step. To download the agreement, click **Download the SGTS agreement** link.
+> **Note:** Read and select the checkbox to proceed further to the next step. To download the agreement, click **Download the SGTS agreement** link.
 
 ![Display Create system]((/images/create_system_UST.png))
 
 6.  Specify the required **System details** and click **Next.**
 
-**Important:** Unless mentioned otherwise, all fields are mandatory.
+!> **Important:** Unless mentioned otherwise, all fields are mandatory.
 
 | **Field Name** | **Description** |
 |---- |---- |
 | **Account details** | This section is for agencies to specify their account details|
 | **Agency name** | Select your agency name from the drop-down list. |
-|---- | Note: If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section. For other government agencies, enter your **Sub Business Unit (SBU)** details.|
+|---- | **Note:** If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section. For other government agencies, enter your **Sub Business Unit (SBU)** details.|
 | **System name** | Enter your system name.|
 | **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
 | **Digital Governance Platform (DGP) ID** | 
