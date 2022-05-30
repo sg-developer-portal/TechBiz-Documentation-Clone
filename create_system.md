@@ -110,10 +110,7 @@ Topics:
 | **Field name** | **Description**
 |---- |---- 
 | **Select plan(s)** | This section is for agencies to select product subscription plan(s). <ul><li>To select a subscription plan, go to the individual product tab. You need to select subscription plan(s) for all the required product(s) before you can proceed to the next step.</li></ul>
-| **Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. <ul><li>Actual start date will be later than the selected start date as it includes the time required for:</li>
-<li>1. The agency approver to approve the system creation request.</li>
-<li>2. The agency to provide product configuration details.</li>
-<li>3. The product team to provision the resources.</li>
+| **Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: <ul><li>The agency approver to approve the system creation request.</li><li>The agency to provide product configuration details.</li><li>The product team to provision the resources.</li></ul>
 | **Product agreement** | To download a copy of the product’s terms and conditions, click **Product agreement.**
 | Select a plan| This refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
