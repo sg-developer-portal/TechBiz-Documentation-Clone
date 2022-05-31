@@ -1,5 +1,5 @@
 # Create system
-To subscribe to Singapore Government Tech Stack (SGTS) products via the TechBiz portal, agencies need to create a system and onboard it to TechBiz.
+To subscribe to Singapore Government Tech Stack (SGTS) products agencies need to onboard their system to TechBiz via the **Manage systems** module in the TechBiz portal.
 
 **What is a system?**
 
@@ -11,21 +11,15 @@ An agency project is refered to as a system in TechBiz.
 
 A public officer with a valid organisation email.
 
-The onboarding process:
+Steps to onboard are:
 
-- Raise a system creation request
-
-- Obtain approval
-
-- Configure products
-
-## Raise a system creation request
+## Step 1: Raise a system creation request
 
 > **Note:** By default, the public officer who requests to create a system is assigned the PRIMARY SUBSCRIPTION ADMIN role for that system in TechBiz.
 
 **To submit a system creation request:**
 
-1.  Log in to the [TechBiz portal.](http://portal.dev.techbiz.suite.gov.sg/)
+1.  Log in to the [TechBiz portal.](https://portal.techbiz.suite.gov.sg )
 
 2.  In the **Overview** page, click **View systems**. Alternatively, from the **sidebar,** click **Systems.**
 
@@ -45,8 +39,8 @@ The onboarding process:
 |---- |---- |
 | **Account details** | This section is for agencies to specify their account details|
 | **Agency name** | Select your agency name from the drop-down list.
-| **System name** | Enter your system name.(to desribe what this field means)|
-| **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
+| **System name** | Enter your system name.
+| **System ID** | The system id is automatically generated and cannot be edited.
 | **Digital Governance Platform (DGP) ID** | Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
 | **Subscription admins**| Enter the details of the primary and secondary subscription admins. <ul><li>If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
 | **Primary subscription admin** | By default, the requestor is assigned as the primary subscription admin. <ul><li> The primary subscription admin can only be a public officer with a valid organisation email.</li></ul>
@@ -116,11 +110,7 @@ click **Submit.**
 11. In the **Submit for approval** pop-up window, review the terms
 and conditions, select all **checkboxes** and click **Submit.**
 
-\<submit1.png\>
-
-\<submit2.png\>
-
-## Approve or reject a system creation request
+## Step 2: Obtain approval
 
 When a requestor submits a request to create a system, the designated agency officer (Deputy Director and above) receives an email to process this request.
 
@@ -138,7 +128,8 @@ To approve or reject a system creation request:
 
 The requestor receives the outcome of the approval request via email. The approval status is updated in the TechBiz portal.
 
-## Configure products
+## Step 3: Configure products
+
 
 
 
