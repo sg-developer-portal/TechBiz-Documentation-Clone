@@ -1,13 +1,5 @@
 # Create system
-To subscribe to Singapore Government Tech Stack (SGTS) products via the TechBiz portal, agencies need to follow the onboarding process.
-
-The onboarding process involves:
-
-- Request to create a system
-
-- Obtain approval
-
-- Configure products
+To subscribe to Singapore Government Tech Stack (SGTS) products via the TechBiz portal, agencies need to onboard their system to TechBiz.
 
 **What is a system?**
 
@@ -18,6 +10,14 @@ An agency project is refered to as a system in TechBiz.
 **Who can raise a system creation request?**
 
 A public officer with a valid organisation email.
+
+The onboarding process:
+
+- Raise a system creation request
+
+- Obtain approval
+
+- Configure products
 
 ## Request to create a system
 
