@@ -4,7 +4,7 @@ TechBiz is a one-stop shop for government agencies to subscribe to [Singapore Go
 
 ## The TechBiz portal
 
-The [TechBiz portal](http://portal.dev.techbiz.suite.gov.sg/) is a web-based console for agencies to create and manage their systems, subscriptions, and users.
+The [TechBiz portal](http://portal.stg.techbiz.suite.gov.sg/) is a web-based console for agencies to create and manage their systems, subscriptions, and users.
 
 ### Prerequisites to access the TechBiz portal: 
 
@@ -18,8 +18,6 @@ The [TechBiz portal](http://portal.dev.techbiz.suite.gov.sg/) is a web-based con
 
 -   [Log in to the TechBiz portal](log_in_to_TechBiz_portal.md)
 
--   [Invite users](invite_users.md)
-
 -   [Create system](create_system.md)
 
     - Request to create a system
@@ -27,3 +25,5 @@ The [TechBiz portal](http://portal.dev.techbiz.suite.gov.sg/) is a web-based con
     - Approve or reject a system creation request
 
     - Configure products
+
+-   [Invite users](invite_users.md)
