@@ -1,28 +1,23 @@
 # Create system
+To subscribe to Singapore Government Tech Stack (SGTS) products via the TechBiz portal, agencies need to follow the onboarding process.
 
-**Prerequisites:**
+The onboarding process involves:
 
--   Public officer with a valid organisation email (for example user_name@agency.gov.sg)
+- Request to create a system
 
--   non-SE Government Standard Image Build (GSIB) device
+- Obtain approval
+
+- Configure products
 
 **What is a system?**
 
-A system is an agency namespace (to simplify) in TechBiz.
-
-To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to create a system in the TechBiz portal.
+An agency project is refered to as a system in TechBiz.
 
 > **Note:** An agency can have multiple systems in TechBiz.
 
-**Who can create a system?**
+**Who can raise a system creation request?**
 
 A public officer with a valid organisation email.
-
-Topics:
-
--   **Request to create a system**
--   **Approve or reject system creation request**
--   **Configure products**
 
 ## Request to create a system
 
@@ -133,7 +128,7 @@ To approve or reject a system creation request:
 
 1. Review the attachments in the email notification.
 
-2. [Log in to the TechBiz portal](log_in_to_TechBiz_portal.md)
+2. [Log in to the TechBiz portal.](log_in_to_TechBiz_portal.md)
 
 3. In the **Overview** page, click **View systems**.
 

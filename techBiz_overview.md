@@ -16,14 +16,8 @@ The [TechBiz portal](http://portal.stg.techbiz.suite.gov.sg/) is a web-based con
 
 **Next steps**
 
--   [Log in to the TechBiz portal](log_in_to_TechBiz_portal.md)
+-   [Log in to the TechBiz portal.](log_in_to_TechBiz_portal.md)
 
 -   [Create system](create_system.md)
-
-    - Request to create a system
-
-    - Approve or reject a system creation request
-
-    - Configure products
 
 -   [Invite users](invite_users.md)
