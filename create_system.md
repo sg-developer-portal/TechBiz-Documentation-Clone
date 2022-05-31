@@ -11,9 +11,9 @@ An agency project is refered to as a system in TechBiz.
 
 A public officer with a valid organisation email.
 
-Steps to onboard are:
+## Steps to onboard are:
 
-## Step 1: Raise a system creation request
+### Step 1: Raise a system creation request
 
 > **Note:** By default, the public officer who requests to create a system is assigned the PRIMARY SUBSCRIPTION ADMIN role for that system in TechBiz.
 
@@ -110,7 +110,7 @@ click **Submit.**
 11. In the **Submit for approval** pop-up window, review the terms
 and conditions, select all **checkboxes** and click **Submit.**
 
-## Step 2: Obtain approval
+### Step 2: Obtain approval
 
 When a requestor submits a request to create a system, the designated agency officer (Deputy Director and above) receives an email to process this request.
 
@@ -128,11 +128,6 @@ To approve or reject a system creation request:
 
 The requestor receives the outcome of the approval request via email. The approval status is updated in the TechBiz portal.
 
-## Step 3: Configure products
+### Step 3: Configure products
 
 
-
-
-**Next steps:**
-
-Invite users
