@@ -32,12 +32,6 @@ Topics:
 
 1.  Log in to the [TechBiz portal.](http://portal.dev.techbiz.suite.gov.sg/)
 
-> **Notes:**
->
-> - If you log in with OTP, you are assigned the **OTP** role. 
->
-> - If you log in with [TechPass,](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) you are assigned the **USER** role.
-
 2.  In the **Overview** page, click **View systems**. Alternatively, from the **sidebar,** click **Systems.**
 
 3.  In the **Systems** page, click **Create system.**
@@ -48,7 +42,7 @@ Topics:
 
 5.  Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
-6.  Following is the list of System details needed to create a system.
+6.  Following is the list of **System details** needed to create a system.
 
 !> **Important:** Unless mentioned otherwise, all fields are mandatory.
 
@@ -56,11 +50,11 @@ Topics:
 |---- |---- |
 | **Account details** | This section is for agencies to specify their account details|
 | **Agency name** | Select your agency name from the drop-down list.
-| **System name** | Enter your system name.|
+| **System name** | Enter your system name.(to desribe what this field means)|
 | **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
 | **Digital Governance Platform (DGP) ID** | Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
 | **Subscription admins**| Enter the details of the primary and secondary subscription admins. <ul><li>If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
-| **Primary subscription admin** | By default, the requestor is assigned as the primary subscription admin <ul><li> The primary subscription admin can only be a public officer with a valid organisation email.</li></ul>
+| **Primary subscription admin** | By default, the requestor is assigned as the primary subscription admin. <ul><li> The primary subscription admin can only be a public officer with a valid organisation email.</li></ul>
 | **Email address** | By default this displays the organisation email address of the requestor. <ul><li>If the requestor’s email address is linked to a TechPass account, the First name, Last name and Contact number are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
 | **First name** | Enter the first name of the requestor. |
 | **Last name** | Enter the last name of the requestor. 
@@ -90,12 +84,6 @@ Topics:
 ![Display account details](/images/acct_det.png)
 
 ![Display subscription admin](/images/subscr_admin.png)
-
-> **Notes:**
->
-> - To save your entries, click **Save draft.**
->
-> - To resume editing, locate your system in the **Systems page** and click **Edit Draft.** To proceed further to the next step, click **Next.**
 
 7.  Select the required **products** and click **Next.**
 
@@ -138,6 +126,22 @@ and conditions, select all **checkboxes** and click **Submit.**
 \<submit2.png\>
 
 ## Approve or reject a system creation request
+
+When a requestor submits a request to create a system, the designated agency officer (Deputy Director and above) receives an email to process this request.
+
+To approve or reject a system creation request:
+
+1. Review the attachments in the email notification.
+
+2. [Log in to the TechBiz portal](log_in_to_TechBiz_portal.md)
+
+3. In the **Overview** page, click **View systems**.
+
+4. Click on the **system** that requires your approval.
+
+5. Click **Approve** or **Reject.**
+
+The requestor receives the outcome of the approval request via email. The approval status is updated in the TechBiz portal.
 
 ## Configure products
 

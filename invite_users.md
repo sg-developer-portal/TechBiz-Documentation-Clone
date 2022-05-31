@@ -16,8 +16,7 @@ This guide shows you how agencies can send TechPass invites to users from the Te
 
 1.  Log in to the TechBiz portal.
 
-2.  In the **Overview** page, click **invite users.
-    Note:** Alternatively, from the left sidebar, click **Invite
+2.  In the **Overview** page, click **invite users.** Alternatively, from the left sidebar, click **Invite
     Users.**
 
 > ![](media/image1.png){width="6.5in" height="2.3881944444444443in"}
