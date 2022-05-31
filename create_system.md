@@ -5,7 +5,7 @@ To subscribe to Singapore Government Tech Stack (SGTS) products via the TechBiz 
 
 An agency project is refered to as a system in TechBiz.
 
-> **Note:** An agency can have multiple systems in TechBiz.
+> **Note:** An agency can have multiple systems.
 
 **Who can raise a system creation request?**
 

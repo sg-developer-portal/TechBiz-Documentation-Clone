@@ -13,11 +13,11 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 3.  Enter your **organisation email,** and click **Next.**   
 An OTP is sent to the specified email address.
 
-> **Note:** OTP will be sent to government emails only. (For example, user_name@tech.gov.sg)
+> **Note:** OTP will be sent to government emails only. (For example,user_name@tech.gov.sg)
 
 4.  Enter the **OTP** received in your email, and click **Submit.**
 
-![Display Overview](/images/TechBiz_overviewwo.png)
+![Display Overview](/images/log_in_withotp_OTP_overview_otp.png)
 
 ## Log in with TechPass
 
@@ -26,5 +26,3 @@ An OTP is sent to the specified email address.
 2.  Click **Login with TechPass.**
 
 3.  Follow the on-screen instructions and approve sign-in request.
-
-![Display Overview](/images/TechBiz_overview.png)
