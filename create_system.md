@@ -126,8 +126,20 @@ To approve or reject a system creation request:
 
 5. Click **Approve** or **Reject.**
 
-The requestor receives the outcome of the approval request via email. The approval status is updated in the TechBiz portal.
+The requestor receives the outcome of the approval request via email. After obtaining approval, to complete the onboarding process, requestor needs to configure products in the TechBiz portal.
 
 ### Step 3: Configure products
 
+To configure products:
 
+1. [Log in to the TechBiz portal.](log_in_to_TechBiz_portal.md)
+
+2. In the **Overview** page, click **View systems**.
+
+3. Click on the approved system.
+
+3. To select a subscription plan, go to the **Products** tab.
+
+4. To configure a product, click **View and configure.**
+
+5. Enter the User details.
