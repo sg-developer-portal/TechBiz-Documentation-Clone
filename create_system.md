@@ -8,7 +8,7 @@
 
 **What is a system?**
 
-A system is an agency namespace in TechBiz.
+A system is an agency namespace (to simplify) in TechBiz.
 
 To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to create a system in the TechBiz portal.
 
@@ -26,7 +26,7 @@ Topics:
 
 ## Request to create a system
 
-> **Note:** By default, the public officer who requests to create a system is assigned the primary subscription admin role for that system in TechBiz.
+> **Note:** By default, the public officer who requests to create a system is assigned the PRIMARY SUBSCRIPTION ADMIN role for that system in TechBiz.
 
 **To submit a system creation request:**
 
@@ -34,13 +34,11 @@ Topics:
 
 > **Notes:**
 >
-> - If you log in with OTP, you are assigned the **OTP** role.
+> - If you log in with OTP, you are assigned the **OTP** role. 
 >
 > - If you log in with [TechPass,](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) you are assigned the **USER** role.
 
-2.  In the **Overview** page, click **View systems**.
-
-> **Note:** Alternatively, from the **sidebar,** click **Systems.**
+2.  In the **Overview** page, click **View systems**. Alternatively, from the **sidebar,** click **Systems.**
 
 3.  In the **Systems** page, click **Create system.**
 
@@ -48,25 +46,21 @@ Topics:
 
 4.  Ensure that you have the required information ready and click **Next.**
 
-5.  Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.**
-    
-> **Note:** Read and select the checkbox to proceed further to the next step. To download the agreement, click **Download the SGTS agreement** link.
+5.  Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
-![Display Create system](/images/create_system_UST.png)
-
-6.  Specify the required **System details** and click **Next.**
+6.  Following is the list of System details needed to create a system.
 
 !> **Important:** Unless mentioned otherwise, all fields are mandatory.
 
 | **Field Name** | **Description** |
 |---- |---- |
 | **Account details** | This section is for agencies to specify their account details|
-| **Agency name** | Select your agency name from the drop-down list. <ul><li>If your agency is [GovTech]((https://www.tech.gov.sg/) you need to enter the **Agency department,** **Cost center,** and **Fund center** in the billing details section.</li> <li>For other government agencies, enter your **Sub Business Unit (SBU)** details.</li></ul>|
+| **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter your system name.|
 | **System ID** | The system id is automatically generated and cannot be edited. *(Definition and purpose. TBC.)* |
-| **Digital Governance Platform (DGP) ID** | Depending on whether your agency has a DGP ID or not; select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
-| **Subscription admins**| This section is meant for public officers with a valid organisation email. Enter the details of the primary and secondary subscription admins. <ul><li>If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
-| **Primary subscription admin** | By default, the requestor is assigned as the primary subscription admin. Hence, this section displays details of the requestor. <ul><li> The primary subscription admin can only be a public officer with a valid organisation email.</li></ul>
+| **Digital Governance Platform (DGP) ID** | Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
+| **Subscription admins**| Enter the details of the primary and secondary subscription admins. <ul><li>If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
+| **Primary subscription admin** | By default, the requestor is assigned as the primary subscription admin <ul><li> The primary subscription admin can only be a public officer with a valid organisation email.</li></ul>
 | **Email address** | By default this displays the organisation email address of the requestor. <ul><li>If the requestor’s email address is linked to a TechPass account, the First name, Last name and Contact number are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
 | **First name** | Enter the first name of the requestor. |
 | **Last name** | Enter the last name of the requestor. 
@@ -87,7 +81,7 @@ Topics:
 | **First name** | Enter the first name of the billing admin. |
 | **Last name** | Enter the last name of the billing admin. 
 | **Contact number** | Enter the contact number of the billing admin.
-| | **Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details.</li><li>All other agencies need to fill in the SBU details.</li></ul>
+| | **Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
 | **Agency department** | Enter the department name.
 | **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
 | **Fund center** | Enter the fund center details. 
