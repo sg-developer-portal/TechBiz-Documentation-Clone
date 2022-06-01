@@ -11,7 +11,7 @@ An agency project is refered to as a system in TechBiz.
 
 A public officer with a valid organisation email.
 
-Onboarding steps:
+**How to create a system?**
 
 - [Raise a system creation request](#raise-a-system-creation-request)
 
