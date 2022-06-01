@@ -1,6 +1,12 @@
 # Create system
 To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products agencies need to create a system in TechBiz.
 
+**Prerequisites**
+
+- You should be a public officer with a valid organisation email (for example, user_name@agency.gov.sg)
+
+- non-SE GSIB (Government Standard Image Build) device
+
 **What is a system?**
 
 An agency project is refered to as a system in TechBiz.
@@ -9,7 +15,7 @@ An agency project is refered to as a system in TechBiz.
 
 **Who can raise a system creation request?**
 
-A public officer with a valid organisation email.
+- A public officer with a valid organisation email.
 
 **How to create a system?**
 
