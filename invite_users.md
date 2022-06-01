@@ -62,7 +62,8 @@ Specify the TechPass account details and click **Submit.**
 ### Batch upload
 
 1.  Click **Download excel template link.**
-**Note:** The template is a csv file.
+
+> **Note:** The template is a csv file.
 
 ![Display Batch upload](/images/batch_upload_1.png)
 
@@ -72,15 +73,11 @@ Specify the TechPass account details and click **Submit.**
 
 ![Display Batch upload](/images/batch_upload_2.png)
 
-4.  Select the **file** and upload it.
-    A confirmation message **Uploaded \<filename\>.csv** along with
-    the user details appears.
-5.  To **view or delete** user details from the file, click the ellipsis
-    on the row.
+4.  Select the **file** and upload it. A confirmation message **Uploaded \<filename\>.csv** along with the user details appears.
+5.  To **view or delete** user details from the file, click the ellipsis on the row.
 
 ![Display Batch upload](/images/batch_upload_3.png)
 
-6.  To reset user details, click **Reset.**
-    To confirm reset, in the dialog, click **Confirm.**
+6.  To reset user details, click **Reset.** To confirm reset, in the dialog, click **Confirm.**
 
 
