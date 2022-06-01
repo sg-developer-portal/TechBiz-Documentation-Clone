@@ -13,7 +13,7 @@ An agency project is refered to as a system in TechBiz.
 
 > **Note:** An agency can have multiple systems.
 
-**Who can raise a system creation request?**
+**Who can create a system?**
 
 - A public officer with a valid organisation email.
 
