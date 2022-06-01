@@ -1,5 +1,5 @@
 # Create system
-To subscribe to Singapore Government Tech Stack (SGTS) products agencies need to onboard their system to TechBiz via the **Manage systems** module in the TechBiz portal.
+To subscribe to Singapore Government Tech Stack (SGTS) products agencies need to create a system in TechBiz via the **Manage systems** module in the TechBiz portal.
 
 **What is a system?**
 
@@ -11,9 +11,15 @@ An agency project is refered to as a system in TechBiz.
 
 A public officer with a valid organisation email.
 
-## Onboarding steps
+Onboarding steps:
 
-### Step 1: Raise a system creation request
+- [Raise a system creation request](#raise-a-system-creation-request)
+
+- [Obtain approval](#obtain-approval)
+
+- [Configure products](#configure-products)
+
+## Raise a system creation request
 
 > **Note:** By default, the public officer who requests to create a system is assigned the PRIMARY SUBSCRIPTION ADMIN role for that system in TechBiz.
 
@@ -110,7 +116,7 @@ click **Submit.**
 11. In the **Submit for approval** pop-up window, review the terms
 and conditions, select all **checkboxes** and click **Submit.**
 
-### Step 2: Obtain approval
+## Obtain approval
 
 When a requestor submits a request to create a system, the designated agency officer (Deputy Director and above) receives an email to process this request.
 
@@ -128,7 +134,7 @@ To approve or reject a system creation request:
 
 The requestor receives the outcome of the approval request via email. After obtaining approval, to complete the onboarding process, requestor needs to configure products in the TechBiz portal.
 
-### Step 3: Configure products
+## Configure products
 
 To configure products:
 
