@@ -21,7 +21,7 @@ A public officer with a valid organisation email.
 
 ## Raise a system creation request
 
-> **Note:** By default, the public officer who requests to create a system is assigned the PRIMARY SUBSCRIPTION ADMIN role for that system in TechBiz.
+> **Note:** By default, the public officer who requests to create a system is assigned the Primary Subscription Admin role for that system in TechBiz.
 
 **To submit a system creation request:**
 
@@ -48,28 +48,28 @@ A public officer with a valid organisation email.
 | **System name** | Enter your system name.
 | **System ID** | The system id is automatically generated and cannot be edited.
 | **Digital Governance Platform (DGP) ID** | Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
-| **Subscription admins**| Enter the details of the primary and secondary subscription admins. <ul><li>If the primary and secondary subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
-| **Primary subscription admin** | By default, the requestor is assigned as the primary subscription admin. <ul><li> The primary subscription admin can only be a public officer with a valid organisation email.</li></ul>
-| **Email address** | By default this displays the organisation email address of the requestor. <ul><li>If the requestor’s email address is linked to a TechPass account, the First name, Last name and Contact number are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
+| **Subscription admins**| Enter the details of the Primary and Secondary Subscription Admins. <ul><li>If the Primary and Secondary Subscription Admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
+| **Primary subscription admin** | By default, the requestor is assigned as the Primary Subscription Admin. <ul><li> The Primary Subscription Admin can only be a public officer with a valid organisation email.</li></ul>
+| **Email address** | By default this displays the organisation email address of the requestor. <ul><li>If the requestor’s email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
 | **First name** | Enter the first name of the requestor. |
 | **Last name** | Enter the last name of the requestor. 
 | **Contact number** | Enter the contact number of the requestor.
-| **Secondary subscription admin** | This section displays details of the secondary subscription admin. <ul><li>Secondary subscription admin can only be a public officer with a valid organisation email.</li></ul>
-| **Email address** | Enter the email address of the secondary subscription admin. <ul><li>Must be a public officer with a valid organisation email.</li><li>If the secondary subscription admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
-| **First name** | Enter the first name of the secondary subscription admin. |
-| **Last name** | Enter the last name of the secondary subscription admin. 
-| **Contact number** | Enter the contact number of the secondary subscription admin.
-| **Technical admin** | This section displays details of the technical admin. <ul><li>The technical admin can be a public officer or a vendor with a valid organisation email.</li></ul>
-| **Email address** | Enter the email address of the technical admin. <ul><li>If the technical admin is a public officer, then the organisation field cannot be edited. (To check if it is displayed automatically)</li> <li>If the technical admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input.</li></ul>
-| **First name** | Enter the first name of the technical admin. |
-| **Last name** | Enter the last name of the technical admin. 
-| **Contact number** | Enter the contact number of the technical admin.
-| **Organisation** | Enter the organisation name of the technical admin.
-| **Billing details** | This section displays details of the billing admin. <ul><li>The billing admin can only be a public officer with a valid organisation email.</li></ul>
-| **Email address** | Enter the email address of the billing admin. <ul><li>If the billing admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input. </li></ul>
-| **First name** | Enter the first name of the billing admin. |
-| **Last name** | Enter the last name of the billing admin. 
-| **Contact number** | Enter the contact number of the billing admin.
+| **Secondary subscription admin** | This section displays details of the Secondary Subscription Admin. <ul><li>Secondary Subscription Admin can only be a public officer with a valid organisation email.</li></ul>
+| **Email address** | Enter the email address of the Secondary Subscription Admin. <ul><li>Must be a public officer with a valid organisation email.</li><li>If the Secondary Subscription Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
+| **First name** | Enter the first name of the Secondary Subscription Admin. |
+| **Last name** | Enter the last name of the Secondary Subscription Admin. 
+| **Contact number** | Enter the contact number of the Secondary Subscription Admin.
+| **Technical admin** | This section displays details of the Technical Admin. <ul><li>The Technical Admin can be a public officer or a vendor with a valid organisation email.</li></ul>
+| **Email address** | Enter the email address of the Technical Admin. <ul><li>If the Technical Admin is a public officer, then the organisation field cannot be edited. (To check if it is displayed automatically)</li> <li>If the Technical Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input.</li></ul>
+| **First name** | Enter the first name of the Technical Admin. |
+| **Last name** | Enter the last name of the Technical Admin. 
+| **Contact number** | Enter the contact number of the Technical Admin.
+| **Organisation** | Enter the organisation name of the Technical Admin.
+| **Billing details** | This section displays details of the Billing Admin. <ul><li>The Billing Admin can only be a public officer with a valid organisation email.</li></ul>
+| **Email address** | Enter the email address of the Billing Admin. <ul><li>If the Billing Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input. </li></ul>
+| **First name** | Enter the first name of the Billing Admin. |
+| **Last name** | Enter the last name of the Billing Admin. 
+| **Contact number** | Enter the contact number of the Billing Admin.
 | | **Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
 | **Agency department** | Enter the department name.
 | **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
