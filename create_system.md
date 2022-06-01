@@ -1,5 +1,5 @@
 # Create system
-To subscribe to Singapore Government Tech Stack (SGTS) products agencies need to create a system in TechBiz via the **Manage systems** module in the TechBiz portal.
+To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products agencies need to create a system in TechBiz via the **Manage systems** module in the TechBiz portal.
 
 **What is a system?**
 
