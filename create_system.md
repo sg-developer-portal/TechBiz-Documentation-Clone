@@ -47,15 +47,20 @@ An agency project is refered to as a system in TechBiz.
 
 !> **Important:** Unless mentioned otherwise, all fields are mandatory.
 
+![Display account details](/images/acct_det.png)
+
+**Account details**
+
+This section is for agencies to specify their account details
+
 | **Field Name** | **Description** |
 |---- |---- |
-| **Account details** | This section is for agencies to specify their account details|
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter your system name.
 | **System ID** | The system id is automatically generated and cannot be edited.
 | **Digital Governance Platform (DGP) ID** | Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
 
-![Display account details](/images/acct_det.png)
+
 
 | **Field Name** | **Description** |
 |---- |---- |
