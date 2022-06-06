@@ -54,6 +54,10 @@ An agency project is refered to as a system in TechBiz.
 | **System name** | Enter your system name.
 | **System ID** | The system id is automatically generated and cannot be edited.
 | **Digital Governance Platform (DGP) ID** | Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes select your **DGP System ID** from the dropdown. The **sub system description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.</li></ul>
+
+![Display account details](/images/acct_det.png)
+
+
 | **Subscription admins**| Enter the details of the Primary and Secondary Subscription Admins. <ul><li>If the Primary and Secondary Subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.</li></ul>
 | **Primary subscription admin** | By default, the requestor is assigned as the Primary Subscription Admin. <ul><li> The Primary Subscription Admin can only be a public officer with a valid organisation email.</li></ul>
 | **Email address** | By default this displays the organisation email address of the requestor. <ul><li>If the requestor’s email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
@@ -65,6 +69,11 @@ An agency project is refered to as a system in TechBiz.
 | **First name** | Enter the first name of the Secondary Subscription Admin. |
 | **Last name** | Enter the last name of the Secondary Subscription Admin. 
 | **Contact number** | Enter the contact number of the Secondary Subscription Admin.
+
+
+![Display subscription admin](/images/subscr_admin.png)
+
+
 | **Technical admin** | This section displays details of the Technical Admin. <ul><li>The Technical Admin can be a public officer or a vendor with a valid organisation email.</li></ul>
 | **Email address** | Enter the email address of the Technical Admin. <ul><li>If the Technical Admin is a public officer, then the organisation field cannot be edited. (To check if it is displayed automatically)</li> <li>If the Technical Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input.</li></ul>
 | **First name** | Enter the first name of the Technical Admin. |
@@ -82,9 +91,9 @@ An agency project is refered to as a system in TechBiz.
 | **Fund center** | Enter the fund center details. 
 | **SBU** | Enter the sub business unit. 
 
-![Display account details](/images/acct_det.png)
 
-![Display subscription admin](/images/subscr_admin.png)
+
+
 
 7.  Select the required **products** and click **Next.**
 
