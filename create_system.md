@@ -61,7 +61,7 @@ This section is for agencies to specify their system account details.
 ![Display subscription admin](/images/subscr_admin.png)
 
 Enter the details of the Primary and Secondary Subscription Admins. 
-> If the Primary and Secondary Subscription admins do not have a TechPass account, these will be created automatically after the system creation request is approved.
+> If the Primary and Secondary Subscription Admins do not have a TechPass account, these will be created automatically after the system creation request is approved.
 
 | **Field Name** | **Description** |
 |---- |---- |
@@ -82,7 +82,7 @@ This section displays details of the Technical Admin. The Technical Admin can be
 
 | **Field Name** | **Description** |
 |---- |---- |
-| **Email address** | Enter the email address of the Technical Admin. <ul><li>If the Technical Admin is a public officer, then the organisation field cannot be edited. (To check if it is displayed automatically)</li> <li>If the Technical Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input.</li></ul>
+| **Email address** | Enter the email address of the Technical Admin. <ul><li>If the Technical Admin is a public officer, then the organisation field cannot be edited.</li> <li>If the Technical Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input.</li></ul>
 | **First name** | Enter the first name of the Technical Admin. |
 | **Last name** | Enter the last name of the Technical Admin. 
 | **Contact number** | Enter the contact number of the Technical Admin.
@@ -115,7 +115,7 @@ This section displays details of the Billing Admin. The Billing Admin can only b
 | **Select plan(s)** | This section is for agencies to select product subscription plan(s). <ul><li>To select a subscription plan, go to the individual product tab. You need to select subscription plan(s) for all the required product(s) before you can proceed to the next step.</li></ul>
 | **Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: <ul><li>The agency approver to approve the system creation request.</li><li>The agency to provide product configuration details.</li><li>The product team to provision the resources.</li></ul>
 | **Product agreement** | To download a copy of the product’s terms and conditions, click **Product agreement.**
-| Select a plan| This refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
+| **Select a plan**| This refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
 9.  Specify the approver details and click Next.
