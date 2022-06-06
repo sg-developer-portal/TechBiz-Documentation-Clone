@@ -84,6 +84,8 @@ An agency project is refered to as a system in TechBiz.
 | **Organisation** | Enter the organisation name of the Technical Admin.
 
 
+![Display technical admin](/images/tech_contact.png)
+
 | **Field Name** | **Description** |
 |---- |---- |
 | **Billing details** | This section displays details of the Billing Admin. <ul><li>The Billing Admin can only be a public officer with a valid organisation email.</li></ul>
@@ -97,7 +99,7 @@ An agency project is refered to as a system in TechBiz.
 | **Fund center** | Enter the fund center details. 
 | **SBU** | Enter the sub business unit. 
 
-
+![Display billing admin](/images/billing_det.png)
 
 
 
