@@ -39,6 +39,14 @@ An agency project is refered to as a system in TechBiz.
 
 6.  Following is the list of **System details** needed to create a system.
 
+- Account details
+
+- Subscription admins
+
+- Technical contact
+
+- Billing details
+
 !> **Important:** Unless mentioned otherwise, all fields are mandatory.
 
 ![Display account details](/images/acct_det.png)
