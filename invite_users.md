@@ -8,11 +8,11 @@ This guide shows you how agencies can send TechPass invites to users from the Te
 
 ## To invite users to TechPass:
 
-**Prerequisites:**
-
--   A public officer with a valid organisation email (for example, <user_name@agency.gov.sg>)
-
--   Non-SE GSIB (Government Standard Image Build) device.
+>**Prerequisites:**
+>
+> - A public officer with a valid organisation email (for example, <user_name@agency.gov.sg>)
+>
+> - Non-SE GSIB (Government Standard Image Build) device.
 
 1.  [Log in to the TechBiz portal.](log_in_to_TechBiz_portal.md)
 
