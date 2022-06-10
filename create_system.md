@@ -13,10 +13,6 @@ An agency project is refered to as a system in TechBiz.
 
 > **Note:** An agency can have multiple systems.
 
-**Who can create a system?**
-
-- A public officer with a valid organisation email.
-
 **How to create a system?**
 
 - [Raise a system creation request](#raise-a-system-creation-request)
@@ -28,8 +24,6 @@ An agency project is refered to as a system in TechBiz.
 ## Raise a system creation request
 
 > **Note:** By default, the public officer who requests to create a system is assigned the Primary Subscription Admin role for that system in TechBiz.
-
-**To submit a system creation request:**
 
 1.  Log in to the [TechBiz portal.](https://portal.techbiz.suite.gov.sg )
 
