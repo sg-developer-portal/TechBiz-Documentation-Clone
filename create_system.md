@@ -98,15 +98,15 @@ An agency project in TechBiz.
 
 | **Field name** | **Description**
 |---- |---- 
-| **Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: <ul><li>The agency approver to approve the system creation request.</li><li>The agency to provide product configuration details.</li><li>The product team to provision the resources.</li></ul>
+|**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: <ul><li>The agency approver to approve the system creation request.</li><li>The agency to provide product configuration details.</li><li>The product team to provision the resources.</li></ul>
 | **Product agreement** | To download a copy of the product’s terms and conditions, click **Product agreement.**
 | **Select a plan**| This refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
 9.  Specify the approver details and click Next.
 
-| **Field name** | **Description**
-|---- |---- 
+| **Field name** | **Description** |
+|---- |---- |
 | **Approver name** | Enter the full name of the approver. 
 | **Approver email** | Enter the email address of the approver. <ul><li>Approver can only be a public officer with a valid organisation email.</li></ul>
 | **Designation** | Enter the designation of the approver. <ul><li>Approver can only be a Deputy Director and above.</li></ul>
