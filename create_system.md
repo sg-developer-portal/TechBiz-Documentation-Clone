@@ -66,7 +66,7 @@ An agency project in TechBiz.
 
 - There must be at least one Primary Subscription Admin and one Secondary Subscription Admin for each System Account.
 
-- By default, the requestor is assigned the Primary Subscription Admin role. The **Email address** automatically displaysmthe organisation email address of the requestor and cannot be edited.
+- By default, the requestor is assigned the Primary Subscription Admin role. The **Email address** automatically displays the organisation email address of the requestor and cannot be edited.
 
 ![Display subscription admin](/images/subscr_admin.png)
 
