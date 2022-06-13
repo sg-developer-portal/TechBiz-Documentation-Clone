@@ -52,7 +52,9 @@ An agency project in TechBiz.
 
 - Upon entering the system name, a unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
 
-![Display System ID](/images/system_id.png 'size=20%')
+<p align="center">
+  <img width="100" height="100" src="/images/system_id.png">
+</p>
 
 - Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your DGP System ID from the dropdown. The **sub system description** appears.
 
