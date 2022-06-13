@@ -14,7 +14,7 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 An agency project in TechBiz.
 
-**Note:** An agency can have multiple systems.
+> **Note:** An agency can have multiple systems.
 
 **How to create a system in TechBiz?**
 
@@ -40,21 +40,21 @@ An agency project in TechBiz.
 
 6. Enter the required system details and click **Next.**
 
-**Notes:**
+>**Notes:**
+>
+> - Unless mentioned otherwise, all fields are mandatory.
+>
+> - If the user email address is linked to a TechPass account, the **First name, Last name** and **Contact number** are displayed automatically and cannot be edited, otherwise need to be input. 
+>
+> - If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
 
-- Unless mentioned otherwise, all fields are mandatory.
-
-- If the user email address is linked to a TechPass account, the **First name, Last name** and **Contact number** are displayed automatically and cannot be edited, otherwise need to be input. 
-
-- If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
-
-1.  **System account details**
+### **System account details**
 
 - In the **System name,** enter your **project name.**
 
 - Upon entering the system name, a unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
 
-![Display System ID](/images/create_system_id.png)
+![Display System ID](/images/system_id.png)
 
 - Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your DGP System ID from the dropdown. The **sub system description** appears.
 
@@ -64,7 +64,7 @@ An agency project in TechBiz.
 >
 > - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
 
-2.  **Subscription admins**
+### **Subscription admins**
 
 - Owner of the System.
 
@@ -74,7 +74,7 @@ An agency project in TechBiz.
 
 ![Display subscription admin](/images/subscr_admin.png)
 
-3.  **Technical contact**
+### **Technical contact**
 
 - Technical administrator of the System.
 
@@ -84,7 +84,7 @@ An agency project in TechBiz.
 
 ![Display technical admin](/images/tech_contact.png)
 
-4.  **Billing details**
+### **Billing details**
 
 - Finance administrator of the System.
 
