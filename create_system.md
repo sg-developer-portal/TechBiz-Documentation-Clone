@@ -34,8 +34,6 @@ An agency project in TechBiz.
 
 4. Review the prerequisites to ensure that you have the required information and click **Next.**
 
-![Display create_system_prereq](/images/create_system_prereq.png)
-
 5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
 6. Enter the required system details and click **Next.**
@@ -58,8 +56,6 @@ An agency project in TechBiz.
 
 - Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your DGP System ID from the dropdown. The **sub system description** appears.
 
-> Notes:
->
 > - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.
 >
 > - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
@@ -68,7 +64,7 @@ An agency project in TechBiz.
 
 - Owner of the System.
 
-- There must be at least one Primary Subscription Admin and 1 Secondary Subscription Admin for each System Account.
+- There must be at least one Primary Subscription Admin and one Secondary Subscription Admin for each System Account.
 
 - By default, the requestor is assigned as the primary subscription admin. The **Email address** automatically displaysmthe organisation email address of the requestor and cannot be edited.
 
