@@ -46,8 +46,6 @@ An agency project in TechBiz.
 
 -   [Billing details](#billing-details)
 
-Subscription admins
-
 >**Notes:**
 >
 > - Unless mentioned otherwise, all fields are mandatory.
