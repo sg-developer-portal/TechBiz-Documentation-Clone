@@ -16,13 +16,13 @@ An agency project onboarded to TechBiz.
 
 ## Raise a system creation request
 
-**Prerequisites:**
-
-- You should be a public officer with a valid organisation email (for
-    example <user_name@agency.gov.sg>).
-
-- You should use a non-SE GSIB (Government Standard Image Build)
-    device.
+>**Prerequisites:**
+>
+>- You should be a public officer with a valid organisation email (for
+>   example <user_name@agency.gov.sg>).
+>
+>- You should use a non-SE GSIB (Government Standard Image Build)
+>   device.
 
 1. Log in to the [TechBiz portal.](https://portal.techbiz.suite.gov.sg)
 
@@ -32,11 +32,11 @@ An agency project onboarded to TechBiz.
 
 ![Display create_system_workflow](/images/create_system_workflow.png)
 
-4. Review the prerequisites to ensure that you have the required information and click **Next.**
+4. Review the information required to complete the system creation request and click **Next.**
 
 5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
-6. Enter the following system details and click **Next.**
+6. Under **System details,** enter the following information and click **Next.**
 
 -   [System account details](#system-account-details)
 
