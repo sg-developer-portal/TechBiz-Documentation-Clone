@@ -58,11 +58,11 @@ An agency project onboarded to TechBiz.
 
 - In the **System name,** enter your **project name.**
 
-- Upon entering the system name, a unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
+- Upon entering the **System name,** a unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
-- Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your DGP System ID from the dropdown. The **sub system description** appears.
+- Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your DGP System ID from the dropdown. The **subsystem description** appears.
 
 > - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.
 >
@@ -111,7 +111,7 @@ An agency project onboarded to TechBiz.
 | **Select a plan**| This refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
-9.  Specify the approver details and click Next.
+9.  Specify the approver details and click **Next.**
 
 | **Field name** | **Description** |
 |---- |---- |
