@@ -46,16 +46,15 @@ I Is onboarding to **SEED** required? | Select Yes if the user needs to access S
 
 ### Create account
 
-Specify the TechPass account details and click **Submit.**
+Specify the details of the user who requires a TechPass account and click **Submit.**
 
 | Field name | Description and usage|
 |---- |----
-| **Email address**| Enter the email address of the user who requires a TechPass account. This should be a valid organisation email. Format of this email address is user_name@agency.gov.sg For example, user_name@tech.gov.sg.
-| TechPass username | This field is required if user is a vendor. Enter username. 
-**Note:** If the user is a public officer, then their official email address will be their TechPass username, so the field will be greyed out and cannot be edited.
+| **Email address**| Enter the email address of the user. This should be a valid organisation email. Format of this email address is user_name@agency.gov.sg For example, user_name@tech.gov.sg.
+| TechPass username | This field is required if the user is a vendor. Enter username. If the user is a public officer, then their official email address will be their TechPass username, and will be automatically displayed and cannot be edited.
 |First Name, Last Name, Contact Number, Organisation, Department | Enter user details.
 | Is onboarding to **SEED** required? | Select Yes if the user needs to access SGTS services from an internet device, that requires SEED compliance. Select **No** if user needs to access SGTS services from a Government Standard Image Build (GSIB) device.
-| Reason | Enter the reason why you need a TechPass account.
+| Reason | Enter the reason why user needs a TechPass account.
 
 ![Display Create account](/images/create_account.png)
 
