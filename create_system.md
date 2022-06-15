@@ -36,7 +36,17 @@ An agency project in TechBiz.
 
 5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
-6. Enter the required system details and click **Next.**
+6. Enter the following system details and click **Next.**
+
+[System account details](#system-account-details)
+
+[Subscription admins](#subscription-admins)
+
+[Technical contact](#technical-contact)
+
+[Billing details](#billing-details)
+
+Subscription admins
 
 >**Notes:**
 >
@@ -94,7 +104,7 @@ An agency project in TechBiz.
 
 8.  Select the required product **plan(s)** and click **Next.**
 
-> Note: You need to select subscription plan(s) for all the required product(s) before you can proceed to the next step.
+> **Note:** You need to select subscription plan(s) for all the required product(s) before you can proceed to the next step.
 
 | **Field name** | **Description**
 |---- |---- 
@@ -110,7 +120,7 @@ An agency project in TechBiz.
 | **Approver name** | Enter the full name of the approver. 
 | **Approver email** | Enter the email address of the approver. <ul><li>Approver can only be a public officer with a valid organisation email.</li></ul>
 | **Designation** | Enter the designation of the approver. <ul><li>Approver can only be a Deputy Director and above.</li></ul>
-| **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
+| **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
 10. Make sure the information displayed on this page is correct and
@@ -157,7 +167,9 @@ To configure products:
 
 4. To configure a product, click **View and configure.**
 
-5. Enter the User details.
+5. Enter the user details - **User name,** **Email address,** **Contact number.**
+
+6. Click **Submit.**
 
 
 
