@@ -2,17 +2,9 @@
 
 To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to create a system in TechBiz.
 
-**Prerequisites:**
-
-- You should be a public officer with a valid organisation email (for
-    example <user_name@agency.gov.sg>).
-
-- You should use a non-SE GSIB (Government Standard Image Build)
-    device.
-
 **What is a system?**
 
-An agency project in TechBiz.
+An agency project onboarded to TechBiz.
 
 > **Note:** An agency can have multiple systems.
 
@@ -23,6 +15,14 @@ An agency project in TechBiz.
 -   [**Configure products**](#configure-products)
 
 ## Raise a system creation request
+
+**Prerequisites:**
+
+- You should be a public officer with a valid organisation email (for
+    example <user_name@agency.gov.sg>).
+
+- You should use a non-SE GSIB (Government Standard Image Build)
+    device.
 
 1. Log in to the [TechBiz portal.](https://portal.techbiz.suite.gov.sg)
 
@@ -74,7 +74,7 @@ An agency project in TechBiz.
 
 - There must be at least one Primary Subscription Admin and one Secondary Subscription Admin for each System Account.
 
-- By default, the requestor is assigned the Primary Subscription Admin role. The **Email address** automatically displays the organisation email address of the requestor and cannot be edited.
+- By default, the requestor who requests for system creation is assigned the Primary Subscription Admin role. The **Email address** automatically displays the organisation email address of the requestor and cannot be edited.
 
 ![Display subscription admin](/images/subscr_admin.png)
 
@@ -84,7 +84,7 @@ An agency project in TechBiz.
 
 - Technical admin can be a public officer or a vendor with a valid organisation email.
 
-- If the technical admin is a public officer, then the organisation field cannot be edited.
+- If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited.
 
 ![Display technical admin](/images/tech_contact.png)
 
