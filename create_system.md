@@ -118,7 +118,7 @@ An agency project in TechBiz.
 | **Approver name** | Enter the full name of the approver. 
 | **Approver email** | Enter the email address of the approver. <ul><li>Approver can only be a public officer with a valid organisation email.</li></ul>
 | **Designation** | Enter the designation of the approver. <ul><li>Approver can only be a Deputy Director and above.</li></ul>
-| **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: <ol><li>alphanumeric</li> <li>space</li> <li>hyphen</li> <li>underscore</li> <li>period</li></li></ul>
+| **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.</li><li>Supported characters in upload file names: <ul><li>alphanumeric</li> <li>space</li> <li>hyphen</li> <li>underscore</li> <li>period</li></ul></li></ul>
 | **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
 10. Make sure the information displayed on this page is correct and
