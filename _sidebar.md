@@ -5,8 +5,8 @@
 - [Create System](create_system.md)
 - [Invite Users](invite_users.md) -->
 
-- [TechBiz Overview](techBiz_overview.md)
+- [TechBiz overview](techBiz_overview.md)
 - [Log In to the TechBiz Portal](log_in_to_TechBiz_portal.md)
-- [Create System](create_system.md)
-- [Invite Users](invite_users.md)
+- [Create system](create_system.md)
+- [Invite users](invite_users.md)
 
