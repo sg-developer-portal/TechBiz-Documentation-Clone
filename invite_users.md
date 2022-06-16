@@ -52,7 +52,7 @@ Specify the details of the user who requires a TechPass account and click **Subm
 |---- |----
 | **Email address**| Enter the email address of the user. This should be a valid organisation email. Format of this email address is user_name@agency.gov.sg For example, user_name@tech.gov.sg.
 | TechPass username | This field is required if the user is a vendor. If the user is a public officer, then their official email address will be their TechPass username, and will be automatically displayed and cannot be edited. Enter **username.** The **username** should: <ul><li>Start and end with alphanumeric characters.</li><li>Contain only alphanumeric characters, dash, underscore and period.</li><li>Not contain two consecutive periods.</li></ul>
-|<ul><li>**First Name**</li><li>**Last Name**</li><li>**Contact Number**</li><li> **Organisation**</li><li>**Department**</li>| Enter user details.
+|| Enter the **First name,** **Last name,** **Contact number,** **Organisation** and **Department** details.
 | Is onboarding to **SEED** required? | Select Yes if the user needs to access SGTS services from an internet device, that requires SEED compliance. Select **No** if user needs to access SGTS services from a Government Standard Image Build (GSIB) device.
 | Reason | Enter the reason why user needs a TechPass account.
 
