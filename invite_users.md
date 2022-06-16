@@ -62,8 +62,6 @@ Specify the details of the user who requires a TechPass account and click **Subm
 
 1.  Click **Download excel template link.**
 
-> **Note:** The template is a csv file.
-
 ![Display Batch upload](/images/batch_upload_1.png)
 
 
