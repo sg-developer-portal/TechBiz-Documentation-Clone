@@ -78,7 +78,7 @@ An agency project onboarded to TechBiz.
 
 ![Display subscription admin](/images/subscr_admin.png)
 
-### **Technical contact**
+### **Technical admin**
 
 - Technical administrator of the System.
 
