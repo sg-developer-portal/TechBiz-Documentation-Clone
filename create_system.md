@@ -124,12 +124,6 @@ An agency project onboarded to TechBiz.
 10. Make sure the information displayed on this page is correct and
 click **Submit.**
 
-> **Notes:**
->
-> - To edit your inputs, go to the required tab and click **Edit.**
->
-> - To download a summary of the form, click **Download summary.**
-
 11. In the **Submit for approval** pop-up window, review the terms
 and conditions, select all **checkboxes** and click **Submit.**
 
