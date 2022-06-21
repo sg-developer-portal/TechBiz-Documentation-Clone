@@ -84,7 +84,7 @@ An agency project onboarded to TechBiz.
 
 - Technical admin can be a public officer or a vendor with a valid organisation email.
 
-- If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited.
+- If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
 
 ![Display technical admin](/images/tech_contact.png)
 
