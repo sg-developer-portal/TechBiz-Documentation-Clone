@@ -60,7 +60,9 @@ An agency project in TechBiz.
 
 ![Display System ID](/images/system_id.png "size=100")
 
-3. Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your **DGP System ID.** The **subsystem description** appears. If your agency has multiple DGP IDs, you can select multiple **DGP System IDs.** If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
+3. Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your **DGP System ID.** The **subsystem description** appears. 
+
+> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs.** > - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
 
 ### **Subscription admins**
 
@@ -70,12 +72,12 @@ An agency project in TechBiz.
 ### **Technical admin**
 
 1. Enter the **Email address,** **First name,** **Last name,** **Contact number,** and **Organisation.** 
- A **Technical admin** can be a public officer or a vendor with a valid organisation email. If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
+ A **Technical admin** can be a public officer or a vendor with a valid organisation email. If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
 
 ### **Billing details**
 
 1. Enter the **Email address,** **First name,** **Last name,** and **Contact number.**
-   Billing admin must be a public officer with a valid organisation email.
+   **Billing admin** must be a public officer with a valid organisation email.
 
 2. If your agency is Govtech, you need to enter the **Agency department, Cost center** and **Fund center** details otherwise enter your **Sub-business unit (SBU)** details.
 
@@ -96,16 +98,16 @@ An agency project in TechBiz.
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
 
-  1. Enter the **Approver name,** **Approver email,** and **Designation.**
+   1. Enter the **Approver name,** **Approver email,** and **Designation.**
 
-  2. To upload supporting documents, click **Choose a file.** 
+   2. To upload supporting documents, click **Choose a file.** 
    
       - You can upload files up to 10MB.
       - A maximum of 50 files per upload.
       - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
       - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
 
-  3. Under **Remarks to approver,** specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X. This field is optional.
+   3. Under **Remarks to approver,** specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X. This field is optional.
 
 10. Make sure the information displayed on this page is correct and
 click **Submit.**
@@ -129,7 +131,7 @@ To approve or reject a system creation request:
 
 5. Click **Approve** or **Reject.**
 
-The requestor receives the outcome of the approval request via email. After obtaining approval, to complete the onboarding process, the technical admin needs to configure products in the TechBiz portal.
+The requestor receives the outcome of the approval request via email. After obtaining approval, to complete the onboarding process, the **Technical admin** needs to configure products in the TechBiz portal.
 
 ## Configure products
 
