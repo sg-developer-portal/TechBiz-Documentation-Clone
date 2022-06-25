@@ -99,15 +99,18 @@ An agency project in TechBiz.
 | **Select a plan**| Refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
-9.  Specify the approver details and click **Next.**
+9.  Under **Approver details,** enter the following information, and click **Next.**
 
-| **Field name** | **Description** |
-|---- |---- |
-| **Approver name** | Enter the full name of the approver. 
-| **Approver email** | Enter the email address of the approver. <ul><li>Approver can only be a public officer with a valid organisation email.</li></ul>
-| **Designation** | Enter the designation of the approver. <ul><li>Approver can only be a Deputy Director and above.</li></ul>
-| **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.</li><li>Supported characters in upload file names: <ul><li>alphanumeric</li> <li>space</li> <li>hyphen</li> <li>underscore</li> <li>period</li></ul></li></ul>
-| **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
+   1. Enter the **Approver name,** **Approver email,** and **Designation.**
+
+   2. To upload supporting documents, click **Choose a file.** 
+   
+      - You can upload files up to 10MB.
+      - A maximum of 50 files per upload.
+      - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
+      - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
+
+    3. Under **Remarks to approver,** specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X. This field is optional.
 
 10. Make sure the information displayed on this page is correct and
 click **Submit.**
