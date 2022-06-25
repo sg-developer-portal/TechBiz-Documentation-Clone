@@ -34,7 +34,7 @@ An agency project in TechBiz.
 
 5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
-6. Under **System details,** enter the following information.
+6. Under **System details,** enter the following information, and click **Next.**
 
 -   [Account details](#account-details)
 
