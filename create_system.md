@@ -99,7 +99,7 @@ An agency project in TechBiz.
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
 
-  1. Enter the **Approver name,** **Approver email,** and **Designation.**
+   1. Enter the **Approver name,** **Approver email,** and **Designation.**
 
   2. To upload supporting documents, click **Choose a file.** 
    
