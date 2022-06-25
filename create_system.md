@@ -30,17 +30,17 @@ An agency project in TechBiz.
 
 ![Display create_system_workflow](/images/create_system_workflow.png)
 
-4. Review the information required to complete the system creation request and click **Next.**
+4. Review the information required for the system creation request and click **Next.**
 
 5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
-6. Under **System details,** enter the following information and click **Next.**
+6. Under **System details,** enter the following information.
 
--   [System account details](#system-account-details)
+-   [Account details](#account-details)
 
 -   [Subscription admins](#subscription-admins)
 
--   [Technical contact](#technical-contact)
+-   [Technical admin](#technical-admin)
 
 -   [Billing details](#billing-details)
 
@@ -52,47 +52,42 @@ An agency project in TechBiz.
 >
 > - If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
 
-### **System account details**
+### **Account details**
 
-1. In the **System name,** enter your **project name.** Upon entering the **System name,** a unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
+1. Select your **Agency name.**
+
+2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
-- Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your DGP System ID from the dropdown. The **subsystem description** appears.
-
-> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.
+3. Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your **DGP System ID.** The **subsystem description** appears.
+>**Notes:**
+>
+> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs.**
 >
 > - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
 
 ### **Subscription admins**
 
-- Owner of the System.
-
-- There must be at least one Primary Subscription Admin and one Secondary Subscription Admin for each System Account.
-
-- By default, the requestor who requests for system creation is assigned the Primary Subscription Admin role. The **Email address** automatically displays the organisation email address of the requestor and cannot be edited.
+1. Enter the **Email address,** **First name,** **Last name,** and **Contact number.** of the **Primary** and **Secondary subscription admins.**
+   By default, the requestor who requests for system creation is assigned the **Primary subscription admin** role. The requestor's organisation email address is automatically displayed and cannot be edited.
 
 ![Display subscription admin](/images/subscr_admin.png)
 
 ### **Technical admin**
 
-- Technical administrator of the System.
-
-- Technical admin can be a public officer or a vendor with a valid organisation email.
-
-- If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
+1. Enter the **Email address,** **First name,** **Last name,** **Contact number,** and **Organisation.** A **Technical admin** can be a public officer or a vendor with a valid organisation email. If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
 
 ![Display technical admin](/images/tech_contact.png)
 
 ### **Billing details**
 
-- Finance administrator of the System.
+1. Enter the **Email address,** **First name,** **Last name,** **Contact number.**
+   Billing admin must be a public officer with a valid organisation email.
 
-- Billing admin must be a public officer with a valid organisation email.
+2. If your agency is Govtech, you need to enter the **Agency department, Cost center** and **Fund center** details otherwise enter your **Sub-business unit (SBU)** details.
 
-- If your agency is Govtech, you need to enter the **Agency department, Cost center** and **Fund center** details otherwise enter your SBU details.
-
-![Display technical admin](/images/billing_det.png)
+![Display billing admin](/images/billing_det.png)
 
 7.  Select the required **products** and click **Next.**
 
