@@ -56,7 +56,7 @@ An agency project in TechBiz.
 
 1. Select your **Agency name.**
 
-2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the _same_ for all SGTS products that you are subscribed to under this system.
+2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** is common across _all_ SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
