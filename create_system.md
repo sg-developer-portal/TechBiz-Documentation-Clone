@@ -103,7 +103,7 @@ An agency project in TechBiz.
 
    2. To upload supporting documents, click **Choose a file.** 
    
-    - You can upload files up to 10MB.
+     - You can upload files up to 10MB.
     - A maximum of 50 files per upload.
     - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
     - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
