@@ -62,7 +62,8 @@ An agency project in TechBiz.
 
 3. Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your **DGP System ID.** The **subsystem description** appears. 
 
-> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs.** > - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
+> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs.**
+> - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
 
 ### **Subscription admins**
 
@@ -98,11 +99,11 @@ An agency project in TechBiz.
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
 
-   1. Enter the **Approver name,** **Approver email,** and **Designation.**
+- Enter the **Approver name,** **Approver email,** and **Designation.**
 
-   2. To upload supporting documents, click **Choose a file.** 
+2. To upload supporting documents, click **Choose a file.** 
    
-      - You can upload files up to 10MB.
+- You can upload files up to 10MB.
       - A maximum of 50 files per upload.
       - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
       - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
