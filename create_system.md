@@ -56,7 +56,7 @@ An agency project in TechBiz.
 
 1. Select your **Agency name.**
 
-2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
+2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the _same_ for all SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
@@ -69,16 +69,13 @@ An agency project in TechBiz.
 
 ### **Subscription admins**
 
-1. Enter the **Email address,** **First name,** **Last name,** and **Contact number.** of the **Primary** and **Secondary subscription admins.**
+1. Enter the **Email address,** **First name,** **Last name,** and **Contact number** of the **Primary** and **Secondary subscription admins.**
    By default, the requestor who requests for system creation is assigned the **Primary subscription admin** role. The requestor's organisation email address is automatically displayed and cannot be edited.
-
-![Display subscription admin](/images/subscr_admin.png)
 
 ### **Technical admin**
 
-1. Enter the **Email address,** **First name,** **Last name,** **Contact number,** and **Organisation.** A **Technical admin** can be a public officer or a vendor with a valid organisation email. If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
-
-![Display technical admin](/images/tech_contact.png)
+1. Enter the **Email address,** **First name,** **Last name,** **Contact number,** and **Organisation.** 
+ A **Technical admin** can be a public officer or a vendor with a valid organisation email. If the technical admin is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
 
 ### **Billing details**
 
