@@ -99,16 +99,16 @@ An agency project in TechBiz.
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
 
-- Enter the **Approver name,** **Approver email,** and **Designation.**
+  1. Enter the **Approver name,** **Approver email,** and **Designation.**
 
-2. To upload supporting documents, click **Choose a file.** 
+  2. To upload supporting documents, click **Choose a file.** 
    
-- You can upload files up to 10MB.
-      - A maximum of 50 files per upload.
-      - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
-      - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
+    - You can upload files up to 10MB.
+    - A maximum of 50 files per upload.
+    - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
+    - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
 
-   3. Under **Remarks to approver,** specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X. This field is optional.
+  3.  Under **Remarks to approver,** specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X. This field is optional.
 
 10. Make sure the information displayed on this page is correct and
 click **Submit.**
