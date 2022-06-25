@@ -56,7 +56,7 @@ An agency project in TechBiz.
 
 1. Select your **Agency name.**
 
-2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** is common across _all_ SGTS products that you are subscribed to under this system.
+2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** is common across _all_  SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
@@ -79,7 +79,7 @@ An agency project in TechBiz.
 
 ### **Billing details**
 
-1. Enter the **Email address,** **First name,** **Last name,** **Contact number.**
+1. Enter the **Email address,** **First name,** **Last name,** and **Contact number.**
    Billing admin must be a public officer with a valid organisation email.
 
 2. If your agency is Govtech, you need to enter the **Agency department, Cost center** and **Fund center** details otherwise enter your **Sub-business unit (SBU)** details.
@@ -88,14 +88,26 @@ An agency project in TechBiz.
 
 7.  Select the required **products** and click **Next.**
 
-8.  Select the required product **plan(s)** and click **Next.**
+8.  Select the required **plan(s)** and click **Next.**
 
-> **Note:** You need to select subscription plan(s) for all the required product(s) before you can proceed to the next step.
+> **Note:** You need to select plan(s) for all the required product(s) before you can proceed to the next step.
+
+   1. Under **Select subscription period,** select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: 
+   - The agency approver to approve the system creation request.
+   - The agency to provide product configuration details. 
+   - The product team to provision the resources.
+To download a copy of the product’s terms and conditions, click **Product agreement.**
+
+   2. **Select a plan** This refers to the subscription plan which contains details of the chargeable items in a product with the specified costs. The available plans are:
+   - **Bundled plan-** To subscribe to multiple items in a product.
+   - **Individual plan-** To subscribe to a single item in a product.
+   - **Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
+
 
 | **Field name** | **Description**
 |---- |---- 
 |**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: <ul><li>The agency approver to approve the system creation request.</li><li>The agency to provide product configuration details.</li><li>The product team to provision the resources.</li></ul>
-| **Product agreement** | To download a copy of the product’s terms and conditions, click **Product agreement.**
+| **Product agreement** | 
 | **Select a plan**| This refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
