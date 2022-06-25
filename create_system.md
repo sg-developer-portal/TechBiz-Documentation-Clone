@@ -16,11 +16,11 @@ An agency project in TechBiz.
 
 ## Raise a system creation request
 
->**Prerequisites:**
->
->- Public officer with a valid organisation email (for example <user_name@agency.gov.sg>).
->
->- Non-SE GSIB (Government Standard Image Build) device.
+**Prerequisites:**
+
+- Public officer with a valid organisation email (for example <user_name@agency.gov.sg>).
+
+- Non-SE GSIB (Government Standard Image Build) device.
 
 1. Log in to the [TechBiz portal.](https://portal.techbiz.suite.gov.sg)
 
