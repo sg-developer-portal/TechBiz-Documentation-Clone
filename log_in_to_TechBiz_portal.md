@@ -15,7 +15,7 @@ An OTP is sent to the specified email address.
 
 > **Note:** OTP will be sent to government emails only. (For example, user_name@tech.gov.sg)
 
-4.  Enter the **OTP** received in your email, and click **Submit.**
+4.  Enter the **OTP** received in your email, and click **Submit.** The **Overview** page appears.
 
 ![Display Overview](/images/log_in_withotp_overview_otp.png)
 
@@ -25,4 +25,4 @@ An OTP is sent to the specified email address.
 
 2.  Click **Login with TechPass.**
 
-3.  Follow the on-screen instructions and approve sign-in request.
+3.  Follow the on-screen instructions and approve the sign-in request.

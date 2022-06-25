@@ -4,25 +4,23 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 **What is a system?**
 
-An agency project onboarded to TechBiz.
+An agency project in TechBiz.
 
 > **Note:** An agency can have multiple systems.
 
 **How to create a system in TechBiz?**
 
 -   [**Raise a system creation request**](#raise-a-system-creation-request)
--   [**Approve or reject a system creation request**](#approve-or-reject-a-system-creation-request)
+-   [**Obtain approval**](#obtain-approval)
 -   [**Configure products**](#configure-products)
 
 ## Raise a system creation request
 
 >**Prerequisites:**
 >
->- You should be a public officer with a valid organisation email (for
->   example <user_name@agency.gov.sg>).
+>- Public officer with a valid organisation email (for example <user_name@agency.gov.sg>).
 >
->- You should use a non-SE GSIB (Government Standard Image Build)
->   device.
+>- Non-SE GSIB (Government Standard Image Build) device.
 
 1. Log in to the [TechBiz portal.](https://portal.techbiz.suite.gov.sg)
 
@@ -56,9 +54,7 @@ An agency project onboarded to TechBiz.
 
 ### **System account details**
 
-- In the **System name,** enter your **project name.**
-
-- Upon entering the **System name,** a unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
+1. In the **System name,** enter your **project name.** Upon entering the **System name,** a unique **System ID** is automatically generated and cannot be edited. Your **System ID** remains the same for all SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
