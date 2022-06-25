@@ -36,13 +36,13 @@ An agency project in TechBiz.
 
 6. Under **System details,** enter the following information, and click **Next.**
 
--   [Account details](#account-details)
+  - [Account details](#account-details)
 
--   [Subscription admins](#subscription-admins)
+  - [Subscription admins](#subscription-admins)
 
--   [Technical admin](#technical-admin)
+  - [Technical admin](#technical-admin)
 
--   [Billing details](#billing-details)
+  - [Billing details](#billing-details)
 
 >**Notes:**
 >
