@@ -4,23 +4,23 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 **What is a system?**
 
-An agency project in TechBiz.
+A software development project of an agency.
 
 > **Note:** An agency can have multiple systems.
 
 **Who can create a system?**
 
-- Public officer with a valid organisation email (for example, <user_name@agency.gov.sg>).
+- Public officer with a valid organisation email address. For example, user_name@agency.gov.sg.
 
 - Non-SE GSIB (Government Standard Image Build) device.
 
 **How to create a system in TechBiz?**
 
--   [**Raise a system creation request**](#raise-a-system-creation-request)
+-   [**Submit a system creation request**](#submit-a-system-creation-request)
 -   [**Obtain approval**](#obtain-approval)
 -   [**Configure products**](#configure-products)
 
-## Raise a system creation request
+## Submit a system creation request
 
 1. Log in to the [TechBiz portal.](https://portal.techbiz.suite.gov.sg)
 
@@ -28,59 +28,81 @@ An agency project in TechBiz.
 
 3. In the **Systems** page, click **Create system**. The create system workflow appears.
 
-![Display create_system_workflow](/images/create_system_workflow.png)
+![Display createsystemworkflow](/images/create_system_workflow.png)
 
-4. Review the information required for the system creation request and click **Next.**
+4. Make sure you have the required details, before clicking **Next.**
 
 5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
 
 6. Under **System details,** enter the following information, and click **Next.**
 
-  - [Account details](#account-details)
-
-  - [Subscription admins](#subscription-admins)
-
-  - [Technical admin](#technical-admin)
-
-  - [Billing details](#billing-details)
-
 >**Notes:**
 >
 > - Unless mentioned otherwise, all fields are mandatory.
 >
-> - If the user email address is linked to a TechPass account, the **First name, Last name** and **Contact number** are displayed automatically and cannot be edited, otherwise need to be input. 
+> - If the email address provided in this request, is linked to a TechPass account, the **First name, Last name** and **Contact number** are displayed automatically and cannot be edited.
 >
 > - If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
 
 ### **Account details**
 
-1. Select your **Agency name.**
+This section is for agencies to specify their system account details.
 
-2. In the **System name,** enter your **project name.** A unique **System ID** is automatically generated and cannot be edited. Your **System ID** is common across _all_  SGTS products that you are subscribed to under this system.
+| **Field Name** | **Description** |
+|---- |---- |
+| **Agency name** | Select your agency name from the drop-down list.
+| **System name** | Enter your system name.
+| **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
-3. Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.** If yes, select your **DGP System ID.** The **subsystem description** appears. 
-
-> - If your agency has multiple DGP IDs, you can select multiple **DGP System IDs.**
-> - If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update accordingly in due course.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID.** and update it once available.</li></ul>
 
 ### **Subscription admins**
 
-1. Enter the **Email address,** **First name,** **Last name,** and **Contact number** of the **Primary** and **Secondary subscription admins.**
-   By default, the requestor who requests for system creation is assigned the **Primary subscription admin** role. The requestor's organisation email address is automatically displayed and cannot be edited.
+Enter the details of the Primary and Secondary Subscription Admins. 
+> If the Primary and Secondary Subscription Admins do not have a TechPass account, these will be created automatically after the system creation request is approved.
+
+| **Field Name** | **Description** |
+|---- |---- |
+| **Primary subscription admin** | By default, the requestor is assigned as the Primary Subscription Admin. <ul><li> The Primary Subscription Admin can only be a public officer with a valid organisation email.</li></ul>
+| **Email address** | By default this displays the organisation email address of the requestor. <ul><li>If the requestor’s email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
+| **First name** | Enter the first name of the requestor. |
+| **Last name** | Enter the last name of the requestor. 
+| **Contact number** | Enter the contact number of the requestor.
+| **Secondary subscription admin** | This section displays details of the Secondary Subscription Admin. <ul><li>Secondary Subscription Admin can only be a public officer with a valid organisation email.</li></ul>
+| **Email address** | Enter the email address of the Secondary Subscription Admin. <ul><li>Must be a public officer with a valid organisation email.</li><li>If the Secondary Subscription Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
+| **First name** | Enter the first name of the Secondary Subscription Admin. |
+| **Last name** | Enter the last name of the Secondary Subscription Admin. 
+| **Contact number** | Enter the contact number of the Secondary Subscription Admin.
 
 ### **Technical admin**
 
-1. Enter the **Email address,** **First name,** **Last name,** **Contact number,** and **Organisation.** 
- A **Technical admin** can be a public officer or a vendor with a valid organisation email. If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited, else needs to be input.
+This section displays details of the Technical Admin. The Technical Admin can be a public officer or a vendor with a valid organisation email.
+
+| **Field Name** | **Description** |
+|---- |---- |
+| **Email address** | Enter the email address of the Technical Admin. <ul><li>If the Technical Admin is a public officer, then the organisation field cannot be edited.</li> <li>If the Technical Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input.</li></ul>
+| **First name** | Enter the first name of the Technical Admin. |
+| **Last name** | Enter the last name of the Technical Admin. 
+| **Contact number** | Enter the contact number of the Technical Admin.
+| **Organisation** | Enter the organisation name of the Technical Admin.
 
 ### **Billing details**
 
-1. Enter the **Email address,** **First name,** **Last name,** and **Contact number.**
-   **Billing admin** must be a public officer with a valid organisation email.
+This section displays details of the Billing Admin. The Billing Admin can only be a public officer with a valid organisation email.
 
-2. If your agency is Govtech, you need to enter the **Agency department, Cost center** and **Fund center** details otherwise enter your **Sub-business unit (SBU)** details.
+| **Field Name** | **Description** |
+|---- |---- |
+| **Email address** | Enter the email address of the Billing Admin. <ul><li>If the Billing Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input. </li></ul>
+| **First name** | Enter the first name of the Billing Admin. |
+| **Last name** | Enter the last name of the Billing Admin. 
+| **Contact number** | Enter the contact number of the Billing Admin.
+| | **Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
+| **Agency department** | Enter the department name.
+| **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
+| **Fund center** | Enter the fund center details. 
+| **SBU** | Enter the sub business unit. 
 
 ![Display billing admin](/images/billing_det.png)
 
