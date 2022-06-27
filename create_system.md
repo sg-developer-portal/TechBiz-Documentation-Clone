@@ -53,32 +53,28 @@ This section is for agencies to specify their system account details.
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system name, for which you are submitting this system creation request.
 | **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears.  
-
-Note: If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears. If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available.  
 
 ### **Subscription admins**
 
-Enter the details of the Primary and Secondary subscription admins.
-
-Note: The Primary and Secondary subscription admins can only be public officers with a valid organisation email.
+Enter the details of the **Primary** and **Secondary subscription admins.**
 
 | **Field Name** | **Description** |
 |---- |---- 
 | **Primary subscription admin** | By default, the requestor is assigned as the Primary Subscription Admin.
-| **Email address** | By default this displays the organisation email address of the requestor.
-| **First name, Last name, Contact number** | If the requestor’s email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input. |
+| **Email address** | The organisation email address of the requestor is automatically displayed.
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number** 
 | **Secondary subscription admin** | This section displays details of the Secondary Subscription Admin.
 | **Email address** | Enter the email address of the Secondary Subscription Admin.
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to input **First name, Last name and Contact number** 
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number.** 
 
 ### **Technical admin**
 
-This section displays details of the Technical Admin. The Technical Admin can be a public officer or a vendor with a valid organisation email.
+This section displays details of the Technical Admin.
 
 | **Field Name** | **Description** |
 |---- |---- |
-| **Email address** | Enter the email address of the Technical Admin.
+| **Email address** | Enter the email address of the **Technical admin.** The **Technical admin** can be a public officer or a vendor with a valid organisation email.
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** |
 | **Organisation** | Enter the organisation name of the Technical Admin. If the Technical Admin is a public officer, then the organisation field is automatically displayed and cannot be edited. If the Technical admin is a vendor, then requestor to enter the organisation name.
 
@@ -88,12 +84,10 @@ This section displays details of the Billing Admin. The Billing Admin can only b
 
 | **Field Name** | **Description** |
 |---- |---- |
-| **Email address** | Enter the email address of the Billing Admin. <ul><li>If the Billing Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input. </li></ul>
-| **First name** | Enter the first name of the Billing Admin. |
-| **Last name** | Enter the last name of the Billing Admin. 
-| **Contact number** | Enter the contact number of the Billing Admin.
+| **Email address** | Enter the email address of the Billing Admin. 
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** |
 | | **Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
-| **Agency department** | Enter the department name.
+| **Agency department** | Enter your department name.
 | **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
 | **Fund center** | Enter the fund center details. 
 | **SBU** | Enter the sub business unit. 
