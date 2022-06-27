@@ -61,11 +61,11 @@ Enter the details of the **Primary** and **Secondary subscription admins.**
 
 | **Field Name** | **Description** |
 |---- |---- 
-| **Primary subscription admin** | By default, the requestor is assigned as the Primary Subscription Admin.
+| **Primary subscription admin** | By default, the requestor is assigned as the **Primary subscription admin.**
 | **Email address** | The organisation email address of the requestor is automatically displayed.
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number** 
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number.** 
 | **Secondary subscription admin** | This section displays details of the Secondary Subscription Admin.
-| **Email address** | Enter the email address of the Secondary Subscription Admin.
+| **Email address** | Enter the email address of the Secondary Subscription Admin. Must be a public officer with a valid organisation email.
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number.** 
 
 ### **Technical admin**
@@ -85,14 +85,13 @@ This section displays details of the Billing Admin. The Billing Admin can only b
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the Billing Admin. 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** |
-| | **Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** 
+
+**Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
 | **Agency department** | Enter your department name.
 | **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
 | **Fund center** | Enter the fund center details. 
 | **SBU** | Enter the sub business unit. 
-
-![Display billing admin](/images/billing_det.png)
 
 7.  Select the required **products** and click **Next.**
 
@@ -149,7 +148,7 @@ To configure products:
 
 2. In the **Overview** page, click **View systems**.
 
-3. Click on the approved system.
+3. Click on the **approved** system.
 
 3. To select a subscription plan, go to the **Products** tab.
 
