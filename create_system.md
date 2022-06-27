@@ -53,24 +53,22 @@ This section is for agencies to specify their system account details.
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system name, for which you are submitting this system creation request.
 | **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID.** and update it once available.</li></ul>
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears.  <ul><li>If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown.</li> <li>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available.</li></ul>
 
 ### **Subscription admins**
 
-Enter the details of the Primary and Secondary Subscription Admins.
+Enter the details of the Primary and Secondary subscription admins.
+
+Note: The Primary and Secondary subscription admins can only be public officers with a valid organisation email.
 
 | **Field Name** | **Description** |
-|---- |---- |
-| **Primary subscription admin** | By default, the requestor is assigned as the Primary Subscription Admin. <ul><li> The Primary Subscription Admin can only be a public officer with a valid organisation email.</li></ul>
-| **Email address** | By default this displays the organisation email address of the requestor. <ul><li>If the requestor’s email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
-| **First name** | Enter the first name of the requestor. |
-| **Last name** | Enter the last name of the requestor. 
-| **Contact number** | Enter the contact number of the requestor.
-| **Secondary subscription admin** | This section displays details of the Secondary Subscription Admin. <ul><li>Secondary Subscription Admin can only be a public officer with a valid organisation email.</li></ul>
-| **Email address** | Enter the email address of the Secondary Subscription Admin. <ul><li>Must be a public officer with a valid organisation email.</li><li>If the Secondary Subscription Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input.</li></ul>
-| **First name** | Enter the first name of the Secondary Subscription Admin. |
-| **Last name** | Enter the last name of the Secondary Subscription Admin. 
-| **Contact number** | Enter the contact number of the Secondary Subscription Admin.
+|---- |---- 
+| **Primary subscription admin** | By default, the requestor is assigned as the Primary Subscription Admin.
+| **Email address** | By default this displays the organisation email address of the requestor.
+| **First name, Last name, Contact number** | If the requestor’s email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input. |
+| **Secondary subscription admin** | This section displays details of the Secondary Subscription Admin.
+| **Email address** | Enter the email address of the Secondary Subscription Admin.
+| **First name, Last name, Contact number** | If the secondary subscription admin email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input. |
 
 ### **Technical admin**
 
@@ -78,11 +76,9 @@ This section displays details of the Technical Admin. The Technical Admin can be
 
 | **Field Name** | **Description** |
 |---- |---- |
-| **Email address** | Enter the email address of the Technical Admin. <ul><li>If the Technical Admin is a public officer, then the organisation field cannot be edited.</li> <li>If the Technical Admin email address is linked to a TechPass account, the **First name,** **Last name,** and **Contact number** are automatically displayed and cannot be edited; otherwise requires requestor’s input.</li></ul>
-| **First name** | Enter the first name of the Technical Admin. |
-| **Last name** | Enter the last name of the Technical Admin. 
-| **Contact number** | Enter the contact number of the Technical Admin.
-| **Organisation** | Enter the organisation name of the Technical Admin.
+| **Email address** | Enter the email address of the Technical Admin.
+| **First name, Last name, Contact number** | If the secondary subscription admin email address is linked to a TechPass account, the **First name,** **Last name** and **Contact number** are displayed automatically and cannot be edited; otherwise requires the requestor’s input. |
+| **Organisation** | Enter the organisation name of the Technical Admin. If the Technical Admin is a public officer, then the organisation field cannot be edited. If the Technical admin is a vendor, then enter the organisation name.
 
 ### **Billing details**
 
@@ -117,16 +113,13 @@ This section displays details of the Billing Admin. The Billing Admin can only b
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
 
-   1. Enter the **Approver name,** **Approver email,** and **Designation.**
-
-   2. To upload supporting documents, click **Choose a file.** 
-   
-     - You can upload files up to 10MB.
-    - A maximum of 50 files per upload.
-    - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
-    - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
-
-   3.  Under **Remarks to approver,** specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X. This field is optional.
+| **Field name** | **Description**
+|---- |---- 
+| **Approver name** | Enter the full name of the approver. 
+| **Approver email** | Enter the email address of the approver. <ul><li>Approver can only be a public officer with a valid organisation email.</li></ul>
+| **Designation** | Enter the designation of the approver. <ul><li>Approver can only be a Deputy Director and above.</li></ul>
+| **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
+| **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
 10. Make sure the information displayed on this page is correct and
 click **Submit.**
