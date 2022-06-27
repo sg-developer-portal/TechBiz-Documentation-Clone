@@ -51,8 +51,7 @@ This section is for agencies to specify their system account details.
 | **Field Name** | **Description** |
 |---- |---- |
 | **Agency name** | Select your agency name from the drop-down list.
-| **System name** | Enter your system name.
-| **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.
+| **System name, System ID** | Enter your system name. Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.
 
 ![Display System ID](/images/system_id.png "size=100")
 
