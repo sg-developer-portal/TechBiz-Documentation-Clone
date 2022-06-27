@@ -57,34 +57,34 @@ This section is for agencies to specify their system account details.
 
 ### **Subscription admins**
 
-Enter the details of the **Primary** and **Secondary subscription admins.**
+The **Primary** and **Secondary subscription admins** must be public officers with a valid organisation email address.
 
 | **Field Name** | **Description** |
 |---- |---- 
 | **Primary subscription admin** | By default, the requestor is assigned as the **Primary subscription admin.**
 | **Email address** | The organisation email address of the requestor is automatically displayed.
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number.** 
-| **Secondary subscription admin** | This section displays details of the Secondary Subscription Admin.
-| **Email address** | Enter the email address of the Secondary Subscription Admin. Must be a public officer with a valid organisation email.
+| **Secondary subscription admin** | |
+| **Email address** | Enter the organisation email address.
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number.** 
 
 ### **Technical admin**
 
-This section displays details of the Technical Admin.
+This section displays details of the **Technical admin.**
 
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the **Technical admin.** The **Technical admin** can be a public officer or a vendor with a valid organisation email.
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** |
-| **Organisation** | Enter the organisation name of the Technical Admin. If the Technical Admin is a public officer, then the organisation field is automatically displayed and cannot be edited. If the Technical admin is a vendor, then requestor to enter the organisation name.
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number.** |
+| **Organisation** | Enter the organisation name of the **Technical admin.** If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then requestor needs to enter the organisation name.
 
 ### **Billing details**
 
-This section displays details of the Billing Admin. The Billing Admin can only be a public officer with a valid organisation email.
+This section displays details of the **Billing admin.** The **Billing admin** can only be a public officer with a valid organisation email.
 
 | **Field Name** | **Description** |
 |---- |---- |
-| **Email address** | Enter the email address of the Billing Admin. 
+| **Email address** | Enter the email address of the **Billing admin.** 
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** 
 
 **Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
@@ -112,7 +112,7 @@ This section displays details of the Billing Admin. The Billing Admin can only b
 |---- |---- 
 | **Approver name** | Enter the full name of the approver. 
 | **Approver email** | Enter the email address of the approver. Approver can only be a public officer with a valid organisation email.
-| **Designation** | Enter the designation of the approver. Approver can only be a Deputy Director and above.
+| **Designation** | Enter the designation of the approver. Approver can only be of a rank Deputy Director and above.
 | **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
