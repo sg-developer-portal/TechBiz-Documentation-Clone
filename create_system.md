@@ -50,7 +50,7 @@ This section is for agencies to specify their system account details.
 |---- |---- |
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system name, for which you are submitting this system creation request.
-| **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=40%')
+| **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears. If your agency has multiple DGP IDs, click **Add another.**<br /><br />Note:If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available. You can create/update your DGP ID at https://ssp.dgp.tech.gov.sg using your GSIB device.
  
 
