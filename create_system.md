@@ -51,8 +51,7 @@ This section is for agencies to specify their system account details.
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system name, for which you are submitting this system creation request.
 | **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears. If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available. You can create/update your DGP ID at https://ssp.dgp.tech.gov.sg using your GSIB device.
-Note: DGP is a system tracking tool. The purpose of DGP is to track all Whole-of-Government (WOG) systems and their details such as data classification, cost of projects, and where they are hosted.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears. If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown. <ul>If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available. You can create/update your DGP ID at https://ssp.dgp.tech.gov.sg using your GSIB device.</ul>
  
 
 ### **Subscription admins**
