@@ -56,8 +56,6 @@ This section is for agencies to specify their system account details.
 
 ### **Subscription admins**
 
-The **Primary** and **Secondary subscription admins** must be public officers with a valid organisation email address.
-
 #### Primary subscription admin
 
 | **Field Name** | **Description** |
@@ -69,22 +67,18 @@ The **Primary** and **Secondary subscription admins** must be public officers wi
 
 | **Field Name** | **Description** |
 |---- |---- 
-| **Email address** | Enter the organisation email address. 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the full name and contact number.
+| **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The email address cannot be the same as that of the **Primary subscription admin.**  
+| **First name, Last name, Contact number** | If the email address is linked to a TechPass account, the full name and contact number are automatically displayed, otherwise the requestor needs to enter.
 
 ### **Technical admin**
-
-The **Technical admin** can be a public officer or a vendor with a valid organisation email address.
 
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the **Technical admin.** 
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the full name and contact number.|
-| **Organisation** | Enter the organisation name of the **Technical admin.** If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then requestor needs to enter the organisation name.
+| **Organisation** | If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then the requestor needs to enter the organisation name.
 
 ### **Billing details**
-
-The **Billing admin** must be a public officer with a valid organisation email address.
 
 | **Field Name** | **Description** |
 |---- |---- |
