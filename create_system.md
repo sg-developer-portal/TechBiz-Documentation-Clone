@@ -67,15 +67,15 @@ This section is for agencies to specify their system account details.
 
 | **Field Name** | **Description** |
 |---- |---- 
-| **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The email address cannot be the same as that of the **Primary subscription admin.**  
+| **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br /><br />Notes: <ul><li>The **Secondary subscription admin** must be a public officer.</The organisation email address cannot be the same as that of the **Primary subscription admin.**  
 | **First name, Last name, Contact number** | If the email address is linked to a TechPass account, the full name and contact number are automatically displayed, otherwise the requestor needs to enter.
 
 ### **Technical admin**
 
 | **Field Name** | **Description** |
 |---- |---- |
-| **Email address** | Enter the email address of the **Technical admin.** 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the full name and contact number.|
+| **Email address** | Enter the organisation email address of the **Technical admin.** 
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, the requestor needs to enter the full name and contact number.|
 | **Organisation** | If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then the requestor needs to enter the organisation name.
 
 ### **Billing details**
@@ -83,8 +83,7 @@ This section is for agencies to specify their system account details.
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the **Billing admin.** 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the full name and contact number.
-|  | **Notes:**<ul><li>If your agency is GovTech, enter the **Agency department,** **Cost center,** and **Fund center** details, otherwise enter your **Sub-business unit (SBU).**|
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, the requestor needs to enter the full name and contact number.|  |**Note:**If your agency is GovTech, enter the **Agency department,** **Cost center,** and **Fund center** details, otherwise enter your **Sub-business unit (SBU).**|
 | **Agency department** | Enter your department name.
 | **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
 | **Fund center** | Enter the fund center details. 
