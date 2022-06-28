@@ -67,7 +67,7 @@ This section is for agencies to specify their system account details.
 
 | **Field Name** | **Description** |
 |---- |---- 
-| **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br /><br />Notes: <ul><li>The **Secondary subscription admin** must be a public officer.</The organisation email address cannot be the same as that of the **Primary subscription admin.**  
+| **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The **Secondary subscription admin** must be a public officer whose organisation email address cannot be the same as that of the **Primary subscription admin.**  
 | **First name, Last name, Contact number** | If the email address is linked to a TechPass account, the full name and contact number are automatically displayed, otherwise the requestor needs to enter.
 
 ### **Technical admin**
