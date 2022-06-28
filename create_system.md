@@ -40,8 +40,6 @@ A software development project of an agency.
 >
 > - Unless mentioned otherwise, all fields are mandatory.
 >
-> - If the email address provided in this request, is linked to a TechPass account, the **First name, Last name** and **Contact number** are automatically displayed and cannot be edited; otherwise require the requestor's input.
->
 > - If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
 
 ### **Account details**
@@ -53,7 +51,10 @@ This section is for agencies to specify their system account details.
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system name, for which you are submitting this system creation request.
 | **System ID** | Upon entering your system name, a unique **System ID** is automatically generated and this cannot be edited. Your **System ID** is common across all SGTS products that you are subscribed to under this system.
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears. If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available.  
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a DGP ID. Select **Yes, I have a DGP ID** or **No, I do no have a DGD ID.** If yes, select your **DGP System ID** from the dropdown. The **subsystem description** appears. If your agency has multiple DGP IDs, you can select multiple **DGP System IDs** from the dropdown. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it once available.
+Users can access the given link from their GSIB machine to create/update their DGP ID. 
+
+DGP is a system tracking tool. The purpose of DGP is to track all WOG systems and its details. For example, data classification, cost of project, and where it is hosted. 
 
 ### **Subscription admins**
 
@@ -62,7 +63,7 @@ The **Primary** and **Secondary subscription admins** must be public officers wi
 | **Field Name** | **Description** |
 |---- |---- 
 | **Primary subscription admin** | By default, the requestor is assigned as the **Primary subscription admin.**
-| **Email address** | The organisation email address of the requestor is automatically displayed.
+| **Email address** | The organisation email address of the requestor is automatically displayed and cannot be edited.
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter **First name, Last name and Contact number.** 
 | **Secondary subscription admin** | |
 | **Email address** | Enter the organisation email address.
@@ -75,7 +76,7 @@ This section displays details of the **Technical admin.**
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the **Technical admin.** The **Technical admin** can be a public officer or a vendor with a valid organisation email.
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number.** |
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** of the **Technical admin,** otherwise the details are automatically displayed.|
 | **Organisation** | Enter the organisation name of the **Technical admin.** If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then requestor needs to enter the organisation name.
 
 ### **Billing details**
@@ -85,9 +86,9 @@ This section displays details of the **Billing admin.** The **Billing admin** ca
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the **Billing admin.** 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** 
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, requestor needs to enter the **First name, Last name and Contact number** of the **Billing admin,** otherwise the details are automatically displayed.
 
-**Notes:**<ul><li>If your agency is GovTech, you need to fill in the **Agency department,** **Cost center,** and **Fund center** details. All other agencies need to fill in the **SBU** details.
+**Notes:**<ul><li>If your agency is GovTech, enter the **Agency department,** **Cost center,** and **Fund center** details, otherwise enter your **Sub-business unit (SBU)** details.
 | **Agency department** | Enter your department name.
 | **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
 | **Fund center** | Enter the fund center details. 
@@ -103,7 +104,7 @@ This section displays details of the **Billing admin.** The **Billing admin** ca
 |---- |---- 
 |**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: <ul><li>The agency approver to approve the system creation request.</li><li>The agency to provide product configuration details.</li><li>The product team to provision the resources.</li></ul>
 | **Product agreement** | Contains the terms and conditions.
-| **Select a plan**| Refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
+| **Select a plan**| Refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The user needs to choose a specific plan for a product. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
@@ -119,14 +120,13 @@ This section displays details of the **Billing admin.** The **Billing admin** ca
 10. Make sure the information displayed on this page is correct and
 click **Submit.**
 
-11. In the **Submit for approval** pop-up window, review the terms
-and conditions, select all **checkboxes** and click **Submit.**
+11. In the **Submit for approval** pop-up window, select all **checkboxes** to agree to the terms and conditions, and click **Submit.**
 
 ## Obtain approval
 
-When a requestor submits a request to create a system, the designated agency office(Deputy Director and above) receives an email to process this request.
+When a requestor submits a request to create a system, the designated agency officer(Deputy Director or above) receives an email to process this request.
 
-To approve or reject a system creation request:
+To approve or reject a system creation request, the approver needs to:
 
 1. Review the attachments in the email notification.
 
