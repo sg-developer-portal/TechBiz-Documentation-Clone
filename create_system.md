@@ -43,6 +43,8 @@ Note: To download the agreement, click **Download the SGTS agreement** link.
 > - Unless mentioned otherwise, all fields are mandatory.
 >
 > - If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
+>
+> - The **Primary subscription admin, Secondary subscription admin, billing admin,** and **approver** must be public officers with a valid organisation email. The **Technical admin** can be a public officer or a vendor with a valid organisation email.
 
 ### **Account details**
 
@@ -57,8 +59,6 @@ This section is for agencies to specify their system account details.
  
 
 ### **Subscription admins**
-
-**Primary** and **Secondary subscription admins** must be public officers with a valid organisation email.
 
 #### Primary subscription admin
 
@@ -79,8 +79,7 @@ This section is for agencies to specify their system account details.
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the organisation email address of the **Technical admin.** 
-| **First name, Last name, Contact number** | If the email address of the **Technical admin** is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.|
-| **Organisation** | If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then the requestor needs to enter the organisation name.
+| **First name, Last name, Contact number, Organisation** | If the email address of the **Technical admin** is linked to a TechPass account, the full name, contact number, and organisation are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
 
 ### **Billing details**
 
@@ -112,7 +111,7 @@ This section is for agencies to specify their system account details.
 |---- |---- 
 | **Approver name** | Enter the full name of the approver. 
 | **Approver email** | Enter the organisation email address of the approver. 
-| **Designation** | Enter the designation of the approver. Approver can only be of a rank Deputy Director and above.
+| **Designation** | Enter the designation of the approver. Approver must be of a rank Deputy Director or above.
 | **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
