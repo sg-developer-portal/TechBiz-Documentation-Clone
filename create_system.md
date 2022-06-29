@@ -44,7 +44,7 @@ A software development project of an agency.
 >
 > - If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
 >
-> - The **Primary subscription admin, Secondary subscription admin, billing admin,** and **approver** must be public officers with a valid organisation email. The **Technical admin** can be a public officer or a vendor with a valid organisation email.
+> - The **Primary subscription admin, Secondary subscription admin, Billing admin,** and **Approver** must be public officers with a valid organisation email. The **Technical admin** can be a public officer or a vendor with a valid organisation email.
 
 ### **Account details**
 
@@ -65,9 +65,6 @@ This section is for agencies to specify their system account details.
 | **Primary subscription admin** | By default the requestor is assigned as the **Primary subscription admin.**
 | **Email address** | The organisation email address of the requestor is automatically displayed and cannot be edited.
 | **First name, Last name, Contact number** | If the email address of the requestor is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
-
-| **Field Name** | **Description** |
-|---- |---- 
 | **Secondary subscription admin** | Displays details of the **Secondary subscription admin**
 | **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The email address of the **Secondary subscription admin** cannot be the same as that of the **Primary subscription admin.**  
 | **First name, Last name, Contact number** | If the email address of the **Secondary subscription admin** is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
@@ -96,7 +93,7 @@ This section is for agencies to specify their system account details.
 
 | **Field name** | **Description**
 |---- |---- 
-|**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the subscribed SGTS products. The actual start date may vary depending on: <ul><li>The agency **approver** to approve the system creation request.</li><li>The **Technical admin** to provide the product configuration details.</li><li>The product team to provision the resources.</li></ul>
+|**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the subscribed SGTS products. The actual start date may vary depending on: <ul><li>The agency **Approver** to approve the system creation request.</li><li>The **Technical admin** to provide the product configuration details.</li><li>The product team to provision the resources.</li></ul>
 | **Product agreement** | Contains the terms and conditions of the subscribed product.
 | **Select a plan**| Select a specific plan for a product. The displayed subscription plans contain details of the chargeable items in a product with the specified charges. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
@@ -105,11 +102,11 @@ This section is for agencies to specify their system account details.
 
 | **Field name** | **Description**
 |---- |---- 
-| **Approver name** | Enter the full name of the approver. 
-| **Approver email** | Enter the organisation email address of the approver. 
-| **Designation** | Enter the designation of the approver. Approver must be of a rank Deputy Director or above.
+| **Approver name** | Enter the full name of the **Approver.** 
+| **Approver email** | Enter the organisation email address of the **Approver.** 
+| **Designation** | Enter the designation of the **Approver.** Must be of a rank Deputy Director or above.
 | **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
-| **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
+| **Remarks to Approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
 10. Make sure the information displayed on this page is correct and
 click **Submit.**
@@ -120,7 +117,7 @@ click **Submit.**
 
 When a requestor submits a request to create a system, the designated agency officer(Deputy Director or above) receives an email to process this request.
 
-To approve or reject a system creation request, the approver needs to:
+To approve or reject a system creation request, the **Approver** needs to:
 
 1. Review the attachments in the email notification.
 
@@ -128,11 +125,11 @@ To approve or reject a system creation request, the approver needs to:
 
 3. In the **Overview** page, click **View systems**.
 
-4. Click on the **system** that requires your approval.
+4. Click on the **system** that requires approval.
 
 5. Click **Approve** or **Reject.**
 
-The requestor receives the outcome of the approval request via email. After obtaining approval, to complete the onboarding process, the **Technical admin** needs to configure products in the TechBiz portal.
+The requestor receives the outcome of the approval request via email. After obtaining approval, the **Technical admin** needs to configure products in the TechBiz portal.
 
 ## Configure products
 
