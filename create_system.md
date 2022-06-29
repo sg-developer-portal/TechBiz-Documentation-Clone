@@ -67,21 +67,22 @@ This section is for agencies to specify their system account details.
 | **First name, Last name, Contact number** | If the email address of the requestor is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
 | **Secondary subscription admin** | Displays details of the **Secondary subscription admin**
 | **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The email address of the **Secondary subscription admin** cannot be the same as that of the **Primary subscription admin.**  
-| **First name, Last name, Contact number** | If the email address of the **Secondary subscription admin** is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
+| **First name, Last name, Contact number** | If the email address of the **Secondary subscription admin** is not linked to a TechPass account, the requestor needs to enter the full name and contact number.
 
 ### **Technical admin**
 
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the organisation email address of the **Technical admin.** 
-| **First name, Last name, Contact number, Organisation** | If the email address of the **Technical admin** is linked to a TechPass account, the full name, contact number, and organisation are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
+| **First name, Last name, Contact number**| If the email address of the **Technical admin** is not linked to a TechPass account, the requestor needs to enter the full name, and contact number.
+| **Organisation** | If the **Technical admin** is a public officer or a vendor with an active TechPass account, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then the requestor needs to enter the organisation.
 
 ### **Billing details**
 
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the **Billing admin.** 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, the requestor needs to enter the full name and contact number.
+| **First name, Last name, Contact number** | If the email address of the **Billing admin** is not linked to a TechPass account, the requestor needs to enter the full name and contact number.
 |If your agency is GovTech, <br />**Agency department**<br />**Cost center**<br /><br />**Fund center**| <br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
 | For other agencies<br />**SBU** | <br />Enter the sub business unit. 
 
@@ -102,8 +103,8 @@ This section is for agencies to specify their system account details.
 
 | **Field name** | **Description**
 |---- |---- 
-| **Approver name, email, designation** | Enter the full name, organisation email address and designation of the **Approver.** Note: **Approver** must be **Deputy Director** or above rank.
-| **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
+| **Approver name, email, designation** | Enter the full name, organisation email address and designation of the **Approver.** Note: **Approver** must be **Deputy Director** or above.
+| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to Approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
 10. Make sure the information displayed on this page is correct and
