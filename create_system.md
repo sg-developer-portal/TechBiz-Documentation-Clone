@@ -44,7 +44,7 @@ A software development project of an agency.
 >
 > - If the user does not have a TechPass account, it will be created automatically after the system creation request is approved.
 >
-> - The **Primary subscription admin, Secondary subscription admin, Billing admin,** and **Approver** must be public officers with a valid organisation email. The **Technical admin** can be a public officer or a vendor with a valid organisation email.
+> - The **Primary subscription admin, Secondary subscription admin, Billing admin,** and **Approver** must be public officers with a valid organisation email address. The **Technical admin** can be a public officer or a vendor with a valid organisation email address.
 
 ### **Account details**
 
@@ -102,9 +102,7 @@ This section is for agencies to specify their system account details.
 
 | **Field name** | **Description**
 |---- |---- 
-| **Approver name** | Enter the full name of the **Approver.** 
-| **Approver email** | Enter the organisation email address of the **Approver.** 
-| **Designation** | Enter the designation of the **Approver.** Must be of a rank Deputy Director or above.
+| **Approver name, email, designation** | Enter the full name, organisation email address and designation of the **Approver.** Note: **Approver** must be **Deputy Director** or above rank.
 | **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to Approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
 
