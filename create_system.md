@@ -30,9 +30,11 @@ A software development project of an agency.
 
 ![Display createsystemworkflow](/images/create_system_workflow.png)
 
-4. Make sure you have the required details, before clicking **Next.**
+4. Make sure you have the stated required details, before clicking **Next.**
 
-5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** To download the agreement, click **Download the SGTS agreement** link.
+5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** 
+
+Note: To download the agreement, click **Download the SGTS agreement** link.
 
 6. Under **System details,** enter the following information, and click **Next.**
 
@@ -56,26 +58,28 @@ This section is for agencies to specify their system account details.
 
 ### **Subscription admins**
 
+**Primary** and **Secondary subscription admins** must be public officers with a valid organisation email.
+
 #### Primary subscription admin
 
 | **Field Name** | **Description** |
 |---- |---- 
 | **Email address** | By default the requestor is assigned as the **Primary subscription admin.** The organisation email address of the requestor is automatically displayed and cannot be edited.
-| **First name, Last name, Contact number** | If the email address is linked to a TechPass account, the full name and contact number are automatically displayed, otherwise the requestor needs to enter.
+| **First name, Last name, Contact number** | If the email address of the requestor is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
 
 #### Secondary subscription admin
 
 | **Field Name** | **Description** |
 |---- |---- 
-| **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The **Secondary subscription admin** must be a public officer whose organisation email address cannot be the same as that of the **Primary subscription admin.**  
-| **First name, Last name, Contact number** | If the email address is linked to a TechPass account, the full name and contact number are automatically displayed, otherwise the requestor needs to enter.
+| **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The email address of the **Secondary subscription admin** cannot be the same as that of the **Primary subscription admin.**  
+| **First name, Last name, Contact number** | If the email address of the **Secondary subscription admin** is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
 
 ### **Technical admin**
 
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the organisation email address of the **Technical admin.** 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, the requestor needs to enter the full name and contact number.|
+| **First name, Last name, Contact number** | If the email address of the **Technical admin** is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.|
 | **Organisation** | If the **Technical admin** is a public officer, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then the requestor needs to enter the organisation name.
 
 ### **Billing details**
@@ -83,31 +87,31 @@ This section is for agencies to specify their system account details.
 | **Field Name** | **Description** |
 |---- |---- |
 | **Email address** | Enter the email address of the **Billing admin.** 
-| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, the requestor needs to enter the full name and contact number.|  |**Note:**If your agency is GovTech, enter the **Agency department,** **Cost center,** and **Fund center** details, otherwise enter your **Sub-business unit (SBU).**|
-| **Agency department** | Enter your department name.
-| **Cost center** | Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.
-| **Fund center** | Enter the fund center details. 
-| **SBU** | Enter the sub business unit. 
+| **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, the requestor needs to enter the full name and contact number.
+|If your agency is GovTech, <br />**Agency department**<br />**Cost center**<br />**Fund center**| Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
+| For other agencies<br />**SBU** | <br />Enter the sub business unit. 
 
 7.  Select the required **products** and click **Next.**
 
-8.  Select the required **plan(s)** and click **Next.**
+8.  Select the required product subscription plans and click **Next.**
 
 > **Note:** You need to select plan(s) for all the required product(s) before you can proceed to the next step.
 
 | **Field name** | **Description**
 |---- |---- 
-|**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the SGTS products that they have subscribed to. However, actual start date will be later than the selected start date as it includes the time required for: <ul><li>The agency approver to approve the system creation request.</li><li>The agency to provide product configuration details.</li><li>The product team to provision the resources.</li></ul>
-| **Product agreement** | Contains the terms and conditions.
-| **Select a plan**| Refers to the subscription plan which contains details of the chargeable items in a product with the specified charges. The user needs to choose a specific plan for a product. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
+|**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the subscribed SGTS products. The actual start date may vary depending on: <ul><li>The agency approver to approve the system creation request.</li><li>The **Technical admin** to provide the product configuration details.</li><li>The product team to provision the resources.</li></ul>
+| **Product agreement** | Contains the terms and conditions of the subscribed product.
+| **Select a plan**| Select a specific plan for a product. The displayed subscription plans contain details of the chargeable items in a product with the specified charges. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
 
+**Approver** must be a public officer with a valid organisation email.
+
 | **Field name** | **Description**
 |---- |---- 
 | **Approver name** | Enter the full name of the approver. 
-| **Approver email** | Enter the email address of the approver. Approver can only be a public officer with a valid organisation email.
+| **Approver email** | Enter the organisation email address of the approver. 
 | **Designation** | Enter the designation of the approver. Approver can only be of a rank Deputy Director and above.
 | **Upload documents** | Click Choose a file to upload supporting documents. For example, approval email and AOR. <ul><li>You can upload files up to 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to approver** | This field is optional. However, it is recommended to specify your reasons for seeking approval. For example, requesting approval to subscribe to SHIP-HATS for Project X.
