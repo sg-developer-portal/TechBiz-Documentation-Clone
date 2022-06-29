@@ -8,7 +8,7 @@ This guide shows agencies how they can send TechPass invites to users from the T
 
 >**Prerequisites:**
 >
-> - A public officer with a valid organisation email(for example, <user_name@agency.gov.sg>).
+> - Public officer with a valid organisation email address. For example, user_name@agency.gov.sg.
 >
 > - Non-SE GSIB (Government Standard Image Build) device.
 
@@ -40,8 +40,6 @@ Specify the invitation email details and click **Submit.**
 | Is onboarding to **SEED** required? | Select Yes if the user needs to access SGTS services from an internet device, that requires SEED compliance. Select **No** if user needs to access SGTS services from a Government Standard Image Build (GSIB) device.
 | Reason | Enter the reason why you need a TechPass account.
 
-![Display Invitation Type](/images/email_invite.png)
-
 ### Create account
 
 Specify the details of the user who requires a TechPass account and click **Submit.**
@@ -54,19 +52,14 @@ Specify the details of the user who requires a TechPass account and click **Subm
 | Is onboarding to **SEED** required? | Select Yes if the user needs to access SGTS services from an internet device, that requires SEED compliance. Select **No** if user needs to access SGTS services from a Government Standard Image Build (GSIB) device.
 | Reason | Enter the reason why user needs a TechPass account.
 
-![Display Create account](/images/create_account.png)
-
 ### Batch upload
 
 1.  Click **Download excel template link.**
 
 ![Display Batch upload](/images/batch_upload_1.png)
 
-
 2.  Specify the **user details** and save the file.
 3.  To upload the file, click **Choose a file.**
-
-![Display Batch upload](/images/batch_upload_2.png)
 
 4.  Select the **file** and upload it. A confirmation message **Uploaded \<filename\>.csv** along with the user details appears.
 5.  To **view or delete** user details from the file, click the ellipsis on the row.
