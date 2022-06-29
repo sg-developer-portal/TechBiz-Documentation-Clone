@@ -60,17 +60,15 @@ This section is for agencies to specify their system account details.
 
 ### **Subscription admins**
 
-#### Primary subscription admin
-
 | **Field Name** | **Description** |
 |---- |---- 
-| **Email address** | By default the requestor is assigned as the **Primary subscription admin.** The organisation email address of the requestor is automatically displayed and cannot be edited.
+| **Primary subscription admin** | By default the requestor is assigned as the **Primary subscription admin.**
+| **Email address** | The organisation email address of the requestor is automatically displayed and cannot be edited.
 | **First name, Last name, Contact number** | If the email address of the requestor is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
 
-#### Secondary subscription admin
-
 | **Field Name** | **Description** |
 |---- |---- 
+| **Secondary subscription admin** | Displays details of the **Secondary subscription admin**
 | **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br />Note: The email address of the **Secondary subscription admin** cannot be the same as that of the **Primary subscription admin.**  
 | **First name, Last name, Contact number** | If the email address of the **Secondary subscription admin** is linked to a TechPass account, the full name and contact number are automatically displayed and cannot be edited, otherwise the requestor needs to enter.
 
@@ -98,14 +96,12 @@ This section is for agencies to specify their system account details.
 
 | **Field name** | **Description**
 |---- |---- 
-|**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the subscribed SGTS products. The actual start date may vary depending on: <ul><li>The agency approver to approve the system creation request.</li><li>The **Technical admin** to provide the product configuration details.</li><li>The product team to provision the resources.</li></ul>
+|**Select subscription period**| Select **Start date.** This is the date when your agency intends to start using the subscribed SGTS products. The actual start date may vary depending on: <ul><li>The agency **approver** to approve the system creation request.</li><li>The **Technical admin** to provide the product configuration details.</li><li>The product team to provision the resources.</li></ul>
 | **Product agreement** | Contains the terms and conditions of the subscribed product.
 | **Select a plan**| Select a specific plan for a product. The displayed subscription plans contain details of the chargeable items in a product with the specified charges. The available plans are:<ul><li>**Bundled plan-** To subscribe to multiple items in a product.</li><li>**Individual plan-** To subscribe to a single item in a product.</li><li>**Add-ons-** To subscribe to a single item in a product. However, cannot be selected on its own and must be included with an individual plan or a bundled plan.
 
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
-
-**Approver** must be a public officer with a valid organisation email.
 
 | **Field name** | **Description**
 |---- |---- 
