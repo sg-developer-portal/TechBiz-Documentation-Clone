@@ -34,7 +34,7 @@ A software development project of an agency.
 
 5. Select the checkbox to agree to the terms and conditions mentioned in the **SGTS Universal Service Terms** and click **Next.** 
 
-Note: To download the agreement, click **Download the SGTS agreement** link.
+>**Note:** To download the agreement, click **Download the SGTS agreement** link.
 
 6. Under **System details,** enter the following information, and click **Next.**
 
@@ -87,7 +87,7 @@ This section is for agencies to specify their system account details.
 |---- |---- |
 | **Email address** | Enter the email address of the **Billing admin.** 
 | **First name, Last name, Contact number** | If the email address is not linked to a TechPass account, the requestor needs to enter the full name and contact number.
-|If your agency is GovTech, <br />**Agency department**<br />**Cost center**<br />**Fund center**| Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
+|If your agency is GovTech, <br />**Agency department**<br />**Cost center**<br /><br />**Fund center**| <br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
 | For other agencies<br />**SBU** | <br />Enter the sub business unit. 
 
 7.  Select the required **products** and click **Next.**
