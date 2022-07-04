@@ -13,5 +13,3 @@ A software development project of an agency, and an agency can have multiple sys
 
 **Sub-business unit**
 
-**Cloud Assume Role**
-Users with this role can access the cloud console or portal to create custom IAM roles for their agencies.
