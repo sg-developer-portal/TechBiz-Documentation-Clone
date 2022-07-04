@@ -66,5 +66,3 @@ Specify the details of the user who requires a TechPass account and click **Subm
 ![Display Batch upload](/images/batch_upload_3.png ':size=60%')
 
 6.  To reset user details, click **Reset.** To confirm reset, in the dialog, click **Confirm.**
-
-
