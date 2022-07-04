@@ -9,4 +9,5 @@
 - [Log In to the TechBiz portal](log_in_to_TechBiz_portal.md)
 - [Create system](create_system.md)
 - [Invite users](invite_users.md)
+- [Glossary](glossary.md)
 
