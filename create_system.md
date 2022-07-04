@@ -87,8 +87,8 @@ This section is for agencies to specify their system account details.
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing admin.** 
 | **First name, Last name, Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to the **Billing admin's** TechPass account. If not, the requestor needs to enter them manually.
-|<br /><br />**Agency department**<br />**Cost center**<br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.<br /><br />![billing_det](/images/billing_det.png ':size=60%')
-|<br />**SBU** | For other agency systems:<br />Enter the Sub-business unit. 
+|<br /><br />**Agency department**<br />**Cost center**<br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
+|**SBU** | For other agency systems:<br />Enter the Sub-business unit. 
 
 7.  Select the required **products** and click **Next.**
 
@@ -150,11 +150,9 @@ To configure products, the **Technical admin** needs to:
 
 3. Click on the **approved** system.
 
-<kbd>![conf_1](/images/conf_1.png)</kbd>
-
 4. To configure a product, click **View and configure.**
 
-<kbd>![conf_2](/images/conf_2.png)</kbd>
+<kbd>![conf_1](/images/conf_1.png)</kbd>
 
 5. Enter the user details - **User name,** **Email address,** and **Contact number.**
 
