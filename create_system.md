@@ -26,7 +26,7 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 3. In the **Systems** page, click **Create system.** The create system workflow appears.
 
-<kbd>![Display createsystemworkflow](/images/create_system_workflow.png)</kbd>
+<kbd>![create_system_workflow](/images/create_system_workflow.png)</kbd>
 
 4. Make sure you have the stated required details, before clicking **Next.**
 
@@ -52,7 +52,7 @@ This section is for agencies to specify their system account details.
 | :------------------------------------------ |:-------------|
 | **Agency name** | Select your agency name.
 | **System name** | Enter the project name.
-| **System ID** | A unique **System ID** is automatically generated and this can't be edited. Your **System ID** is common across all SGTS products that your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
+| **System ID** | A unique [**System ID**](glossary) is automatically generated and this can't be edited. Your **System ID** is common across all SGTS products that your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do no have a DGP ID.** If yes, select your **DGP System ID**. The **subsystem description** appears. 
 
 >**Note:** If your agency has multiple DGP IDs, you can select multiple **DGP System IDs.** If you are unable to locate your DGP ID, click **No, I do not have a DGP ID** and update it when it is available. You can create/update your DGP ID at https://ssp.dgp.tech.gov.sg using your GSIB device.
@@ -69,6 +69,8 @@ This section is for agencies to specify their system account details.
 | **Email address** | Enter the organisation email address of the **Secondary subscription admin.**<br /> Note: The organisation email address of the **Secondary subscription admin** cannot be the same as that of the **Primary subscription admin.**  
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to the **Secondary subscription admin's** TechPass account. If not, the requestor needs to enter them manually.
 
+<kbd>![subscr_admin](/images/subscr_admin.png)</kbd>
+
 ### **Technical admin**
 
 | <div style="width:270px">Field Name</div>  | Description |
@@ -77,16 +79,20 @@ This section is for agencies to specify their system account details.
 | **First name, Last name, and Contact number**| These details will be automatically displayed if the email address of the **Technical admin** is linked to the **Technical admin's** TechPass account. If not, the requestor needs to enter them manually.
 | **Organisation** | If the **Technical admin** is a public officer or a vendor with an active TechPass account, then the organisation field is automatically displayed and cannot be edited. If the **Technical admin** is a vendor, then the requestor needs to enter the organisation manually.
 
+<kbd>![tech_contact](/images/tech_contact.png)</kbd>
+
 ### **Billing details**
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing admin.** 
 | **First name, Last name, Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to the **Billing admin's** TechPass account. If not, the requestor needs to enter them manually.
-|<br /><br /><br />**Agency department**<br />**Cost center**<br /><br />**Fund center**| The following details are applicable to Govtech systems only. <br /><br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
-| **SBU** | For other agency systems:<br />Enter the Sub-business unit. 
+|<br /><br />**Agency department**<br />**Cost center**<br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.<br /><br />![billing_det](/images/billing_det.png ':size=60%')
+|<br />**SBU** | For other agency systems:<br />Enter the Sub-business unit. 
 
 7.  Select the required **products** and click **Next.**
+
+<kbd>![select_product](/images/select_product.png)</kbd>
 
 8.  Select the required products' subscription plans and click **Next.**
 
