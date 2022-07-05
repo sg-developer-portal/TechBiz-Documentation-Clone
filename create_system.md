@@ -154,7 +154,7 @@ To configure products, the **Technical admin** needs to:
 
 <kbd>![conf_1](/images/conf_1.png)</kbd>
 
-5. Enter the user details - **User name,** **Email address,** and **Contact number.**
+5. Enter the required resource details. For example, **User name,** **Email address,** and **Contact number.** This information is required by the product team to provision the resources.
 
 6. Click **Submit.**
 
