@@ -130,13 +130,11 @@ To approve or reject a system creation request, the **Approver** needs to:
 
 3. In the **Overview** page, click **View systems**.
 
-<kbd>![approv_1](/images/approv_1.png)</kbd>
-
 4. Choose the system to be approved.
 
 5. Click **Approve** or **Reject.**
 
-<kbd>![approv_2](/images/approv_2.png)</kbd>
+<kbd>![approv_2](/images/approv_3.png)</kbd>
 
 The requestor receives the outcome of the approval request via email. If the request is approved, the system is listed on the **Systems** page with **approved status.** After obtaining approval, the **Technical admin** needs to configure products in the TechBiz portal.This configuration information is required by the product teams to provision resources for the agency's subscribed products.
 
