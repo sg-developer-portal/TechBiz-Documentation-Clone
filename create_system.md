@@ -81,7 +81,7 @@ Be default, the public offer who requests for the system account will be the **P
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Secondary Subscription Admin** | This section allows you to enter the details of the **Secondary Subscription Admin.**
 | **Email address**                                | Enter the organisation email address of the **Secondary Subscription Admin.**<br /> Note: **Primary Subscription Admin** can’t be the **Secondary Subscription Admin** or vice-versa.
-|**First name,Last name,Contact number** | These details will be automatically displayed if the email address of the **Secondary Subscription Admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
+|**First name,Last name,and Contact number** | These details will be automatically displayed if the email address of the **Secondary Subscription Admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 
 c. Enter the Technical admin details.
 
@@ -101,15 +101,15 @@ d. Enter the Billing details.
 
   >**Notes:**
   >
-  > - **Billing Admin** can be a public officer with a valid organisation email address.
+  > - **Billing Admin** must be a public officer with a valid organisation email address.
   >
   > - If the user does not have a TechPass account, it will be created automatically after the system account creation request is approved.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing Admin.** 
-| **First name, Last name, Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
-|<br /><br />**Agency department**<br />**Cost center**<br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
+| **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
+|<br /><br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
 |**SBU** | For other agency systems, enter the Sub-business unit.<br />Note: To view the complete list of agency departments and business units, refer to Vendors@Gov website. 
 
 7. Click **Next.** 
@@ -122,30 +122,30 @@ d. Enter the Billing details.
 
 10. Select a Start date.
 
-**Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
+  - **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
 11. Under **Select a Plan,** choose the required subscription plan for the product. 
 
-12. If you have subscribed to more than one SGTS product, repeat steps 10-11 and click **Next.** 
+12. **If you have subscribed to more than one SGTS product, repeat steps 10-11** and click **Next.** 
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />**Note:** While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following: : <ul><li>To approve the create system account request.</li><li>For the **Technical admin** to configure the product details.</li><li>For the SGTS teams to provision the required resources.</li></ul>
+|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />Note: While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following: : <ul><li>To approve the create system account request.</li><li>For the **Technical Admin** to configure the product details.</li><li>For the SGTS teams to provision the required resources.</li></ul>
 | **Product agreement** | Click to view the terms and conditions of the product.
-| **Select a plan**| Select the required subscription plan for a product. The displayed subscription plans contains details of the chargeable items in a product and their charges.
+| **Select a plan**| Select the required subscription plan for a product. The displayed subscription plans contain details of the chargeable items in a product and their charges.
 
 
 9.  Under **Approver details,** enter the following information, and click **Next.**
 
  >**Notes:**
  >
- > - Approver must be a public officer with a valid organisation email address.
- > - Approver needs to be a Deputy Director level or above.
+ > - **Approver** must be a public officer with a valid organisation email address.
+ > - **Approver** needs to be a Deputy Director level or above.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Approver name, email, designation** | Enter the full name, organisation email address and designation of the **Approver.**
-| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email and AOR. This field is optional.<ul><li>Total files uploaded can be upto 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
+| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<ul><li>Total files uploaded can be upto 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to Approver** | Specify the reasons for submitting this request. This field is optional.
 
 10. Ensure the information displayed on this page is correct and
@@ -155,7 +155,7 @@ click **Submit.**
 
 ## Obtain approval
 
-When a public officer submits a request to create a system account, the assigned Approver, receives an email and a notification on the TechBiz portal to process this request. Subscription admins, Technical admin and Billing admin will also be notified.
+When a public officer submits a [request to create a system account,](#request-for-a-system-account) the assigned **Approver,** receives an email and a notification on the TechBiz portal to process this request. **Subscription admins, Technical Admin** and **Billing Admin** will also be notified.
 
 **Note:**  Only a Deputy director or above can approve the create system account request.
 
