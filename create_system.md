@@ -81,7 +81,7 @@ Be default, the public offer who requests for the system account will be the **P
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Secondary Subscription Admin** | This section allows you to enter the details of the **Secondary Subscription Admin.**
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | Enter the organisation email address of the **Secondary Subscription Admin.**<br /> Note: **Primary Subscription Admin** can’t be the **Secondary Subscription Admin** or vice-versa.
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**First name<br />Last name<br />Contact number** | These details will be automatically displayed if the email address of the **Secondary Subscription Admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**First name,Last name,Contact number** | These details will be automatically displayed if the email address of the **Secondary Subscription Admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 
 c. Enter the Technical admin details.
 
