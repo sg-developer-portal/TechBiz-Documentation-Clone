@@ -6,14 +6,14 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 A [system account](glossary) allows agencies to centrally manage and view their SGTS product subscription plans, billing details and resource usage within a system. An agency can have multiple sub-systems. 
 
->## Prerequisites
->
->- Public officer with a valid organisation email address can create a system account. For example, *your_name@agency.gov.sg.* using a [non-SE GSIB](glossary) device.
->
->- Information Required
->- Name, organisation email address and handphone number
-> - **Primary Subscription Admin** (public officer requesting for system account
-**Secondary Subscription Admin**
+## Prerequisites
+
+- Public officer with a valid organisation email address can create a system account. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
+
+- Required information
+&nbsp;&nbsp;Name, organisation email address and handphone number
+- **Primary Subscription Admin** (public officer requesting for system account)
+- **Secondary Subscription Admin**
 > - **Technical Admin**
 > - **Billing Admin**
 >- Name, organisation email address and designation
@@ -78,10 +78,10 @@ Be default, the public offer who requests for the system account will be the **P
 | :------------------------------------------ |:-------------|
 | **Primary Subscription Admin** | This section allows you to enter the details of the **Primary Subscription Admin.** By default the requestor is assigned as the **Primary Subscription Admin.**
 | **Email address**                                | The organisation email address of the requestor is automatically displayed and cannot be edited.
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.
+| **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Secondary Subscription Admin** | This section allows you to enter the details of the **Secondary Subscription Admin.**
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | Enter the organisation email address of the **Secondary Subscription Admin.**<br /> Note: **Primary Subscription Admin** can’t be the **Secondary Subscription Admin** or vice-versa.
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**First name,Last name,Contact number** | These details will be automatically displayed if the email address of the **Secondary Subscription Admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
+| **Email address**                                | Enter the organisation email address of the **Secondary Subscription Admin.**<br /> Note: **Primary Subscription Admin** can’t be the **Secondary Subscription Admin** or vice-versa.
+|**First name,Last name,Contact number** | These details will be automatically displayed if the email address of the **Secondary Subscription Admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 
 c. Enter the Technical admin details.
 
