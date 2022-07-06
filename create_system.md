@@ -122,7 +122,7 @@ d. Enter the Billing details.
 
 10. Select a Start date.
 
-  - **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
+  **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
 11. Under **Select a Plan,** choose the required subscription plan for the product. 
 
