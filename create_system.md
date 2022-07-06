@@ -1,4 +1,4 @@
-# Create system
+# Create system account
 
 To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to create a system account in TechBiz.
 
@@ -10,18 +10,18 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 
 - Public officer with a valid organisation email address can create a system account. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
 
-- **Required information checklist**
+- **Information checklist**
   - Name, organisation email address and handphone number
     - **Primary Subscription Admin** (public officer requesting for system account)
     - **Secondary Subscription Admin**
     - **Technical Admin**
     - **Billing Admin**
   - Name, organisation email address and designation
-    - **Approver** (Deputy Director level and above) 
+    - **Approver** (Deputy Director level or above) 
   - System name
   - Billing details
-  - SBU
-  - Agency department name, Cost centre  and Fund centre (For GovTech only) 
+    - SBU
+    - Agency department name, Cost centre  and Fund centre (For GovTech only) 
   - Subscription plans of SGTS Product(s)
   - DGP ID (Optional)
   - Supporting documents (Optional) 
@@ -56,14 +56,14 @@ Be default, the public offer who requests for the system account will be the **P
 >
 > - At any point of time, click **Save draft** and you may access the saved draft within 14 days to continue with the system account creation request. 
 
-  a. Enter the Account details
+  a. Enter the Account details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
 | **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do no have a DGP ID.**If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple **DGP Sub system IDs,** you can select multiple **DGP System IDs.** If you are unable to locate your **DGP ID,** click **No, I do not have a DGP ID.** When your system goes live, you need to create/update your **DGP ID** at https://ssp.dgp.tech.gov.sg and you can provide this information in the TechBiz portal.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple DGP Sub system IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID.** When your system goes live, you need to create/update your DGP ID at https://ssp.dgp.tech.gov.sg and you can provide this information in the TechBiz portal.
  
 
   b. Enter the Subscription admins details.
