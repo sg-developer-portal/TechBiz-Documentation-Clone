@@ -10,13 +10,12 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 >
 >- Public officer with a valid organisation email address can create a system account. For example, *your_name@agency.gov.sg.* using a [non-SE GSIB](glossary) device.
 >
->**Information Required**
+>- Information Required
 >- Name, organisation email address and handphone number
-> - **Primary Subscription Admin** (public officer requesting for system account)
-> - **Secondary Subscription Admin**
+> - **Primary Subscription Admin** (public officer requesting for system account
+**Secondary Subscription Admin**
 > - **Technical Admin**
 > - **Billing Admin**
-> - **Secondary Subscription Admin**
 >- Name, organisation email address and designation
 > - **Approver** (Deputy Director level and above) 
 >- System name
@@ -64,8 +63,7 @@ Be default, the public offer who requests for the system account will be the **P
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
 | **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do no have a DGP ID.**<br />
-If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple **DGP Sub system IDs,** you can select multiple **DGP System IDs.** If you are unable to locate your **DGP ID,** click **No, I do not have a DGP ID** and update it when it is available. You can create/update your **DGP ID** at https://ssp.dgp.tech.gov.sg using your GSIB device.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do no have a DGP ID.**<br />If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple **DGP Sub system IDs,** you can select multiple **DGP System IDs.** If you are unable to locate your **DGP ID,** click **No, I do not have a DGP ID.** When your system goes live, you need to create/update your **DGP ID** at https://ssp.dgp.tech.gov.sg and you can provide this information in the TechBiz portal.
  
 
   b. Enter the Subscription admins details.
@@ -150,7 +148,7 @@ d. Enter the Billing details.
 | **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email and AOR. This field is optional.<ul><li>Total files uploaded can be upto 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to Approver** | Specify the reasons for submitting this request. This field is optional.
 
-10. Enure the information displayed on this page is correct and
+10. Ensure the information displayed on this page is correct and
 click **Submit.**
 
 11. In the **Submit for approval** pop-up window, select all the checkboxes to agree to the terms and conditions, and click **Submit.**
