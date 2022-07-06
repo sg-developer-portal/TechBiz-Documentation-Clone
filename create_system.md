@@ -10,10 +10,10 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 
 - Public officer with a valid organisation email address can create a system account. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
 
-- Required information
+- **Required information checklist**
   - Name, organisation email address and handphone number
-- **Primary Subscription Admin** (public officer requesting for system account)
-- **Secondary Subscription Admin**
+    - **Primary Subscription Admin** (public officer requesting for system account)
+    - **Secondary Subscription Admin**
 > - **Technical Admin**
 > - **Billing Admin**
 >- Name, organisation email address and designation
