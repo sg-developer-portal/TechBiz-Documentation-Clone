@@ -14,17 +14,17 @@ A [system account](glossary) allows agencies to centrally manage and view their 
   - Name, organisation email address and handphone number
     - **Primary Subscription Admin** (public officer requesting for system account)
     - **Secondary Subscription Admin**
-> - **Technical Admin**
-> - **Billing Admin**
->- Name, organisation email address and designation
-> - **Approver** (Deputy Director level and above) 
->- System name
->- Billing details
-> - SBU
-> - Agency department name, Cost centre  and Fund centre (For GovTech only) 
->- Subscription plans of SGTS Product(s)
->- DGP ID (Optional)
->- Supporting documents (Optional) 
+    - **Technical Admin**
+    - **Billing Admin**
+  - Name, organisation email address and designation
+    - **Approver** (Deputy Director level and above) 
+  - System name
+  - Billing details
+  - SBU
+  - Agency department name, Cost centre  and Fund centre (For GovTech only) 
+  - Subscription plans of SGTS Product(s)
+  - DGP ID (Optional)
+  - Supporting documents (Optional) 
 
 **How to create a system in TechBiz?**
 
