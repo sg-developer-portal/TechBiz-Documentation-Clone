@@ -63,7 +63,7 @@ Be default, the public offer who requests for the system account will be the **P
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
 | **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple DGP Sub system IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID.** When your system goes live, you need to create/update your DGP ID at https://ssp.dgp.tech.gov.sg and you can provide this information in the TechBiz portal.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple DGP Sub system IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID.** When your system goes live, you need to create or update your DGP ID at https://ssp.dgp.tech.gov.sg and you can provide this information in the TechBiz portal.
  
 
   b. Enter the Subscription admins details.
@@ -122,7 +122,7 @@ d. Enter the Billing details.
 
 10. Select a Start date.
 
-  **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
+  - **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
 11. Under **Select a Plan,** choose the required subscription plan for the product. 
 
@@ -169,11 +169,11 @@ To approve or reject a system creation request
 
 4. Choose the system to be approved.
 
-5. Provide remarks if needed after click **Approve** or **Reject.**
+5. Click **Approve** or **Reject,** and provide the reasons for your action.
 
 <kbd>![approv_2](/images/approv_3.png)</kbd>
 
-The requestor receives the outcome of the approval request in an email. If the request is approved, the system is listed on the **Systems** page with **approved status.**
+The requestor receives the outcome of the approval request in an email. **Subscription admins, Technical Admin** and **Billing Admin** will also be notified.If the request is approved, the system is listed on the **Systems** page with an **approved status.**
 
 <!--
 After obtaining approval, the **Technical admin** needs to configure products in the TechBiz portal.This configuration information is required by the product teams to provision resources for the agency's subscribed products.
