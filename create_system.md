@@ -97,7 +97,7 @@ c. Enter the **Technical admin** details.
 | **First name, Last name, and Contact number**| These details will be automatically displayed if the email address of the **Technical admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Organisation** | If the **Technical admin** has a TechPass account, then the organisation field is automatically displayed and cannot be edited. If not, the requestor needs to enter it manually.
 
-d. Enter the Billing details.
+d. Enter the **Billing details.**
 
   >**Notes:**
   >

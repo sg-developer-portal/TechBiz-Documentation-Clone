@@ -18,9 +18,9 @@ This guide shows agencies how they can send TechPass invites to users from the T
 
 | <div style="width:270px">Invitation type</div>  | When to use |
 | :------------------------------------------ |:-------------|
-| [Email invitation](#email-invitation)| To send email invites to public officers.
+| [Email invitation](#email-invitation)| To send email invite to a public officer for creating a TechPass account.
 | [Create account](#create-account) | To create TechPass accounts on behalf of public officers and vendors.
-| [Batch upload](#batch-upload)| To create TechPass accounts for multiple users (public officers and vendors).
+| [Batch upload](#batch-upload)| To create TechPass accounts public officers and vendors.
 
 <kbd>![Invitation_type](/images/invitation_type.png ':size=60%')</kbd>
 
