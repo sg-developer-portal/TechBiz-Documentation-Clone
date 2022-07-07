@@ -1,6 +1,6 @@
 # Invite users
 
-Users (public officers and vendors) need to have a TechPass account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products in TechBiz.
+Users (public officers and vendors) need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products in TechBiz.
 
 This guide shows agencies how they can send TechPass invites to users from the TechBiz portal.
 
@@ -10,9 +10,9 @@ This guide shows agencies how they can send TechPass invites to users from the T
 
 - Public officer with a valid organisation email address. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
 
-1.  [Log in to the TechBiz portal.](log_in_to_TechBiz_portal.md)
+1.  [Log in to TechBiz portal.](log_in_to_TechBiz_portal.md)
 
-2.  In the **Overview** page, click **invite users.** Alternatively, from the left sidebar, click **Invite Users.**
+2.  In **Overview,** click **invite users.** Alternatively, from the left sidebar, click **Invite Users.**
 
 <kbd>![Overview](/images/invite_users_new.png ':size=60%')</kbd>
 
@@ -34,7 +34,7 @@ Specify the invitation email details and click **Submit.**
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address**| Enter the email address of the user who requires a TechPass account. This should be a valid organisation email. Format of this email address is user_name@agency.gov.sg. For example, user_name@tech.gov.sg.
+| **Email address**| Enter the email address of the user who requires a TechPass account. This should be a valid organisation email address. Format of this email address is user_name@agency.gov.sg. For example, user_name@tech.gov.sg.
 | **Is onboarding to SEED required?** | Select **Yes** if the user needs to access SGTS services from an internet device, that requires SEED compliance. Select **No** if user needs to access SGTS services from a Government Standard Image Build (GSIB) device.
 | **Reason** | Enter the reason why user needs a TechPass account.
 
@@ -64,3 +64,5 @@ Specify the details of the user who requires a TechPass account and click **Subm
 <kbd>![Batch_upload_3](/images/batch_upload_3.png ':size=60%')</kbd>
 
 6.  To reset user details, click **Reset.** To confirm reset, in the dialog, click **Confirm.**
+
+7. Click **Submit.**

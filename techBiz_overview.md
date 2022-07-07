@@ -4,11 +4,11 @@ TechBiz is a one-stop service for government agencies to subscribe to [Singapore
 
 ## The TechBiz portal
 
-The [TechBiz portal](https://portal.techbiz.suite.gov.sg) is a web-based console for agencies to create and manage their systems, subscriptions, and users.
+The [TechBiz portal](https://portal.techbiz.suite.gov.sg) is a web-based console for agencies to create and manage their system accounts, subscriptions, and users.
 
 ### Prerequisites to access the TechBiz portal: 
 
-- Public officer with a valid organisation email address. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
+- Public officer with a valid organisation email address. For example, *your_name@agency.gov.sg,* using a [non-SE GSIB](glossary) device.
 
 **Next steps**
 
