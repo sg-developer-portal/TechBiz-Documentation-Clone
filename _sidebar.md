@@ -8,6 +8,6 @@
 - [Overview](techBiz_overview.md)
 - [Log In to TechBiz portal](log_in_to_TechBiz_portal.md)
 - [Create system account](create_system.md)
-- [Invite users](invite_users.md)
+- [Invite users - overview](invite_users.md)
 - [Glossary](glossary.md)
 
