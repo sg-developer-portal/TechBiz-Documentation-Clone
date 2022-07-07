@@ -54,7 +54,7 @@ Be default, the public offer who requests for the system account will be the **P
 >
 > - Unless mentioned otherwise, all fields are mandatory.
 >
-> - At any point of time, click **Save draft** and you may access the saved draft within 14 days to continue with the system account creation request. 
+> - At any point of time, before submitting your request, you can click **Save draft** and access the saved draft within 14 days to continue with the system account creation request. 
 
   a. Enter the Account details.
 
@@ -110,7 +110,7 @@ d. Enter the Billing details.
 | **Email address** | Enter the organisation email address of the **Billing Admin.** 
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 |<br /><br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your department name.<br />Enter the cost center code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the fund center details.
-|**SBU** | For other agency systems, enter the Sub-business unit.<br />Note: To view the complete list of agency departments and business units, refer to Vendors@Gov website. 
+|**SBU** | For other agency systems, enter the Sub-business unit.<br />Note: To view the complete list of agency departments and business units, refer to [Vendors@Gov.](https://www.vendors.gov.sg/)
 
 7. Click **Next.** 
 
@@ -120,7 +120,7 @@ d. Enter the Billing details.
 
 ?> **Tip:** You will be able to see a tab for each SGTS product you have selected.
 
-10. Select a Start date.
+10. Select a **Start date.**
 
   - **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
@@ -130,7 +130,7 @@ d. Enter the Billing details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />Note: While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following: : <ul><li>To approve the create system account request.</li><li>For the **Technical Admin** to configure the product details.</li><li>For the SGTS teams to provision the required resources.</li></ul>
+|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />Note: While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following:<ul><li>To approve the create system account request.</li><li>For the **Technical Admin** to configure the product details.</li><li>For the SGTS teams to provision the required resources.</li></ul>
 | **Product agreement** | Click to view the terms and conditions of the product.
 | **Select a plan**| Select the required subscription plan for a product. The displayed subscription plans contain details of the chargeable items in a product and their charges.
 
