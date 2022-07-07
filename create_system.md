@@ -63,7 +63,7 @@ Be default, the public offer who requests for the system account will be the **P
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
 | **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple DGP Sub system IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID.** and update it when it is available.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System / Sub system ID.** The **System / Sub system** description appears.<br />**Note:** If your agency has multiple DGP Sub system IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update it when it is available.
  
 
   b. Enter the **Subscription admins** details.
@@ -81,7 +81,7 @@ Be default, the public offer who requests for the system account will be the **P
 |&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin.**
 |&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | Enter the organisation email address of the **Secondary subscription admin.**<br /> Note: **Primary subscription admin** can’t be the **Secondary subscription admin** or vice-versa.
-|&nbsp;&nbsp;&nbsp;&nbsp;**First name,Last name,and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
+|&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 
 c. Enter the **Technical admin** details.
 

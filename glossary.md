@@ -6,7 +6,7 @@ Digital Government Platform ID is a system tracking tool. Its purpose is to trac
 Government standard image build (GSIB) is a standard operating environment (SOE) device issued by government. There are two types of GSIB devices: SE GSIB and non-SE GSIB device.
 
 **Non-SE GSIB**  
-A non-secured email (SE) GSIB device. So every time user logs in to their device, they will be prompted to enter a BitLocker PIN.
+A non-secured email (SE) GSIB device. To log in to their device, users need to enter a BitLocker PIN.
 
 **System account**  
 A system account allows agencies to centrally manage and view their SGTS product subscription plans, billing details and resource usage within a system. An agency can have multiple sub-systems.
