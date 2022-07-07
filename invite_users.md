@@ -9,7 +9,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 - Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
     - Organisation email address
-    - Name
+    - **First name** and **Last name**
     - **Contact number**
     - **Organisation**
     - **Department** (optional)
@@ -45,7 +45,7 @@ Specify the TechPass account details.
 | :------------------------------------------ |:-------------|
 | **Email address**| Enter the email address of the public officer or vendor. Public officer must have a valid organisation email address. 
 | **TechPass username** | This field is required if the user is a vendor. If the user is a public officer, then their official email address will be their TechPass username, and will be automatically displayed and cannot be edited. Enter **username.** The **username** should: <ul><li>Start and end with alphanumeric characters.</li><li>Contain only alphanumeric characters, dash, underscore and period.</li><li>Not contain two consecutive periods.</li></ul>
-| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the first name, last name, contact number, organisation and department of the user. **Note:** Department is optional.
+| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the user details. **Note:** Department is optional.
 | **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.
 | **Reason** | Enter the **Reason** why public officer needs a TechPass account.
 
@@ -62,12 +62,10 @@ Specify the TechPass account details.
 5. Select the saved file and click **Open.**
 The file is uploaded and list of users appears.
 
-6. To view user details, click the ellipsis on the row and click **View details.**
-
 <kbd>![Batch_upload_3](/images/batch_upload_3.png ':size=60%')</kbd>
+
+6. To view user details, click the ellipsis on the row and click **View details.**
 
 7. To delete user details, click **Remove.**
 
-8. To reset user details, click **Reset.** To confirm reset, in the dialog, click **Confirm.**
-
-8. Click **Submit.**
+8. To reset user details, click **Reset.** To confirm reset, click **Confirm.**
