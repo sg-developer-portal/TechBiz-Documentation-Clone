@@ -169,7 +169,7 @@ To approve or reject a system creation request
 
 4. Choose the system to be approved.
 
-5. Enter remarks for the requestor, providing a reason for approving or rejecting the system account creation request.
+5. Enter remarks for the requestor, if needed.
 
 6. Select the checkbox to acknowledge that you have verified the information provided by the requestor.
 
