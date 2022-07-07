@@ -4,7 +4,7 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 **What is a system account?**
 
-A [system account](glossary) allows agencies to centrally manage and view their SGTS product subscription plans, billing details and resource usage within a system. An agency can have multiple sub-systems.
+A [system account](glossary) allows agencies to centrally manage and view their SGTS product subscription plans, billing details and resource usage within a system. An agency can have multiple Sub systems.
 
 ## Prerequisites
 
