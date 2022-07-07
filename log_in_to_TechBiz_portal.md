@@ -15,7 +15,7 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 3.  Enter your **organisation email address,** and click **Next.**   
 An OTP is sent to the specified email address.
 
-> **Note:** OTP will be sent to a valid organisation email address only. For example, *your_name@agency.gov.sg.*
+- **Note:** OTP will be sent to a valid organisation email address only. For example, *your_name@agency.gov.sg.*
 
 4.  Enter the **OTP** received in your email, and click **Submit.**
 
