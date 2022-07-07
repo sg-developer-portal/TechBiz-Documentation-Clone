@@ -173,13 +173,11 @@ To approve or reject a system creation request
 
 6. Select the checkbox to acknowledge that you have verified the information provided by the requestor.
 
+<kbd>![approv_2](/images/approv_4.png)</kbd>
+
 7. Click **Approve** or **Reject.**
 
 <kbd>![approv_2](/images/approv_3.png)</kbd>
-
-<kbd>![approv_2](/images/approv_4.png)</kbd>
-
-
 
 The requestor receives the outcome of the approval request in an email. **Subscription admins, Technical Admin** and **Billing Admin** will also be notified.If the request is approved, the system is listed on the **Systems** page with an **approved status.**
 
