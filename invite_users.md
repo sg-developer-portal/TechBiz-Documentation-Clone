@@ -1,6 +1,6 @@
 # Invite users - overview
 
-Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
+Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of public officers and vendors.
 
 ## Prerequisites
 
@@ -9,7 +9,10 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 - Have the following information ready before proceeding:
   - For public officers and vendors
     - Organisation email address
-    - **First name, Last name, Contact number, Organisation,** and **Department**
+    - Name
+    - **Organisation**
+    - **Department** (optional)
+    - **TechPass username** (for vendors)
 
 ## Invite users to TechPass
 
