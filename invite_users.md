@@ -14,8 +14,6 @@ This guide shows agencies how they can send TechPass invites to users from the T
 
 2.  In **Overview,** click **invite users.** Alternatively, from the left sidebar, click **Invite Users.**
 
-<kbd>![Overview](/images/invite_users_new.png ':size=60%')</kbd>
-
 3.  Select the required **invitation type.**
 
 | <div style="width:270px">Invitation type</div>  | When to use |
