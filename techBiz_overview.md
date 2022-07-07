@@ -1,6 +1,6 @@
-# TechBiz overview
+# Overview
 
-TechBiz is a one-stop shop for government agencies to subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. It simplifies contract and subscriptions management leading to time and cost savings for agencies.
+TechBiz is a one-stop service for government agencies to subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. It simplifies contract and subscriptions management leading to time and cost savings for agencies.
 
 ## The TechBiz portal
 
@@ -8,16 +8,12 @@ The [TechBiz portal](https://portal.techbiz.suite.gov.sg) is a web-based console
 
 ### Prerequisites to access the TechBiz portal: 
 
--   Public officer
-
--   Valid organisation email (for example, user_name@tech.gov.sg)
-
--   Non-SE Government Standard Image Build (GSIB) device
+- Public officer with a valid organisation email address. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
 
 **Next steps**
 
--   [Log in to the TechBiz portal](log_in_to_TechBiz_portal.md)
+-   [Log in to TechBiz portal](log_in_to_TechBiz_portal.md)
 
--   [Create system](create_system.md)
+-   [Create system account](create_system.md)
 
 -   [Invite users](invite_users.md)
