@@ -33,9 +33,9 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address**| Enter the organisation email address of the public officer.
+| **Email address**| Enter the organisation email address of the public officer who requires a TechPass account.
 | **Is onboarding to SEED required?** | Indicate **Yes** if the public officer needs SEED provisioning.
-| **Reason** | Enter the **Reason** why public officer needs a TechPass account.
+| **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
 ### Create account
 
@@ -43,11 +43,11 @@ Specify the TechPass account details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address**| Enter the email address of the public officer or vendor. Public officer must have a valid organisation email address. 
-| **TechPass username** | This field is required if the user is a vendor. If the user is a public officer, then their official email address will be their TechPass username, and will be automatically displayed and cannot be edited. Enter **username.** The **username** should: <ul><li>Start and end with alphanumeric characters.</li><li>Contain only alphanumeric characters, dash, underscore and period.</li><li>Not contain two consecutive periods.</li></ul>
+| **Email address**| Enter the email address of the public officer or vendor who requires a TechPass account. Public officer must have a valid organisation email address. 
+| **TechPass username** | If the user is a public officer, then their official email address will be their TechPass username, and will be automatically displayed and cannot be edited. This field is required if the user is a vendor. Enter **username.** The **username** should: <ul><li>Start and end with alphanumeric characters.</li><li>Contain only alphanumeric characters, dash, underscore and period.</li><li>Not contain two consecutive periods.</li></ul>
 | **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the user details. **Note:** Department is optional.
 | **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.
-| **Reason** | Enter the **Reason** why public officer needs a TechPass account.
+| **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
 
 ### Batch upload
 
