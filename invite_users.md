@@ -34,8 +34,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Email address**| Enter the organisation email address of the public officer who requires a TechPass account.
-| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />
-Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
+| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
 ### Create account
@@ -47,8 +46,7 @@ Specify the TechPass account details.
 | **Email address**| Enter the organisation email address of the public officer or vendor who requires a TechPass account.
 | **TechPass username** | This field is required if you are requesting TechPass account for a vendor. Enter required username for the TechPass account.
 | **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details. **Note:** Department is optional.
-| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />
-Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
+| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
 
 ### Batch upload
