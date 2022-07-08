@@ -64,8 +64,8 @@ The file is uploaded and list of users appears.
 
 <kbd>![Batch_upload_3](/images/batch_upload_3.png ':size=60%')</kbd>
 
-6. To view the user list, click the ellipsis on the row and click **View details.**
+  - To view the user list, click the ellipsis on the row and click **View details.**
 
-7. To delete users, click **Remove.**
+  - To delete users, click **Remove.**
 
-8. To reset user details, click **Reset.** To confirm reset, click **Confirm.**
+  - To reset user details, click **Reset.** To confirm reset, click **Confirm.**
