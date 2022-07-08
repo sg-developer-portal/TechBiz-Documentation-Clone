@@ -34,7 +34,8 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Email address**| Enter the organisation email address of the public officer who requires a TechPass account.
-| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer needs SEED provisioning.
+| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />
+Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
 ### Create account
@@ -43,10 +44,11 @@ Specify the TechPass account details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address**| Enter the email address of the public officer or vendor who requires a TechPass account. Public officer must have a valid organisation email address. 
-| **TechPass username** | If the user is a public officer, then their official email address will be their TechPass username, and will be automatically displayed and cannot be edited. This field is required if the user is a vendor. Enter **username.** The **username** should: <ul><li>Start and end with alphanumeric characters.</li><li>Contain only alphanumeric characters, dash, underscore and period.</li><li>Not contain two consecutive periods.</li></ul>
-| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the user details. **Note:** Department is optional.
-| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.
+| **Email address**| Enter the organisation email address of the public officer or vendor who requires a TechPass account.
+| **TechPass username** | This field is required if you are requesting TechPass account for a vendor. Enter required username for the TechPass account.
+| **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details. **Note:** Department is optional.
+| **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />
+Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
 
 ### Batch upload
@@ -59,12 +61,12 @@ Specify the TechPass account details.
 
 4. In **Upload user list** section, click **Choose a file.**
 
-5. Select the saved file and click **Open.**
-The file is uploaded and list of users appears.
+5. Select the saved file and upload it.
+A success message is displayed.
 
 <kbd>![Batch_upload_3](/images/batch_upload_3.png ':size=60%')</kbd>
 
-  - To view the user list, click the ellipsis on the row and click **View details.**
+  - To view the list of users, click the ellipsis on the row and click **View details.**
 
   - To delete a single user, click **Remove.**
 
