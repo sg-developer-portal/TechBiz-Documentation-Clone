@@ -66,6 +66,6 @@ The file is uploaded and list of users appears.
 
   - To view the user list, click the ellipsis on the row and click **View details.**
 
-  - To delete users, click **Remove.**
+  - To delete a single user, click **Remove.**
 
-  - To reset user details, click **Reset.** To confirm reset, click **Confirm.**
+  - To delete entire list of users, click **Reset.** To confirm reset, click **Confirm.**
