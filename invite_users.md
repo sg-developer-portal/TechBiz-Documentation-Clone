@@ -60,12 +60,12 @@ Specify the TechPass account details.
 4. In **Upload user list** section, click **Choose a file.**
 
 5. Select the saved file and upload it.
-A success message is displayed.
+A success message with the user list is displayed.
 
-<kbd>![Batch_upload_3](/images/batch_upload_3.png ':size=60%')</kbd>
+<kbd>![approv_2](/images/batch_upload_3.png)</kbd>
 
-  - To view the list of users, click the ellipsis on the row and click **View details.**
+  - To view or edit user details, click the ellipsis on the row and click **View details.**
 
   - To delete a single user, click **Remove.**
 
-  - To delete entire list of users, click **Reset.** To confirm reset, click **Confirm.**
+  - To delete all users, click **Reset.** To confirm reset, click **Confirm.**
