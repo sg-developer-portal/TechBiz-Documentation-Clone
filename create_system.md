@@ -130,7 +130,7 @@ d. Enter the **Billing details.**
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />Note: While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following:<ul><li>To approve the create system account request.</li><li>For the **Technical admin** to configure the product details.</li><li>For the SGTS teams to provision the required resources.</li></ul>
+|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />Note: While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following:<ul><li>For the approval of create system account request.</li><li>For the **Technical admin** to configure the product details.</li><li>For the SGTS teams to provision the required resources.</li></ul>
 | **Product agreement** | Click to view the terms and conditions of the product.
 | **Select a plan**| Select the required subscription plan for a product. The displayed subscription plans contain details of the chargeable items in a product and their charges.
 
@@ -151,7 +151,7 @@ d. Enter the **Billing details.**
 10. Ensure the information displayed on this page is correct and
 click **Submit.**
 
-11. In the **Submit for approval** pop-up window, select all the checkboxes to agree to the terms and conditions, and click **Submit.**
+11. In **Submit for approval** select all the checkboxes to agree to the terms and conditions, and click **Submit.**
 
 ## Obtain approval
 
