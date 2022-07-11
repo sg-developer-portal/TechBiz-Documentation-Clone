@@ -95,7 +95,7 @@ c. Enter the **Technical admin** details.
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Technical admin.**
 | **First name, Last name, and Contact number**| These details will be automatically displayed if the email address of the **Technical admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
-| **Organisation** | If the **Technical admin** has a TechPass account, then the organisation field is automatically displayed and cannot be edited. If not, the requestor needs to enter it manually.
+| **Organisation** | If the **Technical admin** has a TechPass account, then the organisation is automatically displayed and cannot be edited. If not, the requestor needs to enter it manually.
 
 d. Enter the **Billing details.**
 
@@ -151,7 +151,7 @@ d. Enter the **Billing details.**
 10. Ensure the information displayed on this page is correct and
 click **Submit.**
 
-11. In **Submit for approval** select all the checkboxes to agree to the terms and conditions, and click **Submit.**
+11. In **Submit for approval,** select all the checkboxes to agree to the terms and conditions, and click **Submit.**
 
 ## Obtain approval
 
@@ -159,7 +159,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 **Note:**  Only a Deputy director or above can approve the create system account request.
 
-To approve or reject a system creation request
+**To approve or reject a system creation request:**
 
 1. Review the attachments in the email notification or in the TechBiz portal.
 
