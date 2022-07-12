@@ -76,7 +76,7 @@ By default, the public officer who requests for the system account will be the *
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Primary subscription admin** | This section allows you to enter the details of the **Primary Subscription admin.** By default the requestor is assigned as the **Primary Subscription admin.**
+| **Primary subscription admin** | This section allows you to enter the details of the **Primary subscription admin.** By default, the requestor is assigned as the **Primary subscription admin.**
 |&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | The organisation email address of the requestor is automatically displayed and cannot be edited.
 |&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin.**
