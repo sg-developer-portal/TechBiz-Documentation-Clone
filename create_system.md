@@ -66,10 +66,10 @@ By default, the public officer who requests for a system account will be the **P
 | :------------------------------------------ |:-------------|
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
-| **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=80%')
+| **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=100%')
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System ID.** The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID**, and update it when it is available.
  
-<kbd>![account_details](/images/account_details.png ':size=100%')</kbd>
+<kbd>![account_details](/images/account_details.png ':size=130%')</kbd>
 
   b. Enter the **Subscription admins** details.
 
@@ -136,7 +136,7 @@ d. Enter the **Billing details**.
 
   - **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
-<kbd>![start date](/images/select_subscr_pd.png)</kbd>
+<kbd>![start date](/images/select_subscr_pd.png ':size=50%')</kbd>
 
 11. Under **Select a Plan**, choose the required subscription plan for the product. 
 
