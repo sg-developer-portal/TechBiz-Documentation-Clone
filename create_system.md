@@ -4,7 +4,7 @@ To subscribe to [Singapore Government Tech Stack (SGTS)](https://www.developer.t
 
 **What is a system account?**
 
-A [system account](glossary) allows agencies to centrally manage and view their SGTS product subscription plans, billing details and resource usage within a system. An agency can have multiple systems.
+A [system account](glossary) allows agencies to centrally manage and view their SGTS product subscription plans, billing details, and resource usage within a system. An agency can have multiple systems.
 
 ## Prerequisites
 
@@ -20,10 +20,10 @@ A [system account](glossary) allows agencies to centrally manage and view their 
     - **Approver** (Deputy Director level or above) 
   - System name
   - Billing details
-    - **SBU**
-    - **Agency department** name, **Cost centre**  and **Fund centre** (For GovTech only) 
+    - **Sub business unit (SBU)**
+    - **Agency department** name, **Cost centre,**  and **Fund centre** (For GovTech only) 
   - Subscription plans of SGTS product(s)
-  - **DGP ID** (Optional)
+  - **Digital Governance Platform (DGP) ID** (Optional)
   - Supporting documents (Optional) 
 
 **How to create a system in TechBiz?**
@@ -52,13 +52,13 @@ By default, the public officer who requests for a system account will be the **P
 
 ?> **Tip:** To download the agreement, click **Download the SGTS agreement** link.
 
-6. Enter the following **System details.**
+6. Enter the following **System details**.
 
 >**Notes:** 
 >
 > - Unless mentioned otherwise, all fields are mandatory.
 >
-> - At any point of time, before submitting your request, you can click **Save draft** and access the saved draft within 14 days to continue with the system account creation request. 
+> - At any point of time, before submitting your request, you can click **Save draft** and access the saved draft within fourteen days to continue with the system account creation request. 
 
   a. Enter the **Account details**.
 
@@ -66,7 +66,7 @@ By default, the public officer who requests for a system account will be the **P
 | :------------------------------------------ |:-------------|
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
-| **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=100%')
+| **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system account.<br /><br />![Display system id](/images/system_id.png ':size=100%')
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System ID.** The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID**, and update it when it is available.
 
 <kbd>![account_details](/images/account_details.png ':size=200%')</kbd>
@@ -77,7 +77,7 @@ By default, the public officer who requests for a system account will be the **P
   >
   > - **Primary subscription admin** and **Secondary subscription admin** must be public officers with a valid organisation email address.
   >
-  > - If the user does not have a TechPass account, it will be created automatically after the system account creation request is approved.
+  > - If the public officer does not have a TechPass account, it will be created automatically after the system account creation request is approved.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
@@ -100,7 +100,7 @@ c. Enter the **Technical admin** details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address** | Enter the organisation email address of the **Technical admin.**
+| **Email address** | Enter the organisation email address of the **Technical admin**.
 | **First name, Last name, and Contact number**| These details will be automatically displayed if the email address of the **Technical admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Organisation** | If the **Technical admin** has a TechPass account, then the organisation is automatically displayed and cannot be edited. If not, the requestor needs to enter it manually.
 
@@ -118,14 +118,14 @@ d. Enter the **Billing details**.
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing admin**. 
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
-|<br /><br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by the Finance for internal GovTech inter-department charging or journal entry.<br />Enter the **fund center** details.
+|<br /><br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by Finance for internal GovTech inter-department charging or journal entry.<br />Enter the **fund center** details.
 |**SBU** | For other agency systems, enter the **Sub business unit**.<br />Note: To view the complete list of agency departments and business units, refer to [Vendors@Gov.](https://www.vendors.gov.sg/)
 
 <kbd>![billingdet](/images/billing_details.png)</kbd>
 
-7. Click **Next**. 
+7. Click **Next.**
 
-8. In **Select products**, choose the required SGTS **products** and click **Next**. 
+8. In **Select products**, choose the required SGTS **products** and click **Next.**
 
 9. In **Select plan(s)**, to choose subscription plans for the selected SGTS products, go to the required product tab. 
 
@@ -160,10 +160,14 @@ d. Enter the **Billing details**.
 | **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<ul><li>Total files uploaded can be upto 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to Approver** | Specify the reasons for submitting this request. This field is optional.
 
+<kbd>![approv_2](/images/approver.png)</kbd>
+
 10. Ensure the information displayed on this page is correct and
 click **Submit**.
 
 11. In **Submit for approval**, select all the checkboxes to agree to the terms and conditions, and click **Submit**.
+
+<kbd>![approv_2](/images/approv_det.png)</kbd>
 
 ## Obtain approval
 
@@ -177,7 +181,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 2. [Log in to TechBiz portal](log_in_to_TechBiz_portal.md) using your non-SE GSIB.
 
-3. In **Overview,** click **View systems.**
+3. In **Overview,** click **View systems**.
 
 4. Choose the system to be approved.
 
@@ -187,7 +191,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 <kbd>![approv_2](/images/approv_4.png)</kbd>
 
-7. Click **Approve** or **Reject.**
+7. Click **Approve** or **Reject**.
 
 <kbd>![approv_2](/images/approv_3.png)</kbd>
 
