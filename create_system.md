@@ -134,7 +134,7 @@ d. Enter the **Billing details**.
 
 10. Select a **Start date**.
 
-  - **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
+ >**Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
 <kbd>![start date](/images/select_subscr_pd.png ':size=50%')</kbd>
 
