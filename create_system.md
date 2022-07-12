@@ -34,7 +34,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 
 ## Request for a system account
 
-Be default, the public offer who requests for the system account will be the **Primary subscription admin** and has to complete the following steps:
+Be default, the public officer who requests for the system account will be the **Primary subscription admin** and has to complete the following steps:
 
 1. Log in to [TechBiz portal.](log_in_to_TechBiz_portal)
 
