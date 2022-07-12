@@ -136,8 +136,6 @@ d. Enter the **Billing details**.
 
 >**Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
-<kbd>![start date](/images/select_subscr_pd.png ':size=50%')</kbd>
-
 11. Under **Select a Plan**, choose the required subscription plan for the product. 
 
 12. **If you have subscribed to more than one SGTS product, repeat steps 10-11** and click **Next**. 
