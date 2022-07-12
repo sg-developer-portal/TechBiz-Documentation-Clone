@@ -68,8 +68,8 @@ By default, the public officer who requests for a system account will be the **P
 | **System name** | Enter the system account name.
 | **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=100%')
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System ID.** The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID**, and update it when it is available.
- 
-<kbd>![account_details](/images/account_details.png ':size=180%')</kbd>
+
+<kbd>![account_details](/images/account_details.png ':size=200%')</kbd>
 
   b. Enter the **Subscription admins** details.
 
