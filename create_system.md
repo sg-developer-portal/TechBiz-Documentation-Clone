@@ -88,7 +88,7 @@ By default, the public officer who requests for a system account will be the **P
 |&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | Enter the organisation email address of the **Secondary subscription admin.**<br /> Note: **Primary subscription admin** can’t be the **Secondary subscription admin** or vice-versa.
 |&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 
-<kbd>![primarysubscradmin](/images/primary_subscr_admin.png ':size=80%')</kbd>
+<kbd>![primarysubscradmin](/images/primary_subscr_admin.png ':size=100%')</kbd>
 <kbd>![secsubscradmin](/images/sec_subscr_admin.png ':size=80%')</kbd>
 
 c. Enter the **Technical admin** details.
