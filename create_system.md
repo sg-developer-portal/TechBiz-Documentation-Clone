@@ -167,7 +167,7 @@ click **Submit**.
 
 11. In **Submit for approval**, select all the checkboxes to agree to the terms and conditions, and click **Submit**.
 
-<kbd>![approv_2](/images/approv_det.png)</kbd>
+<kbd>![approv_2](/images/approv_det.png ':size=50%')</kbd>
 
 ## Obtain approval
 
