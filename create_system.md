@@ -11,18 +11,18 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 - Public officer with a valid organisation email address can create a system account. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
 
 - Have the following information ready before proceeding:
-  - Name, organisation email address and handphone number
-    - **Primary subscription admin** (public officer requesting for system account)
+  - Name, organisation email address, and handphone number
+    - **Primary subscription admin** (public officer requesting for a system account)
     - **Secondary subscription admin**
     - **Technical admin**
     - **Billing admin**
-  - Name, organisation email address and designation
+  - Name, organisation email address, and designation
     - **Approver** (Deputy Director level or above) 
   - System name
   - Billing details
     - **SBU**
     - **Agency department** name, **Cost centre**  and **Fund centre** (For GovTech only) 
-  - Subscription plans of SGTS Product(s)
+  - Subscription plans of SGTS product(s)
   - **DGP ID** (Optional)
   - Supporting documents (Optional) 
 
@@ -34,7 +34,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 
 ## Request for a system account
 
-Be default, the public officer who requests for the system account will be the **Primary subscription admin** and has to complete the following steps:
+By default, the public officer who requests for the system account will be the **Primary subscription admin** and has to complete the following steps:
 
 1. Log in to [TechBiz portal.](log_in_to_TechBiz_portal)
 
