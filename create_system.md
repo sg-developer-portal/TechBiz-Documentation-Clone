@@ -34,17 +34,21 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 
 ## Request for a system account
 
-By default, the public officer who requests for the system account will be the **Primary subscription admin** and has to complete the following steps:
+By default, the public officer who requests for a system account will be the **Primary subscription admin** and has to complete the following steps:
 
 1. Log in to [TechBiz portal.](log_in_to_TechBiz_portal)
 
-2. In **Overview,** click **View systems**. Alternatively, from the **sidebar,** click **Systems.**
+2. In **Overview,** click **View systems.** Alternatively, from the **sidebar,** click **Systems.**
+
+<kbd>![create_system](/images/create_system.png)</kbd>
 
 3. Click **Create system.**
 
 4. Ensure you have the [required](#prerequisites) information, before clicking **Next.**
 
-5. Select the checkbox to agree to the terms and conditions of the **GovTech Universal Service Terms** and SGTS Service Sheet and click **Next.** 
+5. Agree to the terms and conditions of the **GovTech Universal Service Terms** and SGTS Service Sheet and click **Next.**
+
+<kbd>![acknowledge](/images/acknowledge.png)</kbd>
 
 ?> **Tip:** To download the agreement, click **Download the SGTS agreement** link.
 
@@ -56,15 +60,16 @@ By default, the public officer who requests for the system account will be the *
 >
 > - At any point of time, before submitting your request, you can click **Save draft** and access the saved draft within 14 days to continue with the system account creation request. 
 
-  a. Enter the **Account details.**
+  a. Enter the **Account details**.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
 | **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system.<br /><br />![Display system id](/images/system_id.png ':size=60%')
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System ID.** The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID,** and update it when it is available.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System ID.** The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID**, and update it when it is available.
  
+<kbd>![account_details](/images/account_details.png)</kbd>
 
   b. Enter the **Subscription admins** details.
 
@@ -83,6 +88,9 @@ By default, the public officer who requests for the system account will be the *
 |&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | Enter the organisation email address of the **Secondary subscription admin.**<br /> Note: **Primary subscription admin** can’t be the **Secondary subscription admin** or vice-versa.
 |&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 
+<kbd>![primarysubscradmin](/images/primary_subscr_admin.png)</kbd>
+<kbd>![secsubscradmin](/images/sec_subscr_admin.png)</kbd>
+
 c. Enter the **Technical admin** details.
 
   >**Notes:**
@@ -97,7 +105,9 @@ c. Enter the **Technical admin** details.
 | **First name, Last name, and Contact number**| These details will be automatically displayed if the email address of the **Technical admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 | **Organisation** | If the **Technical admin** has a TechPass account, then the organisation is automatically displayed and cannot be edited. If not, the requestor needs to enter it manually.
 
-d. Enter the **Billing details.**
+<kbd>![techadmin](/images/tech_admin.png)</kbd>
+
+d. Enter the **Billing details**.
 
   >**Notes:**
   >
@@ -107,26 +117,30 @@ d. Enter the **Billing details.**
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address** | Enter the organisation email address of the **Billing admin.** 
+| **Email address** | Enter the organisation email address of the **Billing admin**. 
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
-|<br /><br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by the Finance for internal GovTech inter-department charging/journal entry.<br />Enter the **fund center** details.
-|**SBU** | For other agency systems, enter the **Sub business unit.**<br />Note: To view the complete list of agency departments and business units, refer to [Vendors@Gov.](https://www.vendors.gov.sg/)
+|<br /><br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by the Finance for internal GovTech inter-department charging or journal entry.<br />Enter the **fund center** details.
+|**SBU** | For other agency systems, enter the **Sub business unit**.<br />Note: To view the complete list of agency departments and business units, refer to [Vendors@Gov.](https://www.vendors.gov.sg/)
 
-7. Click **Next.** 
+<kbd>![billingdet](/images/billing_details.png)</kbd>
 
-8. In **Select products,** choose the required SGTS **products** and click **Next.** 
+7. Click **Next**. 
 
-9. In **Select plan(s),** to choose subscription plans for the selected SGTS products, go to the required product tab. 
+8. In **Select products**, choose the required SGTS **products** and click **Next**. 
 
-?> **Tip:** You will be able to see a tab for each SGTS product you have selected.
+9. In **Select plan(s)**, to choose subscription plans for the selected SGTS products, go to the required product tab. 
 
-10. Select a **Start date.**
+?> **Tip:** You will be able to see a tab for each SGTS product that you have selected.
+
+10. Select a **Start date**.
 
   - **Note:** While selecting a date, you will not be able to select seven consecutive days from the current date. For more information, refer to the field description table.
 
-11. Under **Select a Plan,** choose the required subscription plan for the product. 
+<kbd>![start date](/images/select_subscr_pd.png)</kbd>
 
-12. **If you have subscribed to more than one SGTS product, repeat steps 10-11** and click **Next.** 
+11. Under **Select a Plan**, choose the required subscription plan for the product. 
+
+12. **If you have subscribed to more than one SGTS product, repeat steps 10-11** and click **Next**. 
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
@@ -134,8 +148,9 @@ d. Enter the **Billing details.**
 | **Product agreement** | Click to view the terms and conditions of the product.
 | **Select a plan**| Select the required subscription plan for a product. The displayed subscription plans contain details of the chargeable items in a product and their charges.
 
+<kbd>![plan](/images/select_plan.png)</kbd>
 
-9.  Under **Approver details,** enter the following information, and click **Next.**
+9.  Under **Approver details**, enter the following information, and click **Next**.
 
  >**Notes:**
  >
@@ -144,34 +159,34 @@ d. Enter the **Billing details.**
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Approver name, email, designation** | Enter the full name, organisation email address and designation of the **Approver.**
-| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<ul><li>Total files uploaded can be upto 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
+| **Approver name, email, and designation** | Enter the full name, organisation email address, and designation of the **Approver**.
+| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<ul><li>Total files uploaded can be upto 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
 | **Remarks to Approver** | Specify the reasons for submitting this request. This field is optional.
 
 10. Ensure the information displayed on this page is correct and
-click **Submit.**
+click **Submit**.
 
-11. In **Submit for approval,** select all the checkboxes to agree to the terms and conditions, and click **Submit.**
+11. In **Submit for approval**, select all the checkboxes to agree to the terms and conditions, and click **Submit**.
 
 ## Obtain approval
 
-When a public officer submits a [request to create a system account,](#request-for-a-system-account) the assigned **Approver,** receives an email and a notification on the TechBiz portal to process this request. **Subscription admins, Technical admin** and **Billing admin** will also be notified.
+When a public officer submits a [request to create a system account,](#request-for-a-system-account) the assigned **Approver**, receives an email and a notification on the TechBiz portal to process this request. **Subscription admins, Technical admin,** and **Billing admin** will also be notified.
 
 **Note:**  Only a Deputy director or above can approve the create system account request.
 
-**To approve or reject a system creation request:**
+**To approve or reject a system account creation request:**
 
 1. Review the attachments in the email notification or in the TechBiz portal.
 
-2. [Log in to the TechBiz portal](log_in_to_TechBiz_portal.md) using your non-SE GSIB.
+2. [Log in to TechBiz portal](log_in_to_TechBiz_portal.md) using your non-SE GSIB.
 
-3. In **Overview,** click **View systems**.
+3. In **Overview,** click **View systems.**
 
 4. Choose the system to be approved.
 
 5. Enter remarks for the requestor, if needed.
 
-6. Select the checkbox to acknowledge that you have verified the information provided by the requestor.
+6. Acknowledge that you have verified the information provided by the requestor.
 
 <kbd>![approv_2](/images/approv_4.png)</kbd>
 
@@ -179,7 +194,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 <kbd>![approv_2](/images/approv_3.png)</kbd>
 
-The requestor receives the outcome of the approval request in an email. **Subscription admins, Technical admin** and **Billing admin** will also be notified.If the request is approved, the system is listed on the **Systems** page with an **approved status.**
+The requestor receives the outcome of the approval request in an email. **Subscription admins, Technical admin,** and **Billing admin** will also be notified. If the request is approved, the system is listed on the **Systems** page with an **approved status.**
 
 <!--
 After obtaining approval, the **Technical admin** needs to configure products in the TechBiz portal.This configuration information is required by the product teams to provision resources for the agency's subscribed products.
