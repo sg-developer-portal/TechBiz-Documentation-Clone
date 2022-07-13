@@ -5,9 +5,9 @@
 - [Create System](create_system.md)
 - [Invite Users](invite_users.md) -->
 
-- [Overview](techBiz_overview.md)
+- [Overview](techBiz-overview.md)
 - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
-- [Create system account](create_system.md)
-- [Invite users](invite_users.md)
+- [Create system account](create-system.md)
+- [Invite users](invite-users.md)
 - [Glossary](glossary.md)
 
