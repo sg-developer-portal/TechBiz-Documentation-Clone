@@ -17,7 +17,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
     - **Technical admin**
     - **Billing admin**
   - Name, organisation email address, and designation
-    - **Approver** (Deputy Director level or above) 
+    - **Approver** (Deputy Director or above) 
   - System name
   - Billing details
     - **Sub business unit (SBU)**
@@ -40,9 +40,9 @@ By default, the public officer who requests for a system account will be the **P
 
 2. In **Overview**, click **View systems**. Alternatively, from the **sidebar**, click **Systems**.
 
-<kbd>![create_system](/images/create_system.png)</kbd>
-
 3. Click **Create system**.
+
+<kbd>![create_system](/images/create_system.png)</kbd>
 
 4. Ensure you have the [required](#prerequisites) information, before clicking **Next**.
 
@@ -66,7 +66,7 @@ By default, the public officer who requests for a system account will be the **P
 | :------------------------------------------ |:-------------|
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
-| **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system account.<br /><br />![Display system id](/images/system_id.png ':size=100%')
+| **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products that your agency has subscribed to under this system account.<br /><br />![Display system id](/images/system_id.png ':size=100%')
 | **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID**.<br />If you have a DGP ID, select your **DGP System ID**. The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID**, and update it when it is available.
 
 <kbd>![account_details](/images/account_details.png ':size=200%')</kbd>
@@ -118,7 +118,7 @@ By default, the public officer who requests for a system account will be the **P
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing admin**. 
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
-|<br /><br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br /><br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by Finance for internal GovTech inter-department charging or journal entry.<br />Enter the **fund center** details.
+|<br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by Finance for internal GovTech inter-department charging or journal entry.<br />Enter the **fund center** details.
 |**SBU** | For other agency systems, enter the **Sub business unit**.<br />Note: To view the complete list of agency departments and business units, refer to [Vendors@Gov.](https://www.vendors.gov.sg/)
 
 <kbd>![billingdet](/images/billing_details.png)</kbd>
