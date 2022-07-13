@@ -21,7 +21,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
 
-3.  Select the required **invitation type,** enter the required details and click **Submit**.
+3.  Select the required **invitation type**, enter the required details and click **Submit**.
 
 | <div style="width:270px">Invitation type</div>  | When to use |
 | :------------------------------------------ |:-------------|
@@ -46,7 +46,7 @@ Specify the TechPass account details.
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Email address**| Enter the organisation email address of the public officer or vendor who requires a TechPass account.
-| **TechPass username** | This field is required if you are requesting TechPass account for a vendor. Enter required username for the TechPass account.
+| **TechPass username** | This field is required if you are requesting TechPass account for a vendor. Enter the required username for the TechPass account.
 | **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />Note: **Department** is optional.
 | **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
