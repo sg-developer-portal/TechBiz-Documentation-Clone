@@ -59,7 +59,7 @@ Specify the TechPass account details.
 
 2. Click **Download Original**.
 
-3. Open the downloaded csv file, specify the required details and save the file.
+3. Open the downloaded xlsx file, specify the required details and save the file.
 
 4. In **Upload user list** section, click **Choose a file**.
 

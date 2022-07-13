@@ -1,6 +1,6 @@
 # Log in to TechBiz portal 
 
-You need an active [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to log in to TechBiz portal. Alternatively, if you do not have a TechPass account, you can register for a TechPass One-Time Password (OTP) service from the TechBiz portal.
+You need an active [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to log in to TechBiz portal. Alternatively, if you do not have a TechPass account, you can register for a TechPass One-Time Password (OTP) from the TechBiz portal.
 
 - [Log in with TechPass](#log-in-with-techpass)
 
