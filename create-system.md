@@ -60,7 +60,7 @@ By default, the public officer who requests for a system account will be the **P
 >
 > - At any point of time, before submitting your request, you can click **Save draft** and access the saved draft within fourteen days to continue with the system account creation request. 
 
-   - Enter the **Account details**.
+    a. Enter the **Account details**.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
