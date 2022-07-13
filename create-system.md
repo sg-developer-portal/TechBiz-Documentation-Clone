@@ -60,7 +60,7 @@ By default, the public officer who requests for a system account will be the **P
 >
 > - At any point of time, before submitting your request, you can click **Save draft** and access the saved draft within fourteen days to continue with the system account creation request. 
 
-  a. Enter the **Account details**.
+  - Enter the **Account details**.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
@@ -152,7 +152,7 @@ d. Enter the **Billing details**.
  >**Notes:**
  >
  > - **Approver** must be a public officer with a valid organisation email address.
- > - **Approver** needs to be a Deputy Director level or above.
+ > - **Approver** needs to be a Deputy Director or above.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
