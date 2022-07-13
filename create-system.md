@@ -21,7 +21,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
   - System name
   - Billing details
     - **Sub business unit (SBU)**
-    - **Agency department** name, **Cost centre,**  and **Fund centre** (For GovTech only) 
+    - **Agency department** name, **Cost centre**, and **Fund centre** (For GovTech only) 
   - Subscription plans of SGTS product(s)
   - **Digital Governance Platform (DGP) ID** (Optional)
   - Supporting documents (Optional) 
@@ -38,11 +38,11 @@ By default, the public officer who requests for a system account will be the **P
 
 1. Log in to [TechBiz portal.](log_in_to_TechBiz_portal)
 
-2. In **Overview,** click **View systems.** Alternatively, from the **sidebar,** click **Systems.**
+2. In **Overview**, click **View systems**. Alternatively, from the **sidebar**, click **Systems**.
 
 <kbd>![create_system](/images/create_system.png)</kbd>
 
-3. Click **Create system.**
+3. Click **Create system**.
 
 4. Ensure you have the [required](#prerequisites) information, before clicking **Next.**
 
@@ -60,7 +60,7 @@ By default, the public officer who requests for a system account will be the **P
 >
 > - At any point of time, before submitting your request, you can click **Save draft** and access the saved draft within fourteen days to continue with the system account creation request. 
 
-  a. Enter the **Account details**.
+  - Enter the **Account details**.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
@@ -71,7 +71,7 @@ By default, the public officer who requests for a system account will be the **P
 
 <kbd>![account_details](/images/account_details.png ':size=200%')</kbd>
 
-  b. Enter the **Subscription admins** details.
+  - Enter the **Subscription admins** details.
 
   >**Notes:**
   >
@@ -90,7 +90,7 @@ By default, the public officer who requests for a system account will be the **P
 
 <kbd>![subscradmins](/images/subscr_admins.png ':size=100%')</kbd>
 
-c. Enter the **Technical admin** details.
+  - Enter the **Technical admin** details.
 
   >**Notes:**
   >
@@ -106,7 +106,7 @@ c. Enter the **Technical admin** details.
 
 <kbd>![techadmin](/images/tech_admin.png ':size=80%')</kbd>
 
-d. Enter the **Billing details**.
+  - Enter the **Billing details**.
 
   >**Notes:**
   >
