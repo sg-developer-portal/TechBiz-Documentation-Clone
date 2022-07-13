@@ -10,7 +10,7 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 
 1.  Go to the [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
 
-2.  Click **Login with TechPass.**
+2.  Click **Login with TechPass**.
 
 3.  Follow the on-screen instructions and approve the sign-in request.
 
@@ -18,12 +18,12 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 
 1.  Go to the [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
 
-2.  Click **Get Started.**
+2.  Click **Get Started**.
 
 3.  Enter your organisation email address in **Email** and click **Next**.   
 You will receive an OTP at the specified email address.
 
-- **Note:** OTP will be sent to a valid organisation email address only. For example, *your_name@agency.gov.sg.*
+>**Note:** OTP will be sent to a valid organisation email address only. For example, *your_name@agency.gov.sg.*
 
-4.  Enter the **OTP** and click **Submit.**
+4.  Enter the **OTP** and click **Submit**.
 
