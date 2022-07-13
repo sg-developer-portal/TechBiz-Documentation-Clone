@@ -157,7 +157,11 @@ d. Enter the **Billing details**.
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Approver name, email, and designation** | Enter the full name, organisation email address, and designation of the **Approver**.
-| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<ul><li>Total files uploaded can be upto 10MB.</li><li>A maximum of 50 files per upload.</li><li>Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.</li><li>Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.</li></ul>
+| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<br />
+- Total files uploaded can be upto 10MB.
+- A maximum of 50 files per upload.
+- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.
+- Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
 | **Remarks to Approver** | Specify the reasons for submitting this request. This field is optional.
 
 <kbd>![approv_2](/images/approver.png)</kbd>
