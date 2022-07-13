@@ -7,7 +7,7 @@
 
 - [Overview](techBiz-overview.md)
 - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
-- [Create system account](create-system.md)
+- [Create system](create-system)
 - [Invite users](invite-users.md)
 - [Glossary](glossary.md)
 
