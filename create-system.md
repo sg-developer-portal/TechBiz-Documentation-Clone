@@ -141,7 +141,7 @@ d. Enter the **Billing details**.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />Note: While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following:<ul><li>For the approval of create system account request.</li><li>For the **Technical admin** to configure the product details.</li><li>For the SGTS teams to provision the required resources.</li></ul>
+|**Select subscription period**| This is the date when your agency intends to start using the subscribed SGTS products.<br />Note: While selecting a date, you will not be able to select seven consecutive days from the current date as we need time for the following:<br /> - For the approval of create system account request.<br /> - For the **Technical admin** to configure the product details.<br /> - For the SGTS teams to provision the required resources.
 | **Product agreement** | Click to view the terms and conditions of the product.
 | **Select a plan**| Select the required subscription plan for a product. The displayed subscription plans contain details of the chargeable items in a product and their charges.
 
@@ -157,11 +157,7 @@ d. Enter the **Billing details**.
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Approver name, email, and designation** | Enter the full name, organisation email address, and designation of the **Approver**.
-| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<br />
-- Total files uploaded can be upto 10MB.<br />
-- A maximum of 50 files per upload.<br />
-- Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.<br />
-- Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.<br />
+| **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<br /> - Total files uploaded can be upto 10MB.<br /> - A maximum of 50 files per upload.<br /> - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.<br /> - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
 | **Remarks to Approver** | Specify the reasons for submitting this request. This field is optional.
 
 <kbd>![approv_2](/images/approver.png)</kbd>
