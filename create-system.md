@@ -44,9 +44,9 @@ By default, the public officer who requests for a system account will be the **P
 
 3. Click **Create system**.
 
-4. Ensure you have the [required](#prerequisites) information, before clicking **Next.**
+4. Ensure you have the [required](#prerequisites) information, before clicking **Next**.
 
-5. Agree to the terms and conditions of the **GovTech Universal Service Terms** and SGTS Service Sheet and click **Next.**
+5. Agree to the terms and conditions of the **GovTech Universal Service Terms** and SGTS Service Sheet and click **Next**.
 
 <kbd>![acknowledge](/images/acknowledge.png)</kbd>
 
@@ -67,7 +67,7 @@ By default, the public officer who requests for a system account will be the **P
 | **Agency name** | Select your agency name from the drop-down list.
 | **System name** | Enter the system account name.
 | **System ID** | A unique [**System ID**](glossary) is automatically generated and cannot be edited. Your **System ID** is common across all SGTS products your agency has subscribed to under this system account.<br /><br />![Display system id](/images/system_id.png ':size=100%')
-| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID.**<br />If you have a DGP ID, select your **DGP System ID.** The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID**, and update it when it is available.
+| **Digital Governance Platform (DGP) ID** | Indicate if your system has a [DGP ID.](glossary) Select **Yes, I have a DGP ID** or **No, I do not have a DGP ID**.<br />If you have a DGP ID, select your **DGP System ID**. The **System** description appears.<br />Note: If your agency has multiple DGP System IDs, you can select multiple DGP System IDs. If you are unable to locate your DGP ID, click **No, I do not have a DGP ID**, and update it when it is available.
 
 <kbd>![account_details](/images/account_details.png ':size=200%')</kbd>
 
@@ -81,11 +81,11 @@ By default, the public officer who requests for a system account will be the **P
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Primary subscription admin** | This section allows you to enter the details of the **Primary subscription admin.** By default, the requestor is assigned as the **Primary subscription admin.**
+| **Primary subscription admin** | This section allows you to enter the details of the **Primary subscription admin**. By default, the requestor is assigned as the **Primary subscription admin**.
 |&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | The organisation email address of the requestor is automatically displayed and cannot be edited.
 |&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the requestor is linked to a TechPass account. If not, the requestor needs to enter them manually.
-| **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin.**
-|&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | Enter the organisation email address of the **Secondary subscription admin.**<br /> Note: **Primary subscription admin** can’t be the **Secondary subscription admin** or vice-versa.
+| **Secondary subscription admin** | This section allows you to enter the details of the **Secondary subscription admin**.
+|&nbsp;&nbsp;&nbsp;&nbsp;**Email address**                                | Enter the organisation email address of the **Secondary subscription admin**.<br /> Note: **Primary subscription admin** can’t be the **Secondary subscription admin** or vice-versa.
 |&nbsp;&nbsp;&nbsp;&nbsp;**First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Secondary subscription admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
 
 <kbd>![subscradmins](/images/subscr_admins.png ':size=100%')</kbd>
@@ -123,9 +123,9 @@ By default, the public officer who requests for a system account will be the **P
 
 <kbd>![billingdet](/images/billing_details.png)</kbd>
 
-7. Click **Next.**
+7. Click **Next**.
 
-8. In **Select products**, choose the required SGTS **products** and click **Next.**
+8. In **Select products**, choose the required SGTS **products** and click **Next**.
 
 9. In **Select plan(s)**, to choose subscription plans for the selected SGTS products, go to the required product tab. 
 
@@ -171,7 +171,7 @@ click **Submit**.
 
 ## Obtain approval
 
-When a public officer submits a [request to create a system account,](#request-for-a-system-account) the assigned **Approver**, receives an email and a notification on the TechBiz portal to process this request. **Subscription admins, Technical admin,** and **Billing admin** will also be notified.
+When a public officer submits a [request to create a system account,](#request-for-a-system-account) the assigned **Approver**, receives an email and a notification on the TechBiz portal to process this request. **Subscription admins**, **Technical admin**, and **Billing admin** will also be notified.
 
 **Note:**  Only a Deputy director or above can approve the create system account request.
 
@@ -195,7 +195,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 <kbd>![approv_2](/images/approv_3.png)</kbd>
 
-The requestor receives the outcome of the approval request in an email. **Subscription admins, Technical admin,** and **Billing admin** will also be notified. If the request is approved, the system is listed on the **Systems** page with an **approved status.**
+The requestor receives the outcome of the approval request in an email. **Subscription admins**, **Technical admin**, and **Billing admin** will also be notified. If the request is approved, the system is listed on the **Systems** page with an **approved status**.
 
 <!--
 After obtaining approval, the **Technical admin** needs to configure products in the TechBiz portal.This configuration information is required by the product teams to provision resources for the agency's subscribed products.
