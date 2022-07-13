@@ -37,7 +37,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 | **Is onboarding to SEED required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
-<kbd>![email_invite](/images/email_invite.png ':size=50%')</kbd>
+<kbd>![email_invite](/images/email_invite.png ':size=70%')</kbd>
 
 ### Create account
 
