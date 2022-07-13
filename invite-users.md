@@ -51,7 +51,7 @@ Specify the TechPass account details.
 | **Is onboarding to SEED required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
 
-<kbd>![create_account](/images/create_acct.png ':size=50%')</kbd>
+<kbd>![create_account](/images/create_acct.png)</kbd>
 
 ### Batch upload
 
