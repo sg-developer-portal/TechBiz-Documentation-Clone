@@ -160,8 +160,6 @@ By default, the public officer who requests for a system account will be the **P
 | **Upload documents** | Click **Choose a file** to upload supporting documents. For example, approval email. This field is optional.<br /> - Total files uploaded can be upto 10MB.<br /> - A maximum of 50 files per upload.<br /> - Supported file types: .jpg, .jpeg, .png, .pdf, .zip, .msg.<br /> - Supported characters in upload file names: alphanumeric, space, hyphen, underscore, period.
 | **Remarks to Approver** | Specify the reasons for submitting this request. This field is optional.
 
-<kbd>![approv_2](/images/approver.png)</kbd>
-
 10. Ensure the information displayed on this page is correct and
 click **Submit**.
 
