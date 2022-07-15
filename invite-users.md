@@ -17,7 +17,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 ## Invite users to TechPass
 
-1.  [Log in to TechBiz portal.](log_in_to_TechBiz_portal.md)
+1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
 
 2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
 
