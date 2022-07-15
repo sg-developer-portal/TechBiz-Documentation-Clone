@@ -77,11 +77,16 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When you proceed to submit details of the required invitation type, you may experience an error message which states *User with same email already exists.*
+>When you proceed to submit details of the required invitation type, you may experience errors.
 >
 >- To troubleshoot [Email invitation](#email-invitation) or [Create account](#create-account) issues, raise a service request by clicking on the [link](Enquiries_Esuite@tech.gov.sg) provided and attach the Trace ID.
 >
->- To troubleshoot [Batch upload](#batch-upload) issues, you need to amend the user details.<br />
-> - In the user list of the uploaded file, click on the row with errors.<br />
-> - Click **View details**.<br />
-> - In the side panel, amend the required details and click **Save**. Click **Submit**.
+>- To troubleshoot [Batch upload](#batch-upload) issues, you need to amend the user details.
+  - In the user list of the uploaded file, click on the row with errors.<br />
+  - Click **View details**.<br />
+  - In the side panel, amend the required details and click **Save**. Click **Submit**.
+
+> Existing TechPass users can also request for SEED provisioning.
+> - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
+> - If you are a vendor, you need to raise a [service request](https://go.gov.sg/techpass-sr)in TechPass. 
+
