@@ -77,7 +77,7 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When you proceed to submit details of the required invitation type, you may receive error notifications. Proceed as follows:
+>When you submit details of the required invitation type, you may receive error notifications. Proceed as follows:
 >
 >- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
 >    1. Raise a service request by clicking on the email link provided.
