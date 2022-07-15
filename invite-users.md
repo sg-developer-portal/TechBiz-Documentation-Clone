@@ -79,7 +79,9 @@ A success message with the user list is displayed.
 >
 >When you proceed to submit details of the required invitation type, you may experience errors.
 >
->- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues, click on the [link](<a href=mailto:Enquiries_Esuite@tech.gov.sg></a>) provided and raise a service request.
+>- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
+>    1. Raise a service request to Enquiries_Esuite@tech.gov.sg by clicking on the email link provided.
+>    2. Attach the Trace ID in the email.
 >- To troubleshoot [batch upload](#batch-upload) issues, you need to amend the user details:
 >    1. In the user list of the uploaded file, click on the row with errors.
 >    2. Click **View details**.
