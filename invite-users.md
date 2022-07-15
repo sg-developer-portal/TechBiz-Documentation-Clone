@@ -84,7 +84,8 @@ A success message with the user list is displayed.
 >- To troubleshoot [Batch upload](#batch-upload) issues, you need to amend the user details.
 >    1. In the user list of the uploaded file, click on the row with errors.
 >    2. Click **View details**.
->    3. In the side panel, amend the required details and click **Save**. Click **Submit**.
+>    3. In the side panel, amend the required details and click **Save**.
+>    4. Click **Submit**.
 
 > Existing TechPass users can also request for SEED provisioning.
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
