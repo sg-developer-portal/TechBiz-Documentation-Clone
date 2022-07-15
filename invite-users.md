@@ -77,11 +77,11 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When an invitation type is not successful, you will receive an error notification. You need to do as follows:
+>When an invitation type is not successful, you will receive an error notification during submission. You need to do as follows:
 >
 >- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
 >    - Raise a service request by clicking on the email link provided and attach the Trace ID.
->- To troubleshoot [batch upload](#batch-upload) issues, you need to amend the user details:
+>- To troubleshoot [batch upload](#batch-upload) issues:
 >    1. In the user list of the uploaded file, click the ellipsis on the row with errors.
 >    2. Click **View details**.
 >    3. In the side panel, amend the required details and click **Save**.
