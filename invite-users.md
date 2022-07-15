@@ -77,7 +77,7 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When an invitation type is not submitted successfully, you will receive an error notification. 
+>When an invitation type is not submitted successfully, you will receive an error notification. You need to do as follows:
 >
 >- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
 >    - Raise a service request by clicking on the email link provided and attach the Trace ID.
