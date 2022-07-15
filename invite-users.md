@@ -73,3 +73,12 @@ A success message with the user list is displayed.
   - To delete a single user, click **Remove**.
 
   - To delete all users, click **Reset**. To confirm reset, click **Confirm**.
+
+
+>**Notes:**
+>When you proceed to submit details of the required invitation type, you may experience an error message which states *User with same email already exists.*
+>
+>To troubleshoot [Email invitation](#email-invitation) or [Create account](#create-account) issues, raise a service request by clicking on the [link](Enquiries_Esuite@tech.gov.sg) provided and attach the Trace ID.
+>
+>To troubleshoot [Batch upload](#batch-upload) issues, you need to amend the user details. In the user list of the uploaded file, click on the row with errors. Click **View details**. In the side panel, amend the required details and click **Save**. Click **Submit**.
+>
