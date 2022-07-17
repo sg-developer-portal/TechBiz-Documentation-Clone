@@ -175,7 +175,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 1. Review the attachments in the email notification or in the TechBiz portal.
 
-2. [Log in to TechBiz portal](log_in_to_TechBiz_portal.md) using your non-SE GSIB.
+2. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
 3. In **Overview,** click **View systems**.
 
