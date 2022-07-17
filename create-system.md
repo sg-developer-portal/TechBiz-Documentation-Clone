@@ -20,10 +20,10 @@ A [system account](glossary) allows agencies to centrally manage and view their 
     - **Approver** (Deputy Director or above) 
   - System name
   - Billing details
-    - **Sub business unit (SBU)**(glossary)
+    - [**Sub business unit (SBU)**](glossary)
     - **Agency department** name, **Cost centre**, and **Fund centre** (For GovTech only) 
   - Subscription plans of SGTS product(s)
-  - **Digital Governance Platform (DGP) ID**(glossary) (Optional)
+  - [**Digital Governance Platform (DGP) ID**](glossary) (Optional)
   - Supporting documents (Optional) 
 
 **How to create a system in TechBiz?**
