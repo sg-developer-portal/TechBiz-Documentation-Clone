@@ -84,7 +84,7 @@ A success message with the user list is displayed.
 >- To troubleshoot [batch upload](#batch-upload) issues:
 >    1. In the user list of the uploaded file, click the ellipsis on the row with errors.
 >    2. Click **View details**.
->    3. In the side panel, amend the required details and click **Save**.
+>    3. Amend the required details and click **Save**.
 >    4. Click **Submit**.
 
 > Existing TechPass users can also request for SEED provisioning.
