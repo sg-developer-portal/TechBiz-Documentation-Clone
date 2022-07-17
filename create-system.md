@@ -118,7 +118,7 @@ By default, the public officer who requests for a system account will be the **P
 | :------------------------------------------ |:-------------|
 | **Email address** | Enter the organisation email address of the **Billing admin**. 
 | **First name, Last name, and Contact number** | These details will be automatically displayed if the email address of the **Billing admin** is linked to a TechPass account. If not, the requestor needs to enter them manually.
-|<br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to Govtech systems only: <br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by Finance for internal GovTech inter-department charging or journal entry.<br />Enter the **fund center** details.
+|<br />**Agency department**<br />**Cost center**<br /><br /><br />**Fund center**| The following details are applicable to GovTech systems only: <br />Enter your **department** name.<br />Enter the **cost center** code for your agency. This code will be used by Finance for internal GovTech inter-department charging or journal entry.<br />Enter the **fund center** details.
 |**SBU** | For other agency systems, enter the **Sub business unit**.<br />Note: To view the complete list of agency departments and business units, refer to [Vendors@Gov.](https://www.vendors.gov.sg/)
 
 <kbd>![billingdet](/images/billing_details.png)</kbd>
