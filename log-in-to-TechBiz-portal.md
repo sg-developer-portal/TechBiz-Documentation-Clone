@@ -4,7 +4,7 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 
 - [Log in with TechPass](#log-in-with-techpass)
 
-- [Log in with TechPass OTP service](#log-in-with-techpass-otp-service)
+- [Log in with TechPass OTP](#log-in-with-techpass-otp)
 
 ## Log in with TechPass
 
@@ -14,7 +14,7 @@ You need an active [TechPass](https://www.developer.tech.gov.sg/products/categor
 
 3.  Follow the on-screen instructions and approve the sign-in request.
 
-## Log in with TechPass OTP service
+## Log in with TechPass OTP
 
 1.  Go to the [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
 
