@@ -20,10 +20,10 @@ A [system account](glossary) allows agencies to centrally manage and view their 
     - **Approver** (Deputy Director or above) 
   - System name
   - Billing details
-    - **Sub business unit (SBU)**
+    - **Sub business unit (SBU)**(glossary)
     - **Agency department** name, **Cost centre**, and **Fund centre** (For GovTech only) 
   - Subscription plans of SGTS product(s)
-  - **Digital Governance Platform (DGP) ID** (Optional)
+  - **Digital Governance Platform (DGP) ID**(glossary) (Optional)
   - Supporting documents (Optional) 
 
 **How to create a system in TechBiz?**
@@ -36,7 +36,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 
 By default, the public officer who requests for a system account will be the **Primary subscription admin** and has to complete the following steps:
 
-1. Log in to [TechBiz portal.](log_in_to_TechBiz_portal)
+1. Log in to [TechBiz portal.](log-in-to-TechBiz-portal)
 
 2. In **Overview**, click **View systems**. Alternatively, from the **sidebar**, click **Systems**.
 
