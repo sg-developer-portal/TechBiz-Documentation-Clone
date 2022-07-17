@@ -87,7 +87,7 @@ A success message with the user list is displayed.
 >    3. Amend the required details and click **Save**.
 >    4. Click **Submit**.
 
-?> Existing TechPass users can also request for SEED provisioning.
+> Existing TechPass users can also request for SEED provisioning.
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
 > - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
