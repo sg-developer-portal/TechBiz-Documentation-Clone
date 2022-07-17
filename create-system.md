@@ -36,7 +36,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
 
 By default, the public officer who requests for a system account will be the **Primary subscription admin** and has to complete the following steps:
 
-1. Log in to [TechBiz portal.](log-in-to-TechBiz-portal)
+1. Log in to [TechBiz portal.](http://portal.techbiz.suite.gov.sg/)
 
 2. In **Overview**, click **View systems**. Alternatively, from the **sidebar**, click **Systems**.
 
