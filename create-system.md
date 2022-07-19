@@ -171,7 +171,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 **Note:**  Only a Deputy director or above can approve the create system account request.
 
-**To approve or reject a system account creation request:**
+**To approve or reject a system account creation request**
 
 1. Review the attachments in the email notification or in the TechBiz portal.
 
