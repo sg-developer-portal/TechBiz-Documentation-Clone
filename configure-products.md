@@ -1,6 +1,6 @@
 # Configure products
 
-After obtaining approval for their system account, agencies can proceed to onboard to their subscribed SGTS products by providing product configuration details in the TechBiz portal. This information is required by the product teams to provision resources.
+After obtaining approval, agencies can proceed to onboard to their subscribed SGTS products by providing product configuration details in the TechBiz portal. This information is required by the SGTS product teams to provision resources.
 
 ## Prerequisites
 
@@ -20,13 +20,14 @@ To configure products
 
 <kbd>![conf_1](/images/conf_1.png)</kbd>
 
-5. Enter the required configuration details. This depends on the SGTS product being configured. For example, you may be required to fill in the user details.
+5. Enter the required configuration details.
 
->**Note:** This 
+>**Note:** The information requested depends on the SGTS product being configured.
+
 6. Click **Submit**.
 
-When a public officer [configures a product](#configure-products) in the TechBiz portal, the product team receives an email to provision resources. The system displays a **pending provisioning** status.
+When a public officer [configures a product](#configure-products) in the TechBiz portal, the corresponding product team receives an email notification to provision resources. The system displays a **pending provisioning** status.
 
-After the resources have been provisioned, the public officer receives an email notification and the system status changes to **provisioned**.
+After the resources have been provisioned, the public officer is notified by email and the system status changes to **provisioned**.
 
 Troubleshooting?
