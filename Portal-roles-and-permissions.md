@@ -1,6 +1,6 @@
-# User Roles and Permissions
+# Portal Roles and Permissions
 
-Following roles and permissions are available to agencies and vendors within the TechBiz portal.
+Following roles and permissions are available within the TechBiz portal.
 
 | <div style="width:270px">Field Name</div>  | Description | Permissions
 | :------------------------------------------ |:-------------|----
@@ -24,3 +24,8 @@ Following roles and permissions are available to agencies and vendors within the
 
 - View system subscription details.
 - View billing details.
+
+
+## SGTS Product Owners
+
+## SGTS Product Teams
