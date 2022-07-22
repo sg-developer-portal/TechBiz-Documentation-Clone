@@ -26,7 +26,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
   - [**Digital Governance Platform (DGP) ID**](glossary) (Optional)
   - Supporting documents (Optional) 
 
-**How to create a system in TechBiz?**
+**How to create a system account in TechBiz?**
 
 -   [**Request for a system account**](#request-for-a-system-account)
 -   [**Obtain approval**](#obtain-approval)

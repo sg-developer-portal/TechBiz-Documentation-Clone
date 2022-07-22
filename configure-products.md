@@ -1,12 +1,14 @@
 # Configure products
 
-After obtaining approval, agencies can proceed to onboard to their subscribed SGTS products by providing product configuration details in the TechBiz portal. This information is required by the SGTS product teams to provision resources.
+After a [system account creation](create-system/#request-for-a-system-account) is [approved](create-system#obtain-approval), agencies can proceed to onboard to their subscribed SGTS products. They need to provide the respective product configuration details in the TechBiz portal. Product teams need this information to provision resources.
 
 ## Prerequisites
 
-- An approved system account in TechBiz.
+- An approved system account.
 
-- **Primary subscription admin**, **Secondary subscription admin**, or **Technical admin** of the approved system can configure products using a [non-SE GSIB](glossary) device.
+- **Primary subscription admin**, **Secondary subscription admin**, or **Technical admin** of the approved system account using a [non-SE GSIB](glossary) device.
+
+- An active TechPass account.
 
 To configure products
 
