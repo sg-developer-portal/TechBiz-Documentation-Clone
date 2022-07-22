@@ -1,16 +1,20 @@
 # Configure products
 
-After a [system account](create-system/#request-for-a-system-account) is [approved](create-system#obtain-approval), agencies can proceed to onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. Agencies need to provide the product configuration details in the TechBiz portal. Product teams need this information to provision resources.
+To onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to provide the product configuration details in the TechBiz portal. This information is required by the product teams to provision resources.
+
+**Who can configure products in TechBiz?**
+
+- **Primary subscription admin**, or **Secondary subscription admin**, or **Technical admin** with an active TechPass account.
 
 ## Prerequisites
 
-- An approved system account.
+- An approved [system account](glossary).
 
-- **Primary subscription admin**, **Secondary subscription admin**, or **Technical admin** of the approved system account using a [non-SE GSIB](glossary) device.
+- A [non-SE GSIB](glossary) device.
 
-- An active TechPass account.
+## Provide product configuration details
 
-To configure products
+To configure products, the administrator has to complete the following steps:
 
 1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal)
 
