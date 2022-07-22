@@ -1,6 +1,6 @@
 # Configure products
 
-After a [system account creation](create-system/#request-for-a-system-account) is [approved](create-system#obtain-approval), agencies can proceed to onboard to their subscribed SGTS products. They need to provide the respective product configuration details in the TechBiz portal. Product teams need this information to provision resources.
+After a [system account](create-system/#request-for-a-system-account) is [approved](create-system#obtain-approval), agencies can proceed to onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. Agencies need to provide the product configuration details in the TechBiz portal. Product teams need this information to provision resources.
 
 ## Prerequisites
 
