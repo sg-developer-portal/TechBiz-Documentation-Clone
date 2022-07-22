@@ -16,9 +16,9 @@ The following administrator roles with an active TechPass account:
 
 - A [non-SE GSIB](glossary) device.
 
-## Provide product configuration details
+## Provide configuration details
 
-To configure products, the administrator has to complete the following steps:
+To configure products, the administrator role has to complete the following steps:
 
 1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal)
 
@@ -36,7 +36,7 @@ To configure products, the administrator has to complete the following steps:
 
 6. Click **Submit**.
 
-When a public officer [configures a product](#configure-products) in the TechBiz portal, the corresponding product team receives an email notification to provision resources. The system displays a **pending provisioning** status.
+When a public officer [configures a product](#provide-product-configuration-details) in the TechBiz portal, the corresponding product team receives an email notification to provision resources. The system displays a **pending provisioning** status.
 
 After the resources have been provisioned, the public officer is notified by email and the system status changes to **provisioned**.
 
