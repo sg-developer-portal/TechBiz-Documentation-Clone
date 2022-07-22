@@ -11,7 +11,7 @@
   - [Create system](create-system)
   - [Invite users](invite-users.md)
   - [Configure products](configure-products.md)
-  - [Portal roles and permissions](portal-roles-and-permissions.md)
+  - [Admin roles and permissions](admin-roles-and-permissions.md)
 **Resources**
   - [Glossary](glossary.md)
 
