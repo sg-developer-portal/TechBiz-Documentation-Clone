@@ -4,7 +4,11 @@ To onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://
 
 **Who can configure products in TechBiz?**
 
-- **Primary subscription admin**, or **Secondary subscription admin**, or **Technical admin** with an active TechPass account.
+The following administrator roles with an active TechPass account:
+
+- **Primary subscription admin**
+- **Secondary subscription admin**
+- **Technical admin**
 
 ## Prerequisites
 
