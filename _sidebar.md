@@ -8,7 +8,7 @@
 **Getting Started**
   - [Overview](techBiz-overview.md)
   - [Log in to TechBiz portal](log-in-to-TechBiz-portal.md)
-  - [Create system](create-system)
+  - [Create system account](create-system)
   - [Invite users](invite-users.md)
 **Resources**
   - [Glossary](glossary.md)
