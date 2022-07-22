@@ -18,7 +18,7 @@ To configure products
 
 4. On the **Products** tab, click **View and configure**.
 
-<kbd>![conf_1](/images/conf_1.png)</kbd>
+<kbd>![conf_1](/images/conf_1.png ':size=40%')</kbd>
 
 5. Enter the required configuration details.
 
