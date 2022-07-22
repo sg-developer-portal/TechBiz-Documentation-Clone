@@ -191,7 +191,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 <kbd>![approv_2](/images/approv_3.png)</kbd>
 
-The requestor receives the outcome of the approval request in an email. **Subscription admins**, **Technical admin**, and **Billing admin** will also be notified. If the request is approved, the system is listed on the **Systems** page with an **approved status**.
+The requestor receives the outcome of the approval request in an email. **Subscription admins**, **Technical admin**, and **Billing admin** will also be notified. If the request is approved, the system is listed on the **Systems** page with an **approved** status.
 
 **Next steps**
 
