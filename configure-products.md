@@ -20,9 +20,9 @@ The following administrator roles of an approved system account:
 
 ## Provide configuration details
 
-To configure products, the administrator role has to complete the following steps:
+To configure products, the administrator has to complete the following steps:
 
-1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal)
+1. [Log in to TechBiz portal with TechPass.](log-in-to-TechBiz-portal)
 
 2. In **Overview**, click **View systems**. Alternatively, from the **sidebar**, click **Systems**.
 
