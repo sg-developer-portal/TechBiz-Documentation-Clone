@@ -6,9 +6,9 @@ To onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://
 
 The following administrator roles of an approved system account:
 
-- **Primary subscription admin**
-- **Secondary subscription admin**
-- **Technical admin**
+- **[Primary subscription admin](admin-roles-and-permissions)**
+- **[Secondary subscription admin](admin-roles-and-permissions)**
+- **[Technical admin](admin-roles-and-permissions)**
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ The following administrator roles of an approved system account:
 
 - A [non-SE GSIB](glossary) device.
 
-- An active TechPass account.
+- An active [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account.
 
 ## Provide configuration details
 
