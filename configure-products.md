@@ -1,6 +1,6 @@
 # Configure products
 
-To onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to provide the product configuration details in the TechBiz portal. This information is required by the product teams to provision resources.
+After obtaining approval for a system account, agencies need to configure their subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products in TechBiz so that the product teams can provision resources.
 
 **Who can configure products in TechBiz?**
 
