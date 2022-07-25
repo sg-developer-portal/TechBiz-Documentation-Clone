@@ -1,10 +1,10 @@
 # Configure products
 
-After [obtaining approval](./create-system.md#obtain-approval) for a system account, agencies need to provide configuration details for their subscribed[Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products in TechBiz. This information is required by the product teams to provision resources.
+To onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products in TechBiz, agencies need to provide the products' configuration details. 
 
 **Who can configure products in TechBiz?**
 
-The following administrator roles with an active TechPass account:
+The following administrator roles of an approved system account:
 
 - **Primary subscription admin**
 - **Secondary subscription admin**
@@ -16,6 +16,8 @@ The following administrator roles with an active TechPass account:
 
 - A [non-SE GSIB](glossary) device.
 
+- An active TechPass account.
+
 ## Provide configuration details
 
 To configure products, the administrator role has to complete the following steps:
@@ -24,7 +26,9 @@ To configure products, the administrator role has to complete the following step
 
 2. In **Overview**, click **View systems**. Alternatively, from the **sidebar**, click **Systems**.
 
-3. Click on the system with an **approved** status.
+3. Click on the **System Name** for which you need to configure products.
+
+>**Note:** Ensure that the system has an **approved** status.
 
 4. On the **Products** tab, click **View and configure**.
 
@@ -36,7 +40,7 @@ To configure products, the administrator role has to complete the following step
 
 6. Click **Submit**.
 
-When a public officer [configures a product](#provide-product-configuration-details) in the TechBiz portal, the corresponding product team receives an email notification to provision resources. The system displays a **pending provisioning** status.
+When an administrator role [configures a product](#provide-configuration-details) in the TechBiz portal, the corresponding product team receives an email notification to provision resources. The system displays a **pending provisioning** status.
 
 After the resources have been provisioned, the public officer is notified by email and the system status changes to **provisioned**.
 
