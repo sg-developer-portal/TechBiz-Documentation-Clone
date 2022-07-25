@@ -165,7 +165,7 @@ click **Submit**.
 
 11. In **Submit for approval**, select all the checkboxes to agree to the terms and conditions, and click **Submit**.
 
-## Obtain approval <a name="abcd"></a>
+## Obtain approval
 
 When a public officer submits a [request to create a system account,](#request-for-a-system-account) the assigned **Approver**, receives an email and a notification on the TechBiz portal to process this request. **Subscription admins**, **Technical admin**, and **Billing admin** will also be notified.
 
