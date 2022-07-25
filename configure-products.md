@@ -46,14 +46,16 @@ To configure products, the administrator has to complete the following steps:
 
 When an administrator [configures a product](#provide-configuration-details) in the TechBiz portal, the corresponding product team receives an email notification to provision resources. After the resources have been provisioned, the administrator is notified by email.
 
+<!----
+
 >## Status and what it means
 >
 > - To view a product's status, click **System Name** -> **Products** tab.
 >
 > - To view a product's subscription plan status, click **System Name** -> **Products** tab -> **View and configure**.
 >
->| Phase | Product status | Subscription plans status
->|---- |---- |----
+> - | Phase | Product status | Subscription plans status
+>   |---- |---- |----
 >| Obtain approval | Pending configuration | Not provisioned
 >| Configuration in progress | Pending provisioning | Not provisioned
->| Configuration complete | Active | Provisioned
+>| Configuration complete | Active | Provisioned ---->
