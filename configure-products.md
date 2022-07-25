@@ -36,7 +36,11 @@ To configure products, the administrator has to complete the following steps:
 
 5. Enter the required configuration details.
 
->**Note:** The information requested depends on the SGTS product being configured.
+>**Note:** 
+>
+>- The information requested depends on the SGTS product being configured.
+>
+>- If you are required to provide user details and if the user does not have a TechPass account; it will be triggered automatically by the product teams during resource provisioning.
 
 6. Click **Submit**.
 
