@@ -1,6 +1,6 @@
 # Configure products
 
-After [obtaining approval](create-system/#obtain-approval) for a system account, agencies need to provide configuration details for their [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products in TechBiz. This information is required by the product teams to provision resources.
+After [obtaining approval](./create-system.md#obtain-approval) for a system account, agencies need to provide configuration details for their subscribed[Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products in TechBiz. This information is required by the product teams to provision resources.
 
 **Who can configure products in TechBiz?**
 
