@@ -20,10 +20,10 @@ Following roles and permissions are available for agencies to administer their s
 
 ## Technical admin permissions
 
-- Provide product configuration details.
-- Respond to technical queries from the SGTS product teams.
+- Provide product configuration details
+- Respond to technical queries from the SGTS product teams
 
 ## Billing admin permissions
 
-- View system subscription details.
-- View billing details.
+- View system subscription details
+- View billing details
