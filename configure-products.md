@@ -54,8 +54,4 @@ When an administrator [configures a product](#provide-configuration-details) in 
 >
 > - To view a product's subscription plan status, click **System Name** -> **Products** tab -> **View and configure**.
 >
-> - | Phase | Product status | Subscription plans status
->   |---- |---- |----
->| Obtain approval | Pending configuration | Not provisioned
->| Configuration in progress | Pending provisioning | Not provisioned
->| Configuration complete | Active | Provisioned
+> - Image TBC
