@@ -1,6 +1,6 @@
 # Configure products
 
-To onboard to their subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to provide the product configuration details in the TechBiz portal.
+To onboard to the subscribed [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products, agencies need to provide the product configuration details in the TechBiz portal.
 
 **Who can configure products in TechBiz?**
 
@@ -46,7 +46,7 @@ To configure products, the administrator has to complete the following steps:
 
 When an administrator [configures a product](#provide-configuration-details) in the TechBiz portal, the corresponding product team receives an email notification to provision resources. After the resources have been provisioned, the administrator is notified by email.
 
-<!----
+?> **Note:** When the administrator logs into TechBiz, a notification bell icon will be displayed to indicate that the resources have been provisioned.
 
 >## Status and what it means
 >
@@ -58,4 +58,4 @@ When an administrator [configures a product](#provide-configuration-details) in 
 >   |---- |---- |----
 >| Obtain approval | Pending configuration | Not provisioned
 >| Configuration in progress | Pending provisioning | Not provisioned
->| Configuration complete | Active | Provisioned ---->
+>| Configuration complete | Active | Provisioned
