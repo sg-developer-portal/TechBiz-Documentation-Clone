@@ -34,7 +34,7 @@ To configure products, the administrator has to complete the following steps:
 
 <kbd>![conf_1](/images/conf_1.png ':size=40%')</kbd>
 
-5. Enter the required configuration details.
+5. To enter the required configuration details, click **Edit**.
 
 >**Note:** 
 >
