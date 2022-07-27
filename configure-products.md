@@ -46,8 +46,6 @@ To configure products, the administrator has to complete the following steps:
 
 When an administrator [configures a product](#provide-configuration-details) in the TechBiz portal, the corresponding product team will be notified to provision resources. After the resources have been provisioned, the administrator is notified by email.
 
->**Note:** When the administrator logs into TechBiz, a notification bell icon will be displayed to notify that the resources have been provisioned.
-
 ?> **Note:** When the administrator logs into TechBiz, a notification bell icon will be displayed to indicate that the resources have been provisioned.
 
 >## Status and action to be taken
