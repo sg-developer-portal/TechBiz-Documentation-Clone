@@ -48,16 +48,12 @@ When an administrator [configures a product](#provide-configuration-details) in 
 
 >**Note:** When the adminstrator logs into TechBiz, a notification bell icon will be displayed to notify that the resources have been provisioned.
 
-<!----
+?> **Note:** When the administrator logs into TechBiz, a notification bell icon will be displayed to indicate that the resources have been provisioned.
 
->## Status and what it means
+>## Status and action to be taken
 >
 > - To view a product's status, click **System Name** -> **Products** tab.
 >
 > - To view a product's subscription plan status, click **System Name** -> **Products** tab -> **View and configure**.
 >
-> - | Phase | Product status | Subscription plans status
->   |---- |---- |----
->| Obtain approval | Pending configuration | Not provisioned
->| Configuration in progress | Pending provisioning | Not provisioned
->| Configuration complete | Active | Provisioned ---->
+> - Image TBC

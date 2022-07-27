@@ -5,8 +5,8 @@ Following roles and permissions are available for agencies to administer their s
 | <div style="width:270px">Field Name</div>  | Description | Permissions
 | :------------------------------------------ |:-------------|----
 | **Subscription admin** | Owner of the system account. There must be at least one **Primary subscription admin** and one **Secondary subscription admin** per system. Only a public officer can be assigned as a subscription admin.| Refer to [Subscription admin permissions](#subscription-admin-permissions) for details.
-| **Technical admin** | Technical administrator of the system account. A public officer or a vendor can be assigned as a **Technical admin**. | Refer to [Technical admin permissions](#technical-admin-permissions) for details.
-| **Billing admin** | Finance administrator of the system account. Only a public officer can be assigned as a **Billing admin**.| Refer to [Billing admin permissions](#billing-admin-permissions) for details.
+| **Technical admin** | Technical administrator of the system account. A public officer or a vendor can be assigned as a **Technical admin**. | Refer to [Technical admin Permissions](#technical-admin-permissions) for details.
+| **Billing admin** | Finance administrator of the system account. Only a public officer can be assigned as a **Billing admin**.| Refer to [Billing admin Permissions](#billing-admin-permissions) for details.
 
 ## Subscription admin permissions
 
