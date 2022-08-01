@@ -6,9 +6,10 @@ Notifications in TechBiz serve to:
 
 - Alert users to a task that they require to complete 
 
- 
-[Notification types](#types-of-notifications)
-[Notification categories](#notification-categories)
+
+
+- [Notification types](#types-of-notifications)
+- [Notification categories](#notification-categories)
 
 
  ## Types of notifications
