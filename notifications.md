@@ -4,19 +4,21 @@ Notifications in TechBiz are [informational](#information-oriented) messages for
 
 ## Information-oriented
 
-Informs users about changes to their system in the portal. For example:
+Informs users about changes to their system in the portal. Some examples are:
 
-- A create system request approved or rejected.
-- Resource provisioned by product teams.
-- Subscription updated.
+- A system account creation request is approved.
+- Product team has provisioned the resources.
+- A subscription has been updated.
 
 ## Task-oriented
 
-Reminds users of tasks requiring their action. Task-oriented notifications are specific to a role. For example:
+Reminds users of tasks requiring their action. Some examples are:
 
 - Requestor to complete a saved draft of system account creation request.
 - Approver to approve or reject a system account creation request.
 - Requestor to provide product configuration details of an approved system.
+
+?>**Note:** Task-oriented notifications are specific to a role.
 
 ## Notification types
 
