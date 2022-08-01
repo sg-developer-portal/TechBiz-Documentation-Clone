@@ -1,53 +1,29 @@
 # Notifications
 
-Notifications in TechBiz inform users about changes to their system in the portal. They also alert users to a task that they require to complete. 
+Notifications in TechBiz are [information-oriented](#information-oriented) or [task-oriented.](#task-oriented)
 
-- [Notification types](#types-of-notifications)
-- [Notification categories](#notification-categories)
+## Information-oriented
+
+Informs users about changes to their system in the portal. For example:<br />- Create system request approved or rejected<br />- Reminder for approval<br />- Resource provisioned<br />- Contacts updated<br />- Project contacts changed<br />- Subscription updated.
+
+## Task-oriented: 
+
+Reminds users of tasks requiring their action. For example:<br />- Requestor to complete a saved draft of request for a system account<br />- Approver to approve or reject a system creation request<br />Request to provide product configuration details of an approved system<>
+
+## Notification types
+
+There are two ways in which users are notified:
+
+### In TechBiz portal
+
+  - When a user logs in to the TechBiz portal, a bell icon is displayed with a number indicating the tasks requiring user action.
+
+  <image> 
+
+### Via email notification
+
+  - User receives an email notification from TechBiz (techbiz.suite.gov.sg).
+
+  <image>
 
 
- ## Types of notifications
-
-There are two ways in which users are notified in TechBiz:
-
-- **Bell icon in the TechBiz portal**
-
-    - When users log in to the TechBiz portal, a notification bell icon is displayed to indicate tasks that require their action. For example, 
-
-- **Email notifications**
-
-    - Sender is TB (eg techbiz.suite.gov.sg) Send email to user (create system req approved/rejected, reminder for approval, resource provisioned, when contacts updated, when project contacts are changed, subscription updated) 
-
-## Notification categories
-
-- Create system account – save draft no notif, subscription submitted they all get notified 
-
-- Product configuration 
-
- 
-
- 
-
-Alert types 
-
-Defined by TB 
-
-User defined alerts - To access a notification on the TechBiz portal users need to do as follows: (being dev. Can refer to figma) 
-
-Wip. Eg user saves draft will receive a notification that its pending completion, users see a bell icon and he can process it (mark as read) it will redirect to a link where he sees drafts and he can continue. 
-
- 
-
-Approver after req submits request, notification for  
-
-He clicks we switch to approver role if he confirms that he's ok to switch the role (design an popup) he will be redirected to approval page 
-
- 
-
- 
-
-Role change – to be implemented..When role doesn't match the destination action, user prompted for role change and needs to confirm it. 
-
- 
-
-Manage notifications 
