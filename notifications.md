@@ -1,4 +1,4 @@
-# TechBiz notifications
+# Notifications
  
 Notifications in TechBiz serve to: 
  
