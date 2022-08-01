@@ -1,12 +1,6 @@
 # Notifications
- 
-Notifications in TechBiz serve to: 
- 
-- Inform users about changes to their system in the portal 
 
-- Alert users to a task that they require to complete 
-
-
+Notifications in TechBiz inform users about changes to their system in the portal. They also alert users to a task that they require to complete. 
 
 - [Notification types](#types-of-notifications)
 - [Notification categories](#notification-categories)
