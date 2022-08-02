@@ -12,7 +12,6 @@
   - [Configure products](configure-products.md)
   - [Invite users](invite-users.md)
   - [Admin roles and permissions](admin-roles-and-permissions.md)
-  <!-- - [Notifications](notifications.md)-->
 **Resources**
   - [Glossary](glossary.md)
 
