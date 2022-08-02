@@ -48,7 +48,7 @@ When an administrator [configures a product](#provide-configuration-details) in 
 
 ?> **Note:** When the administrator logs in to the TechBiz portal, a notification bell icon is displayed to indicate that the resources have been provisioned.
 
-<!--->
+<!---
 >## Status and action to be taken
 >
 > - To view a product's status, click **System Name** -> **Products** tab.
