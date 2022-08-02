@@ -28,7 +28,7 @@ Remind users of tasks requiring their action. Some examples are:
 - Approver to approve or reject a system account creation request.
 - Requestor to provide product configuration details of an approved system.
 
-?>**Note:** Task-oriented notifications are specific to a role.
+?>**Note:** Alert notifications are specific to a user role.
 
 ## Notification channels
 
@@ -44,3 +44,16 @@ In TechBiz, users receive notifications as follows:
 
 
 ## Complete tasks
+
+**Prerequisites**
+
+
+To act on an alert, a user needs do as follows:
+
+1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
+
+2. Click on the bell icon.
+The list of notifications is displayed.
+
+3. Click on a pending action item.
+
