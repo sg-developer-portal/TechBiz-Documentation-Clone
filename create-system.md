@@ -26,7 +26,7 @@ A [system account](glossary) allows agencies to centrally manage and view their 
   - [**Digital Governance Platform (DGP) ID**](glossary) (Optional)
   - Supporting documents (Optional) 
 
-**How to create a system in TechBiz?**
+**How to create a system account in TechBiz?**
 
 -   [**Request for a system account**](#request-for-a-system-account)
 -   [**Obtain approval**](#obtain-approval)
@@ -193,26 +193,9 @@ When a public officer submits a [request to create a system account,](#request-f
 
 The requestor receives the outcome of the approval request in an email. **Subscription admins**, **Technical admin**, and **Billing admin** will also be notified. If the request is approved, the system is listed on the **Systems** page with an **approved** status.
 
-<!--
-After obtaining approval, the **Technical admin** needs to configure products in the TechBiz portal.This configuration information is required by the product teams to provision resources for the agency's subscribed products.
+**Next steps**
 
-## Configure products
-
-To configure products, the **Technical admin** needs to:
-
-1. [Log in to the TechBiz portal.](log_in_to_TechBiz_portal.md)
-
-2. In the **Overview** page, click **View systems**.
-
-3. Click on the **approved** system.
-
-4. To configure a product, click **View and configure.**
-
-<kbd>![conf_1](/images/conf_1.png)</kbd>
-
-5. Enter the required resource details. For example, **User name,** **Email address,** and **Contact number.** This information is required by the product team to provision the resources.
-
-6. Click **Submit.** -->
+-   [Configure products](configure-products)
 
 
 
