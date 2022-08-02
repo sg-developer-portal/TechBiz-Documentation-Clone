@@ -40,7 +40,7 @@ In TechBiz, users receive notifications as follows:
 
 ### In the TechBiz portal
 
-  - When a user logs in to the TechBiz portal, a bell icon is displayed with a number indicating the tasks requiring user action. 
+  - When a user logs in to the TechBiz portal, a bell icon is displayed with a number which indicates the number of tasks requiring user action. 
 
 
 ## Complete tasks
@@ -53,7 +53,7 @@ To act on an alert, a user needs do as follows:
 1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
 2. Click on the bell icon.
-The list of notifications is displayed.
+The list of alert notifications is displayed.
 
 3. Click on a pending action item.
 
