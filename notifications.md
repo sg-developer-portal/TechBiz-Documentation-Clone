@@ -4,9 +4,9 @@ Notifications in TechBiz convey [information](#informational) to users and also 
 
 Click on each topic to know more:
 
-- Notification categories
-- Notification channels
-- Complete the pending tasks
+- [Notification categories](#notification-categories)
+- [Notification channels](#notification-channels)
+- [Complete tasks](#complete-tasks)
 
 ## Notification categories
 
@@ -43,4 +43,4 @@ In TechBiz, users receive notifications as follows:
   - When a user logs in to the TechBiz portal, a bell icon is displayed with a number indicating the tasks requiring user action. 
 
 
-## Complete the pending task
+## Complete tasks
