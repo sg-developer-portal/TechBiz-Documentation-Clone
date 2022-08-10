@@ -28,7 +28,7 @@ Remind users of tasks requiring their action. Some examples are:
 - Approver to approve or reject a system account creation request.
 - Requestor to provide product configuration details of an approved system.
 
-?>**Note:** Alert notifications are specific to a user role.
+?>**Note:** Alerts are specific to a user role.
 
 ## Notification channels
 
@@ -47,6 +47,7 @@ In TechBiz, users receive notifications as follows:
 
 **Prerequisites**
 
+- User has received an alert notification from TechBiz.
 
 To act on an alert, a user needs do as follows:
 
