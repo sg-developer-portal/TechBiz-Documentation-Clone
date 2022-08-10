@@ -30,7 +30,7 @@ To configure products, the administrator has to complete the following steps:
 
 >**Note:** Ensure that the system has an **approved** status.
 
-4. On the **Products** tab, click **View and configure**.
+4. <font size="+2">On the **Products** tab, click **View and configure**.</font>
 
 <kbd>![conf_1](/images/conf_1.png ':size=40%')</kbd>
 
