@@ -28,15 +28,11 @@ To configure products, the administrator has to complete the following steps:
 
 3. Click on the **System Name** for which you need to configure products.
 
-
 >**Note:** Ensure that the system has an **approved** status.
-
 
 4. On the **Products** tab, click **View and configure**.
 
-
 <kbd>![conf_1](/images/conf_1.png ':size=40%')</kbd>
-
 
 5. To enter the required configuration details, click **Edit**.
 
