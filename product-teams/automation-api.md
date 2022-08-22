@@ -2,6 +2,7 @@
 
 (Purpose)
 
+This API is meant for product teams to indicate in the TechBiz portal that resources have been provisioned for a subscribed product in the project.
 
 (Diagram showing the authentication api flow)
 
