@@ -1,22 +1,18 @@
 # Notifications
 
-Notifications in TechBiz convey information and alert users to tasks awaiting their action. Users can receive notifications through email and Techbiz portal.
+Notifications in TechBiz alert users to status updates and tasks awaiting their action. Users receive notifications by email and on the TechBiz portal.
 
->**Note:** Alert notifications are specific to a user role.
-
-
-## Accessing notifications on portal
+>**Note:** Alert notifications are specific to a user role. Example: The current role is set to user and the notification requires approval from an Approver. The user will be prompted to switch roles to approve.
 
 To view and act on a notification, a user needs do as follows:
 
 1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
-2. Click the bell icon.
-(image)
+2. Click the bell icon.(image)
 The list of alert notifications is displayed.
 
-3. Click **pending action item**.
+3. Click pending action items.(image)
 
-4. You will be directed to complete the action.
+You will be directed to complete the action.
 
 
