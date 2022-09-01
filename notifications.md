@@ -1,6 +1,6 @@
 # Notifications
 
-Notifications in TechBiz alert users to status updates and tasks awaiting their action. Users receive notifications by email and on the TechBiz portal.
+Notification in TechBiz alert users to status updates and tasks awaiting their action. Users receive notifications by email and on the TechBiz portal.
 
 >**Note:** Alert notifications are specific to a user role. Example: The current role is set to user and the notification requires approval from an Approver. The user will be prompted to switch roles to approve.
 
