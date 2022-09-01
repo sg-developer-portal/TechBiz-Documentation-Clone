@@ -4,8 +4,6 @@ Notification in TechBiz alert users to status updates and tasks awaiting their a
 
 >**Note:** Alert notifications are specific to a user role. Example: The current role is set to user and the notification requires approval from an Approver. The user will be prompted to switch roles to approve.
 
-To view and act on a notification, a user needs do as follows:
-
 1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
 2. Click the bell icon.(image)
