@@ -1,7 +1,6 @@
 # Notifications
 
-TechBiz notifies users about request status and tasks awaiting their action. Users receive notifications by email and on the TechBiz portal.
-
+TechBiz notifies users of their request status and tasks awaiting their action. Users receive notifications on the TechBiz portal and also by email. 
 
 1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
