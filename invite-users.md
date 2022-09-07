@@ -91,3 +91,14 @@ A success message with the user list is displayed.
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
 > - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
+### Invite user status
+
+1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
+
+2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
+
+3. Click **Invite user status**
+
+The list of users invited and their status will be shown.
+
+<img src="/images/invite_user_status.png" alt="drawing" width="55%"/>
