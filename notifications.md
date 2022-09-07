@@ -4,11 +4,11 @@ TechBiz notifies users of their request status and tasks awaiting their action. 
 
 1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
-2. Click <kbd>![bell](/images/bell.png)</kbd>
+2. Click <img src="images/bell.png" alt="drawing" width="5%"/> 
 
 
 3. Click the required pending task.
-<kbd>![notification](/images/notification_1.png)</kbd>
+<img src="images/notification_1.png" alt="drawing" width="50%"/> 
 
 4. If prompted to switch user role, you need to switch roles to complete task. 
 
