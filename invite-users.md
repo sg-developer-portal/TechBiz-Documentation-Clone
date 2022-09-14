@@ -13,7 +13,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 - Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
     - Organisation email address
-    - **First name** and **Last name**
+    - **first name** and **Last name**
     - **Contact number**
     - **Organisation**
     - **Department** (optional)
