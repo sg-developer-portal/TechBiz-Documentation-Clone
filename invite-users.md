@@ -1,10 +1,10 @@
 # Invite users
 
-Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of public officers and vendors.
+Public officers and vendors are required to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz enables public officers to send TechPass invites or create a TechPass account on behalf of public officers and vendors.
 
 ## Prerequisites
 
-- Only a public officer with a valid organisation email address can invite another public officer or vendor. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite another public officer or vendor using a [non-SE GSIB](glossary) device.
 
 - Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
@@ -91,7 +91,7 @@ A success message with the user list is displayed.
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
 > - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
-### Invite user status
+To view the list of users invited:
 
 1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
 
@@ -99,6 +99,6 @@ A success message with the user list is displayed.
 
 3. Click **Invite user status**
 
-The list of users invited and their status will be shown.
+The list of users invited and their status will be shown. Their TechPass and SEED status will be reflected on the list.
 
 <img src="/images/invite_user_status.png" alt="drawing" width="55%"/>
