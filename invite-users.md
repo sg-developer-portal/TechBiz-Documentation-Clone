@@ -1,16 +1,12 @@
 # Invite users
 
-<<<<<<< HEAD
-Public officers and vendors are required to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz enables public officers to send TechPass invites or create a TechPass account on behalf of public officers and vendors.
-=======
-Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
->>>>>>> 8e2fa15725f0f5e1cca12e22f9b1af7db5591459
+Public officers and vendors are required to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz enables public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
 
 ## Prerequisites
 
 - Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite another public officer or vendor using a [non-SE GSIB](glossary) device.
 
-- Have the following information ready before proceeding:
+- Have the following information ready:
   - Public officers and vendors who require a TechPass account
     - Organisation email address
     - **First name** and **Last name**
@@ -23,9 +19,9 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
 
-2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
+2.  In **Overview**, go to **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
 
-3.  Select the required **invitation type**, enter the required details and click **Submit**.
+3.  Select the required **invitation type**, enter the required details and  **Submit**.
 
 | <div style="width:270px">Invitation type</div>  | When to use |
 | :------------------------------------------ |:-------------|
@@ -81,7 +77,7 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When an invitation type is not successful, you will receive an error notification during submission. You need to do as follows:
+>When an invitation is not successful, you will receive an error notification during submission. You need to do the following:
 >
 >- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
 >    - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID.
