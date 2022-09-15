@@ -8,7 +8,9 @@ TechBiz notifies users of their request status and tasks awaiting their action. 
 
 
 3. Click the required pending task.
-<img src="images/notification_2.png" alt="drawing" width="55%"/> 
+<img src="images/notifnew.png" alt="drawing" width="55%"/> 
+
+Red dot refers to unread notifications
 
 4. If prompted to switch user role, you need to switch roles to complete task. 
 
