@@ -4,7 +4,7 @@ Public officers and vendors are required to have a [TechPass](https://www.develo
 
 ## Pre-requisites
 
-- Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite another public officer or vendor using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite another officer or vendor using a [non-SE GSIB](glossary) device.
 
 - Have the following information ready:
   - Public officers and vendors who require a TechPass account
@@ -55,13 +55,13 @@ Specify the TechPass account details.
 
 ### Batch upload
 
-1. Click **Download excel template link**.
+1. Go to **Download excel template link**.
 
-2. Click **Download Original**.
+2. Go to **Download Original**.
 
 3. Open the downloaded xlsx file, specify the required details and save the file.
 
-4. In **Upload user list** section, click **Choose a file**.
+4. In **Upload user list** section, select **Choose a file**.
 
 5. Select the saved file and upload it.
 A success message with the user list is displayed.
@@ -77,7 +77,7 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When an invitation is not successful, you will receive an error notification during submission. You need to do the following:
+>When an invitation is unuccessful, you will receive an error notification during submission. You need to do the following:
 >
 >- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
 >    - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID.
@@ -95,9 +95,9 @@ To view list of users invited:
 
 1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
 
-2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
+2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
 
-3. Click **Invite user status**
+3. Go to **Invite user status**
 
 The list of users invited and their status will be shown. Their TechPass and SEED status will be reflected on the list.
 
