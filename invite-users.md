@@ -103,7 +103,7 @@ To view the status of invited users:
 
 3. Go to **Invite user status**.
 
-The page will indicate "No record found" when no users are invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
+The page will indicate "No record found" when no users have been invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
 
 <img src="images/invite_user_status.png" alt="drawing" width="100%"/>
 
