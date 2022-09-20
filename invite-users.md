@@ -91,19 +91,21 @@ A success message with the user list is displayed.
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
 > - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
-You can view the list of users you have invited and their status.
+## View status of invited users
 
-To view the list of invited users:
+Public officers can view the status of the users they have invited using TechBiz portal. The Invite User status displays the TechPass and SEED onboarding status of the invited users.
+
+To view the status of invited users:
 
 1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
 
-2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
+2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite users**.
 
 3. Go to **Invite user status**.
 
-The list of users invited and their status will be shown. Their TechPass account and SEED onboarding status will be displayed on the list.
+The page will indicate "No record found" when no users are invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
 
-<img src="images/invite_user_status.png" alt="drawing" width= "100%"/>
+<img src="images/invite_user_status.png" alt="drawing" width="35%"/>
 
 > - Only users invited by TechBiz portal will be displayed on the list.
 > - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
