@@ -105,7 +105,7 @@ To view the status of invited users:
 
 The page will indicate "No record found" when no users are invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
 
-<img src="images/invite_user_status.png" alt="drawing" width="35%"/>
+<img src="images/invite_user_status.png" alt="drawing" width="100%"/>
 
 > - Only users invited by TechBiz portal will be displayed on the list.
 > - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
