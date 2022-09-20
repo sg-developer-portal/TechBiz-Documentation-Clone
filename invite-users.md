@@ -1,12 +1,12 @@
 # Invite users
 
-Public officers and vendors are required to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz enables public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
+Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
 
-## Pre-requisites
+## Prerequisites
 
-- Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite another officer or vendor using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite other public officers or vendors using a [non-SE GSIB](glossary) device.
 
-- Have the following information ready:
+- Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
     - Organisation email address
     - **First name** and **Last name**
@@ -19,9 +19,9 @@ Public officers and vendors are required to have a [TechPass](https://www.develo
 
 1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
 
-2.  In **Overview**, go to **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
+2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
 
-3.  Select the required **invitation type**, enter the required details and  **Submit**.
+3.  Select the required **invitation type**, enter the required details and click **Submit**.
 
 | <div style="width:270px">Invitation type</div>  | When to use |
 | :------------------------------------------ |:-------------|
@@ -55,9 +55,9 @@ Specify the TechPass account details.
 
 ### Batch upload
 
-1. Go to **Download excel template link**.
+1. Click **Download excel template link**.
 
-2. Go to **Download Original**.
+2. Select **Download Original**.
 
 3. Open the downloaded xlsx file, specify the required details and save the file.
 
@@ -91,16 +91,18 @@ A success message with the user list is displayed.
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
 > - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
-To view list of users invited:
+You can view the list of users you have invited and their status.
 
-1.  [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
+To view the list of invited users:
 
-2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
+1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
+
+2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
 
 3. Go to **Invite user status**
 
-The list of users invited and their status will be shown. Their TechPass and SEED status will be reflected on the list.
+The list of users invited and their status will be shown. Their TechPass account and SEED licencing status will be displayed on the list.
 
 <img src="/images/invite_user_status.png" alt="drawing" width="55%"/>
 
-First name and last name is reflected when user has signed up for TechPass.
+First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
