@@ -103,7 +103,7 @@ To view the list of invited users:
 
 The list of users invited and their status will be shown. Their TechPass account and SEED onboarding status will be displayed on the list.
 
-<img src="images/invite_user_status.png" alt="drawing" width= "55%"/>
+<img src="images/invite_user_status.png" alt="drawing" width= "100%"/>
 
 > - Only users invited by TechBiz portal will be displayed on the list.
 > - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
