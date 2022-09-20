@@ -42,7 +42,7 @@ By default, the public officer who requests for a system account will be the **P
 
 3. Click **Create system**.
 
-<kbd>![create_system](/images/create_system.png)</kbd>
+<kbd>![create_system](/images/create_system_new.png)</kbd>
 
 4. Ensure you have the [required](#prerequisites) information, before clicking **Next**.
 
@@ -189,7 +189,7 @@ When a public officer submits a [request to create a system account,](#request-f
 
 7. Click **Approve** or **Reject**.
 
-<kbd>![approv_2](/images/approv_3.png)</kbd>
+<kbd>![approv_2](/images/approv_3_new.png)</kbd>
 
 The requestor receives the outcome of the approval request in an email. **Subscription admins**, **Technical admin**, and **Billing admin** will also be notified. If the request is approved, the system is listed on the **Systems** page with an **approved** status.
 
