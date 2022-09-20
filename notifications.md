@@ -6,7 +6,7 @@ TechBiz notifies users of their request status and tasks awaiting their action. 
 
 2. Click <img src="images/bell_1.png" alt="drawing" width="4%"/> 
 
-<img src="images/notifnew.png" alt="drawing" width="45%"/> 
+<img src="images/notifnew.png" alt="drawing" width="40%"/> 
 
 3. Click the required pending task.
 
