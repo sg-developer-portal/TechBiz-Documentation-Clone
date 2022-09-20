@@ -99,10 +99,11 @@ To view the list of invited users:
 
 2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
 
-3. Go to **Invite user status**
+3. Go to **Invite user status**.
 
-The list of users invited and their status will be shown. Their TechPass account and SEED licencing status will be displayed on the list.
+The list of users invited and their status will be shown. Their TechPass account and SEED onboarding status will be displayed on the list.
 
-<img src="/images/invite_user_status.png" alt="drawing" width="55%"/>
+<img src="/images/invite_user_status.png" alt="drawing" width="45%"/>
 
-First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
+> - Only users invited by TechBiz portal will be displayed on the list.
+> - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).

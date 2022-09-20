@@ -10,7 +10,7 @@ TechBiz notifies users of their request status and tasks awaiting their action. 
 
 3. Click the required pending task.
 
-?> Red dot refers to unread notifications
+> Unread notifications are indicated with a red dot.
 
 4. If prompted to switch user role, you need to switch roles to complete the task. 
 
