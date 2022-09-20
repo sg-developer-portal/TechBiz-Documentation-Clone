@@ -1,10 +1,10 @@
 # Invite users
 
-Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of public officers and vendors.
+Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
 
 ## Prerequisites
 
-- Only a public officer with a valid organisation email address can invite another public officer or vendor. For example, *your_name@agency.gov.sg* using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite other public officers or vendors using a [non-SE GSIB](glossary) device.
 
 - Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
@@ -57,11 +57,11 @@ Specify the TechPass account details.
 
 1. Click **Download excel template link**.
 
-2. Click **Download Original**.
+2. Select **Download Original**.
 
 3. Open the downloaded xlsx file, specify the required details and save the file.
 
-4. In **Upload user list** section, click **Choose a file**.
+4. In **Upload user list** section, select **Choose a file**.
 
 5. Select the saved file and upload it.
 A success message with the user list is displayed.
@@ -77,7 +77,7 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When an invitation type is not successful, you will receive an error notification during submission. You need to do as follows:
+>When an invitation is unuccessful, you will receive an error notification during submission. You need to do the following:
 >
 >- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
 >    - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID.
@@ -91,3 +91,19 @@ A success message with the user list is displayed.
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
 > - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
+You can view the list of users you have invited and their status.
+
+To view the list of invited users:
+
+1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
+
+2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, go to **Invite Users**.
+
+3. Go to **Invite user status**.
+
+The list of users invited and their status will be shown. Their TechPass account and SEED onboarding status will be displayed on the list.
+
+<img src="/images/invite_user_status.png" alt="drawing" width="45%"/>
+
+> - Only users invited by TechBiz portal will be displayed on the list.
+> - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
