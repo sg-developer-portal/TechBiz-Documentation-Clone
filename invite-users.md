@@ -68,8 +68,8 @@ A success message with the user list is displayed.
 
 > Usernames must meet the following prerequisites:
 > - Start and end with alphanumeric characters.
-> - Username can contain alphanumeric characters, ‘_’, ’ ‘, ‘-‘, or ‘.’. 
-> - Two consecutive '.' is not alloweed.
+> - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
+> - Two consecutive '.' is not allowed.
 
 <kbd>![approv_2](/images/batch_upload_3.png)</kbd>
 
