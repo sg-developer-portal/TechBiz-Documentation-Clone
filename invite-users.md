@@ -67,8 +67,9 @@ Specify the TechPass account details.
 A success message with the user list is displayed.
 
 > Usernames must meet the following prerequisites:
-> - Start and end with alphanumeric characters
-> - Contains only alphanumeric characters, dash. , underscore (_) and period (.). No two consecutive periods is allowed.
+> - Start and end with alphanumeric characters.
+> - Username can contain alphanumeric characters, ‘_’, ’ ‘, ‘-‘, or ‘.’. 
+> - Two consecutive '.' is not alloweed.
 
 <kbd>![approv_2](/images/batch_upload_3.png)</kbd>
 
