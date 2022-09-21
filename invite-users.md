@@ -66,6 +66,10 @@ Specify the TechPass account details.
 5. Select the saved file and upload it.
 A success message with the user list is displayed.
 
+> Usernames must meet the following prerequisites:
+> - Start and end with alphanumeric characters
+> - Contains only alphanumeric characters, dash. , underscore (_) and period (.). No two consecutive periods is allowed.
+
 <kbd>![approv_2](/images/batch_upload_3.png)</kbd>
 
   - To view or edit user details, click the ellipsis on the row and click **View details**.
@@ -77,7 +81,7 @@ A success message with the user list is displayed.
 
 >**Notes:**
 >
->When an invitation is unuccessful, you will receive an error notification during submission. You need to do the following:
+>When an invitation is unsuccessful, you will receive an error notification during submission. You need to do the following:
 >
 >- To troubleshoot [email invitation](#email-invitation) or [create account](#create-account) issues:
 >    - Raise a service request by clicking on the support email link provided in the error notification and attach the Trace ID.
@@ -87,7 +91,7 @@ A success message with the user list is displayed.
 >    3. Amend the required details and click **Save**.
 >    4. Click **Submit**.
 
-> Existing TechPass users can also request for SEED provisioning.
+> Existing TechPass users can also request for [SEED provisioning](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
 > - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
 > - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
