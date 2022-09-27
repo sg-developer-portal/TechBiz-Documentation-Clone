@@ -2,9 +2,13 @@
 
 Public officers and vendors need to have a [TechPass](https://www.developer.tech.gov.sg/products/categories/digital-identity/techpass/overview.html) account to access [Singapore Government Tech Stack(SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html) products. TechBiz allows public officers to send TechPass invites to other public officers or create a TechPass account on behalf of other public officers and vendors.
 
+>**Notes:**
+>
+> - Public officers and vendors can also use the [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) 
+
 ## Prerequisites
 
-- Public officers with a valid organisation email address such as  *your_name@agency.gov.sg* can invite other public officers or vendors using a [non-SE GSIB](glossary) device.
+- Public officers with a valid organisation email address such as *your_name@agency.gov.sg* can invite other public officers or vendors using a [non-SE GSIB](glossary) device.
 
 - Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
@@ -53,8 +57,6 @@ Specify the TechPass account details.
 
 <kbd>![create_account](/images/create_acct.png)</kbd>
 
->**Notes:**
-> - Public officers using a non-SE GSIB device and whose organisational email address is in the format of <your_name>@<acronym for your agency>.gov.sg or vendors and contractors using a non-SE GSIB device and whose organisational email address is in the format of <your_name_from>.<vendor organisation name>@<acronym for the agency>.gov.sg. can use the [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-public-officers-using-non-se-machines)
 ### Batch upload
 
 1. Click **Download excel template link**.
