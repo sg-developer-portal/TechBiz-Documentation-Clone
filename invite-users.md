@@ -34,7 +34,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
 | **Email address**| Enter the organisation email address of the public officer who requires a TechPass account.
-| **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
+| **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
 <kbd>![email_invite](/images/email_invite.png ':size=70%')</kbd>
@@ -48,7 +48,7 @@ Specify the TechPass account details.
 | **Email address**| Enter the organisation email address of the public officer or vendor who requires a TechPass account.
 | **TechPass username** | This field is required if you are requesting TechPass account for a vendor. Enter the required username for the TechPass account.
 | **First name,** **Last name,** **Contact number,** **Organisation, and Department**| Enter the required details.<br />Note: **Department** is optional.
-| **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS services or products from the Internet device.
+| **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
 
 <kbd>![create_account](/images/create_acct.png)</kbd>
@@ -112,5 +112,6 @@ The page will indicate "No record found" when no users have been invited. If you
 
 <img src="images/invite_user_status.png" alt="drawing" width="100%"/>
 
+>**Notes:**
 > - Only users invited by TechBiz portal will be displayed on the list.
 > - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
