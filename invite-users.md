@@ -4,7 +4,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 >**Notes:**
 
-> - Public officers and vendors can also use the [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) 
+> - Public officers and vendors can also use [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) 
 
 ## Prerequisites
 
