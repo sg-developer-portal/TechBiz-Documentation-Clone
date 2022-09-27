@@ -11,8 +11,8 @@ TechBiz notifies users of their request status and tasks awaiting their action. 
 3. Click the required pending task.
 
 >**Notes:**
-> Unread notifications are indicated with a red dot.
-> Users can mark all notifications as read when *Mark all as read* is selected.
+> - Unread notifications are indicated with a red dot.
+> - Users can mark all notifications as read when *Mark all as read* is selected.
 
 4. If prompted to switch user role, you need to switch roles to complete the task. 
 
