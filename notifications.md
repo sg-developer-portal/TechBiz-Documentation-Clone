@@ -4,7 +4,7 @@ TechBiz notifies users of their request status and tasks awaiting their action. 
 
 1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
-2. Click <img src="images/bell_1.png" alt="drawing" width="4%"/> 
+2. Click <img src="images/bell_1.png" alt="drawing" width="4%"/> .
 
 <img src="images/notifnew.png" alt="drawing" width="40%"/> 
 
