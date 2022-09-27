@@ -66,6 +66,7 @@ Specify the TechPass account details.
 5. Select the saved file and upload it.
 A success message with the user list is displayed.
 
+> **Notes:**
 > Usernames must meet the following prerequisites:
 > - Start and end with alphanumeric characters.
 > - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
