@@ -53,6 +53,8 @@ Specify the TechPass account details.
 
 <kbd>![create_account](/images/create_acct.png)</kbd>
 
+>**Notes:**
+> - Public officers using a non-SE GSIB device and whose organisational email address is in the format of <your_name>@<acronym for your agency>.gov.sg or vendors and contractors using a non-SE GSIB device and whose organisational email address is in the format of <your_name_from>.<vendor organisation name>@<acronym for the agency>.gov.sg. can use the [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-public-officers-using-non-se-machines)
 ### Batch upload
 
 1. Click **Download excel template link**.
