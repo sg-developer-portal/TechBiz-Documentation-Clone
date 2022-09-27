@@ -1,18 +1,29 @@
 # Notifications
 
-TechBiz notifies users of their request status and tasks awaiting their action. Users receive notifications on the TechBiz portal and also by email. 
+TechBiz notifies users of their request status and tasks awaiting their action. Users will receive notifications on the TechBiz portal and also by email. 
 
 1. [Log in to TechBiz portal](log-in-to-TechBiz-portal) using your non-SE GSIB.
 
-2. Click <img src="images/bell_1.png" alt="drawing" width="4%"/> .
-
-<img src="images/notifnew.png" alt="drawing" width="40%"/> 
+2. Click **Notifioation**.
+<kbd>
+<img src="images/bell-icon-new.png" alt="drawing" width="40%"/> .
+</kbd>
 
 3. Click the required pending task.
 
-> Unread notifications are indicated with a red dot.
+<kbd>
+<img src="images/notifnew.png" alt="drawing" width="40%"/> 
+</kbd>
 
-4. If prompted to switch user role, you need to switch roles to complete the task. 
+>**Notes:**
+> - A red dot beside notification indicates it is unread
+> - Click **Mark all as read** to mark all the notifications as read.
+
+4. If prompted to switch user role, click **Confirm** to switch.
+
+<kbd>
+<img src="images/role-change.png" alt="drawing" width="50%"/> 
+</kbd>
 
 5. Proceed to complete the task.
 
