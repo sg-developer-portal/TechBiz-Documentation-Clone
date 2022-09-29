@@ -28,15 +28,15 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 | <div style="width:270px">Invitation type</div>  | When to use |
 | :------------------------------------------ |:-------------|
-| [Email invitation](#email-invitation)| Select this to create a TechPass account for the following users:<br> - Public officers using a non-SE GSIB device and whose organisational email  address is in the format of \<your_name>@\<acronym for your agency>.gov.sg.<br> - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of \<your_name_from>.\<vendor organisation name>@\<acronym for the agency>.gov.sg.
-| [Create account](#create-account) | To create a TechPass account on behalf of a public officer or a vendor.
+| [Email invitation](#email-invitation)| Select this to create a TechPass account for the following users:<br> - Public officers using a non-SE GSIB device and whose organisational email address is in the format of \<your_name>@\<acronym for your agency>.gov.sg.<br> - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of \<your_name_from>.\<vendor organisation name>@\<acronym for the agency>.gov.sg.
+| [Create account](#create-account) | Select this to create a TechPass account for a vendor who does not have a non-SE GSIB device.
 | [Batch upload](#batch-upload)| Select this to create TechPass accounts for more than one public officer and vendor. |
 
 ### Email invitation
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
-| **Email address**| Enter the organisation email address of the public officer who requires a TechPass account.
+| **Email address**| Enter the organisation email address of the public officer who requires a TechPass account. Email address must be in the format of \<your_name>@\<acronym for your agency>.gov.sg. for public officers and  \<your_name_from>.\<vendor organisation name>@\<acronym for the agency>.gov.sg. for vendors. <br>
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
