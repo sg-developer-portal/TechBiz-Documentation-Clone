@@ -7,7 +7,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 ## Prerequisites
 
-- Public officers with a valid organisation email address such as *your_name@agency.gov.sg* can invite other public officers or vendors using a [non-SE GSIB](glossary) device.
+- Public officers using a [non-SE GSIB](glossary) devicewith a valid organisation email address such as <your_name>@<acronym for your agency>.gov.sg. can invite other public officers or vendors.
 
 - Have the following information ready before proceeding:
   - Public officers and vendors who require a TechPass account
