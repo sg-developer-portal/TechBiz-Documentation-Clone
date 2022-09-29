@@ -10,7 +10,7 @@ Government standard image build (GSIB) is a standard operating environment (SOE)
 
 **Non-SE GSIB**
 
-A non-secured email (SE) GSIB device. To log in to the device, users need to enter a BitLocker PIN.
+A non-secured email (SE) GSIB device.
 
 **System account**
 
