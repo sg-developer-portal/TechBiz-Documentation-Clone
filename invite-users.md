@@ -40,7 +40,7 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
-<kbd>![email_invite](/images/email_invite.png ':size=70%')</kbd>
+<kbd>![email_invite](/images/email_invite.png ':size=100%')</kbd>
 
 ### Create account
 
@@ -54,7 +54,7 @@ Specify the TechPass account details.
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
 
-<kbd>![create_account](/images/create_acct.png)</kbd>
+<kbd>![create_account](/images/create_acct.png ':size=100%')</kbd>
 
 ### Batch upload
 
@@ -76,7 +76,7 @@ A success message with the user list is displayed.
 > - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
 > - Two consecutive '.' is not allowed.
 
-<kbd>![approv_2](/images/batch_upload_3.png)</kbd>
+<kbd>![approv_2](/images/batch_upload_3.png  ':size=100%')</kbd>
 
   - To view or edit user details, click the ellipsis on the row and click **View details**.
 
@@ -115,7 +115,7 @@ To view the status of invited users:
 
 The page will indicate "No record found" when no users have been invited. If you have invited users using TechBiz, their TechPass and SEED onboarding status will be displayed.
 
-<img src="images/invite_user_status.png" alt="drawing" width="100%"/>
+<kbd><img src="images/invite_user_status.png" alt="drawing" width="100%"/></kbd>
 
 >**Notes:**
 > - Only users invited by TechBiz portal will be displayed on the list.
