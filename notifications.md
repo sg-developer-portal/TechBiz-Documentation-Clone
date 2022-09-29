@@ -16,7 +16,7 @@ TechBiz notifies users of their request status and tasks awaiting their action. 
 </kbd>
 
 >**Notes:**
-> - A red dot beside notification indicates it is unread
+> - A red dot beside notification indicates it is unread.
 > - Click **Mark all as read** to mark all the notifications as read.
 
 4. If prompted to switch user role, click **Confirm** to switch.
