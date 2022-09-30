@@ -4,6 +4,8 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 >**Notes:**
 > - Public officers and vendors using a [non-SE GSIB](glossary) device can also use [TechPass Portal](http://portal.techpass.gov.sg/) to do a self-service sign-up for a TechPass account. For more information, refer to [TechPass documentation.](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/) 
+ Existing TechPass users can also request for [SEED provisioning](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
+> - SEED provisioning is needed to access SGTS products from the Internet device. If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions. If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
 ## Prerequisites
 
@@ -24,15 +26,40 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 
 2.  In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
 
-3.  Select the required **invitation type**, enter the required details and click **Submit**.
+3.  Select the invitation type.
+
+There are 3 different invitation types:
 
 | <div style="width:270px">Invitation type</div>  | When to use |
 | :------------------------------------------ |:-------------|
-| [Email invitation](#email-invitation)| Select this to create a TechPass account for the following users:<br> - Public officers using a non-SE GSIB device and whose organisational email address is in the format of \<your_name>@\<acronym for your agency>.gov.sg.<br> - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of \<your_name_from>.\<vendor organisation name>@\<acronym for the agency>.gov.sg.
-| [Create account](#create-account) | Select this to create a TechPass account for a vendor who does not have a non-SE GSIB device.
-| [Batch upload](#batch-upload)| Select this to create TechPass accounts for more than one public officer and vendor. |
+| Email invitation| Select this to create a TechPass account for the following users:<br> - Public officers using a non-SE GSIB device and whose organisational email address is in the format of \<your_name>@\<acronym for your agency>.gov.sg.<br> - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of \<your_name_from>.\<vendor organisation name>@\<acronym for the agency>.gov.sg.
+| Create account | Select this to create a TechPass account for a vendor who does not have a non-SE GSIB device.
+| Batch upload | Select this to create TechPass accounts for more than one public officer and vendor. |
+
+4.  Select the required **invitation type**, enter the required details and click **Submit**.
+
+For more information on each type of invitation, refer to the following:
+
+* [Email invitation](#email-invitation)
+* [Create account](#create-account)
+* [Batch upload](#batch-upload)
+
 
 ### Email invitation
+
+1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
+
+2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
+
+3. Click **Email invitation**.
+
+ <kbd>![email_invite](/images/invitation-email.png ':size=100%')</kbd>
+
+4. Enter the required details and click **Submit**.
+
+ <kbd>![email_invite](/images/email_invite2.png ':size=100%')</kbd>
+
+Refer to the following for more information on the required details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
@@ -40,11 +67,21 @@ Public officers and vendors need to have a [TechPass](https://www.developer.tech
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer needs a TechPass account.
 
-<kbd>![email_invite](/images/email_invite.png ':size=100%')</kbd>
-
 ### Create account
 
-Specify the TechPass account details.
+1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
+
+2. In **Overview**, click **Invite users**. Alternatively, from the left sidebar, click **Invite Users**.
+
+3. Click **Create account**.
+
+ <kbd>![create_acct](/images/create-account.png ':size=100%')</kbd>
+
+4. Enter the required details and click **Submit**.
+
+ <kbd>![create_account](/images/create_acct2.png ':size=100%')</kbd>
+
+Refer to the following for more information on the required details.
 
 | <div style="width:270px">Field Name</div>  | Description |
 | :------------------------------------------ |:-------------|
@@ -54,35 +91,39 @@ Specify the TechPass account details.
 | **Is onboarding to [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) required?** | Indicate **Yes** if the public officer or vendor needs SEED provisioning.<br />Note: SEED provisioning is needed to access SGTS products from the Internet device.
 | **Reason** | Enter the **Reason** why the public officer or vendor needs a TechPass account.
 
-<kbd>![create_account](/images/create_acct.png ':size=100%')</kbd>
-
 ### Batch upload
 
 1. Click **Download excel template link**.
 
-2. Select **Download Original**.
+  <kbd>![downloadtemplate](/images/download-template.png ':size=100%')</kbd>
 
-3. Open the downloaded xlsx file, specify the required details and save the file.
+2. Open the downloaded xlsx file, specify the required details and save the file.
 
 4. In **Upload user list** section, select **Choose a file**.
 
 5. Select the saved file and upload it.
-A success message with the user list is displayed.
 
 > **Notes:**
 >
-> Usernames must meet the following prerequisites:
+> Usernames should contain the following:
 > - Start and end with alphanumeric characters.
 > - Username can contain alphanumeric characters, '_', ’ ‘, '-', or '.'. 
 > - Two consecutive '.' is not allowed.
 
-<kbd>![approv_2](/images/batch_upload_3.png  ':size=100%')</kbd>
+6. Click **Submit**.
+
+ <kbd>![submit](/images/batch-upload-submit.png ':size=100%')</kbd>
 
   - To view or edit user details, click the ellipsis on the row and click **View details**.
 
+ <kbd>![view-details](/images/view-details.png ':size=100%')</kbd>
+
   - To delete a single user, click **Remove**.
 
+  <kbd>![delete](/images/remove-user.png ':size=100%')</kbd>
+
   - To delete all users, click **Reset**. To confirm reset, click **Confirm**.
+  <kbd>![remove](/images/reset.png ':size=100%')</kbd>
 
 
 >**Notes:**
@@ -97,15 +138,12 @@ A success message with the user list is displayed.
 >    3. Amend the required details and click **Save**.
 >    4. Click **Submit**.
 
-> Existing TechPass users can also request for [SEED provisioning](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/).
-> - If you are a public officer, click [Onboard to SEED](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-to-seed) and follow the on-screen instructions.
-> - If you are a vendor, raise a [service request](https://go.gov.sg/techpass-sr) in the TechPass service desk.
 
 ## View status of invited users
 
 Public officers can view the status of the users they have invited using TechBiz portal. The Invite User status displays the TechPass and SEED onboarding status of the invited users.
 
-To view the status of invited users:
+### To view the status of invited users:
 
 1. [Log in to TechBiz portal.](log-in-to-TechBiz-portal.md)
 
@@ -120,3 +158,5 @@ The page will indicate "No record found" when no users have been invited. If you
 >**Notes:**
 > - Only users invited by TechBiz portal will be displayed on the list.
 > - First name and last name is displayed when user has signed up for TechPass or when the account is created through [create account](#create-account) or [batch upload](#batch-upload).
+
+
